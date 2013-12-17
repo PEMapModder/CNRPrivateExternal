@@ -1,4 +1,0 @@
----
-default-generator: SuperflatGenerator
-autogenerate: false
-autoload: [ ]
