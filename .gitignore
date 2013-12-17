@@ -4,3 +4,9 @@ plugins/SimpleAuth/*
 players/*
 *.log
 plugins/bin/*
+server.properties
+plugins/PermissionPlus/*
+plugins/SimpleAuth.php
+plugins/SimpleWorlds.php
+UrbanDict.php
+plugins/CNR Mapping Plugin/*
