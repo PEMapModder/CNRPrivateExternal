@@ -1,0 +1,114 @@
+---
+notice: true
+autoop: false
+cmd-whitelist: true
+player: [ ]
+permission:
+  GUEST: true
+  TRUST: true
+  ADMIN: true
+subcmd:
+  ADMIN: [ ]
+  TRUST: [ ]
+  GUEST: [ ]
+command:
+  ADMIN:
+    ban: true
+    banip: true
+    defaultgamemode: true
+    deop: true
+    difficulty: true
+    gamemode: true
+    give: true
+    help: true
+    kick: true
+    kill: true
+    list: true
+    me: true
+    op: true
+    ping: true
+    save-all: true
+    save-off: true
+    save-on: true
+    say: true
+    seed: true
+    spawn: true
+    spawnpoint: true
+    status: true
+    stop: true
+    sudo: true
+    tell: true
+    time: true
+    tp: true
+    whitelist: true
+    ppplayer: true
+    ppcommand: true
+    ppconfig: true
+    noexplosion: true
+  TRUST:
+    ban: false
+    banip: false
+    defaultgamemode: false
+    deop: true
+    difficulty: false
+    gamemode: false
+    give: true
+    help: true
+    kick: true
+    kill: false
+    list: true
+    me: true
+    op: true
+    ping: true
+    save-all: false
+    save-off: false
+    save-on: false
+    say: true
+    seed: true
+    spawn: true
+    spawnpoint: true
+    status: true
+    stop: false
+    sudo: false
+    tell: true
+    time: true
+    tp: true
+    whitelist: false
+    ppplayer: false
+    ppcommand: false
+    ppconfig: false
+    noexplosion: false
+  GUEST:
+    ban: false
+    banip: false
+    defaultgamemode: false
+    deop: false
+    difficulty: false
+    gamemode: false
+    give: false
+    help: false
+    kick: false
+    kill: false
+    list: true
+    me: false
+    op: false
+    ping: false
+    save-all: false
+    save-off: false
+    save-on: false
+    say: false
+    seed: false
+    spawn: false
+    spawnpoint: false
+    status: false
+    stop: false
+    sudo: false
+    tell: false
+    time: false
+    tp: false
+    whitelist: false
+    ppplayer: false
+    ppcommand: false
+    ppconfig: false
+    noexplosion: false
+version: 1.0.9

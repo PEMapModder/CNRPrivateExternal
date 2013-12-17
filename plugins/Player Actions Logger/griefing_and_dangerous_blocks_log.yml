@@ -1,0 +1,11 @@
+---
+Default log includes:
+  - bedrock
+  - lava
+  - bed
+  - cobweb
+  - TNT
+  - fire
+  - water
+breaks: [ ]
+places: [ ]

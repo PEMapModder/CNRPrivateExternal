@@ -1,0 +1,21 @@
+---
+Default log includes:
+  - stone
+  - grass
+  - dirt
+  - cobble
+  - all woods and saplings
+  - sand
+  - gravel
+  - flowers
+  - shrub and tall grass
+  - torch
+  - furnace
+  - signs
+  - ladder
+  - snow
+  - ice
+  - crafting table
+  - stone cutter
+breaks: [ ]
+places: [ ]

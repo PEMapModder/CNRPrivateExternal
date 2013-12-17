@@ -1,0 +1,8 @@
+---
+allowChat: false
+messageInterval: 5
+timeout: 60
+allowRegister: true
+forceSingleSession: true
+minPasswordLength: 4
+authenticateByLastIP: true

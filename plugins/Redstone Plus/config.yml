@@ -1,0 +1,10 @@
+---
+RedstoneWire: 87
+RedstoneRepeater: 53
+Lever: 85
+StickyPiston: 112
+RedstoneOre_Drop_MaxNumber: 5
+RedstoneOre_Drop_MinNumber: 1
+StickyPiston_Enabled: true
+Dispenser_Enabled: true
+Repeater_Enabled: true

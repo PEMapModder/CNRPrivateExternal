@@ -1,0 +1,12 @@
+---
+Default log includes:
+  - all ores and their compressed blocks
+  - mushrooms and crops
+  - bookshelf
+  - obsidian
+  - cactus
+  - clay
+  - sugar cane
+  - nether-related blocks
+breaks: [ ]
+places: [ ]
