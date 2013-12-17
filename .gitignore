@@ -8,5 +8,5 @@ server.properties
 plugins/PermissionPlus/*
 plugins/SimpleAuth.php
 plugins/SimpleWorlds.php
-UrbanDict.php
+*UrbanDict.php
 plugins/CNR Mapping Plugin/*
