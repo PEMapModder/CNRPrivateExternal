@@ -1,1 +1,5 @@
 worlds/*
+bin/*
+plugins/SimpleAuth/*
+players/*
+*.log
