@@ -3,3 +3,4 @@ bin/*
 plugins/SimpleAuth/*
 players/*
 *.log
+plugins/bin/*
