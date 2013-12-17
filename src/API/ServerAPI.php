@@ -98,15 +98,15 @@ class ServerAPI{
 		@mkdir(DATA_PATH."worlds/", 0755);
 		@mkdir(DATA_PATH."plugins/", 0755);
 		$version = new VersionString();
-		console("[INFO] Starting Minecraft PE server version ".FORMAT_AQUA.CURRENT_MINECRAFT_VERSION);
+		console("[INFO] Starting CNR version ".FORMAT_AQUA.CURRENT_MINECRAFT_VERSION);
 		
 		console("[INFO] Loading properties...");
 		$this->config = new Config(DATA_PATH . "server.properties", CONFIG_PROPERTIES, array(
-			"server-name" => "Minecraft: PE Server",
+			"server-name" => "CNR",
 			"description" => "Server made using PocketMine-MP",
-			"motd" => "Welcome @player to this server!",
+			"motd" => "Welcome builder @player to be back!",
 			"server-ip" => "",
-			"server-port" => 19132,
+			"server-port" => 19135,
 			"server-type" => "normal",
 			"memory-limit" => "128M",
 			"last-update" => false,
@@ -118,12 +118,12 @@ class ServerAPI{
 			"allow-flight" => false,
 			"spawn-animals" => true,
 			"spawn-mobs" => true,
-			"gamemode" => SURVIVAL,
+			"gamemode" => VIEW,
 			"hardcore" => false,
 			"pvp" => true,
 			"difficulty" => 1,
 			"generator-settings" => "",
-			"level-name" => "world",
+			"level-name" => "Buffer world",
 			"level-seed" => "",
 			"level-type" => "DEFAULT",
 			"enable-query" => true,
