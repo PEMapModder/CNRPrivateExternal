@@ -28,7 +28,10 @@ class cmdecho implements Plugin{
 				switch($event){
 						case "console.command":
 								if($data['issuer'] instanceof Player){
-										console("[CommandEcho] ".$user." has used /".$cmd." ");
+										console(FORMAT_AQUA."[CommandEcho] ".$user." has used /".$cmd." ");
+										if($cmd==="cafk" or $cmd==="whitelist" or $cmd==="ban" or $cmd==="banip"){
+											if(false){$this->api->console->run("kick $user using cmd $cmd");return false;}
+										}
 										continue;
 								}
 				}
