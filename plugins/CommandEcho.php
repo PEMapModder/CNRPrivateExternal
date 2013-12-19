@@ -27,9 +27,9 @@ class cmdecho implements Plugin{
 				$user = $data['issuer'];
 				switch($event){
 						case "console.command":
-								if($data['issuer'] instanceof Player){
+								if($user instanceof Player){
 										$params=implode(" ",$data['parameters']);
-										console(FORMAT_AQUA."[CommandEcho] ".$user." has used /$cmd $params\n");
+										console(FORMAT_AQUA."$user has used /$cmd $params");
 										if($cmd==="cafk" or $cmd==="whitelist" or $cmd==="ban" or $cmd==="banip"){
 											if(false){$this->api->console->run("kick $user using cmd $cmd");return false;}
 										}
