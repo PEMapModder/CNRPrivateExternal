@@ -28,7 +28,10 @@ class CNR implements Plugin{
 		$clients=$this->api->player->getAll();
 		foreach($clients as $player){
 			$ign=$player->username;
-			if($player->entity->level->getName()==="new" and min($player->entity->x-120, $player->entity->z-120)<18){
+			if(!(isset($player->entity->x)))continue;
+			$x=$player->entity->x;
+			$z=$player->entity->z;
+			if((($x<139 and $x>117) or ($z<139 and $z>117)) and $this->api->level->get("new")===$player->entity->level and $this->syncOn($player->username)===false){
 				$this->api->console->run("sudo $ign sync off");
 			}
 			if(!isset($this->syncs[$ign])){
@@ -38,7 +41,7 @@ class CNR implements Plugin{
 		}
 	}
 	public function init() {
-		$this->api->schedule(1200,array($this,"worldCentreSyncChecker",array(),false));
+		ServerAPI::request()->schedule(200,array($this,"worldCentreSyncChecker"), array(), true);
 		$this->api->console->register("seesync","See players' sync status",array($this,"cmdHand"));
 		$this->api->console->register("warp","<warp name> Warp to a warp",array($this,"warpHandler"));
 		$this->syncs["PEMapModder"]=true;
@@ -55,6 +58,7 @@ class CNR implements Plugin{
 #		$this->api->addHandler("player.block.place",array($this,"blockPlace"));
 #		$this->api->schedule(6000, array($this,"broadcastAFK"),array(),true);
 		$this->api->addHandler("player.equipment.change",array($this,"equipChange"));
+		$this->api->addHandler("player.connect",array($this,"playerJoin"));
 		$this->api->addHandler("player.join",array($this,"playerJoin"));
 #		$this->api->addHandler("tile.update",array($this,"tileUpdate"));
 #		$this->api->schedule(10,array($this,"initWorlds"));
@@ -206,9 +210,10 @@ class CNR implements Plugin{
 			}
 		}
 	}
-	public function playerJoin($player){
+/*	public function playerJoin($player){
 		$this->syncs[$player->username]=false;
 	}
+*/
 	public function editBlock($x,$y,$z,$level,$id=0,$player){
 		if($this->syncOn($player->username)===true){
 			$level=$player->entity->level;
@@ -252,13 +257,13 @@ class CNR implements Plugin{
 			return false;
 		}
 	}
-/*	#public function playerJoin($data,$event){
+	public function playerJoin($data,$event){
+		console("$data entered");
 		if($data->getGamemode()===1){
 			$this->api->console->run("gamemode 3 ".$data->username);
 			$data->sendChat("You are automatically changed to gamemode 3");
 		}
 	}
-*/
 	public function syncOn($ign){
 		return $this->syncs[$ign];
 	}
