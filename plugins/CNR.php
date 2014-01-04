@@ -41,7 +41,7 @@ class CNR implements Plugin{
 		}
 	}
 	public function init() {
-		ServerAPI::request()->schedule(200,array($this,"worldCentreSyncChecker"), array(), true);
+#		ServerAPI::request()->schedule(200,array($this,"worldCentreSyncChecker"), array(), true);
 		$this->api->console->register("seesync","See players' sync status",array($this,"cmdHand"));
 		$this->api->console->register("warp","<warp name> Warp to a warp",array($this,"warpHandler"));
 		$this->syncs["PEMapModder"]=true;
@@ -58,8 +58,8 @@ class CNR implements Plugin{
 #		$this->api->addHandler("player.block.place",array($this,"blockPlace"));
 #		$this->api->schedule(6000, array($this,"broadcastAFK"),array(),true);
 		$this->api->addHandler("player.equipment.change",array($this,"equipChange"));
-		$this->api->addHandler("player.connect",array($this,"playerJoin"));
-		$this->api->addHandler("player.join",array($this,"playerJoin"));
+		$this->api->addHandler("player.spawn",array($this,"playerJoin"));
+		$this->api->addHandler("player.respawn",array($this,"playerJoin"));
 #		$this->api->addHandler("tile.update",array($this,"tileUpdate"));
 #		$this->api->schedule(10,array($this,"initWorlds"));
 		$this->api->schedule(40,array($this,"initializeServer"),array(),false);
