@@ -1,0 +1,41 @@
+---
+- 
+  id: Sign
+  x: 50
+  y: 37
+  z: 50
+  Text1: Team creeper
+  Text2: Prep room
+  Text3:
+  Text4:
+  creator: PEMapModder
+- 
+  id: Sign
+  x: 49
+  y: 37
+  z: 50
+  Text1: Team creeper
+  Text2: Prep room
+  Text3:
+  Text4:
+  creator: PEMapModder
+- 
+  id: Sign
+  x: 49
+  y: 37
+  z: 49
+  Text1: Team creeper
+  Text2: Prep room
+  Text3:
+  Text4:
+  creator: PEMapModder
+- 
+  id: Sign
+  x: 50
+  y: 37
+  z: 49
+  Text1: Team creeper
+  Text2: Prep room
+  Text3:
+  Text4:
+  creator: PEMapModder

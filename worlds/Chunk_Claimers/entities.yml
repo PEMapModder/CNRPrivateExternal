@@ -1,0 +1,15 @@
+---
+- 
+  id: 64
+  Item:
+    id: 50
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.2
+    - 40.19
+    - 32.82
+  Rotation:
+    - 0
+    - 0

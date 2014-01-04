@@ -1,0 +1,3519 @@
+---
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 82.849639892578
+    - 41
+    - 129.45356750488
+  Rotation:
+    - 994.10968017578
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 141.14999389648
+    - 40
+    - 184.14999389648
+  Rotation:
+    - 2334.2495117188
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 141.85000610352
+    - 40
+    - 184.85000610352
+  Rotation:
+    - 1346.2687988281
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 78.656089782715
+    - 41.12907409668
+    - 129.81164550781
+  Rotation:
+    - -1193.3776855469
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 88.860504150391
+    - 41
+    - 129.23149108887
+  Rotation:
+    - 389.99975585938
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 17.934072494507
+    - 41
+    - 129.50242614746
+  Rotation:
+    - 1709.810546875
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 141.14999389648
+    - 40
+    - 184.14999389648
+  Rotation:
+    - 2005.7901611328
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 1
+  Pos:
+    - 34.601142883301
+    - 41
+    - 129.60073852539
+  Rotation:
+    - 4415.3486328125
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 60.842872619629
+    - 41
+    - 129.76885986328
+  Rotation:
+    - -607.18798828125
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 21.921646118164
+    - 41
+    - 129.85000610352
+  Rotation:
+    - 2837.8474121094
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 111.54222106934
+    - 43
+    - 13.78910446167
+  Rotation:
+    - -567.01544189453
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 52.986568450928
+    - 41
+    - 129.35357666016
+  Rotation:
+    - 433.6862487793
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 235.41580200195
+    - 43
+    - 13.243650436401
+  Rotation:
+    - -810.46673583984
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 85.142944335938
+    - 41
+    - 129.20640563965
+  Rotation:
+    - 1197.1831054688
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 23.501493453979
+    - 43
+    - 8.7122669219971
+  Rotation:
+    - 1080.1096191406
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 141.14999389648
+    - 40
+    - 184.14999389648
+  Rotation:
+    - 1889.7840576172
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 195.77188110352
+    - 43
+    - 86.566131591797
+  Rotation:
+    - -1380.6040039062
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 224.16963195801
+    - 43
+    - 114.41468811035
+  Rotation:
+    - 627.53948974609
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 141.85000610352
+    - 40
+    - 184.14999389648
+  Rotation:
+    - 2070.6069335938
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 60.495086669922
+    - 41.272045135498
+    - 129.14999389648
+  Rotation:
+    - 1807.8862304688
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 2
+  Pos:
+    - 28.75429725647
+    - 41
+    - 129.58717346191
+  Rotation:
+    - 852.49194335938
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 10
+  Pos:
+    - 198.7413482666
+    - 43
+    - 178.68251037598
+  Rotation:
+    - 1570.8577880859
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 141.14999389648
+    - 40
+    - 184.85000610352
+  Rotation:
+    - -17.359315872192
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 79.625480651855
+    - 41
+    - 129.29734802246
+  Rotation:
+    - 800.46917724609
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 213.76860046387
+    - 43
+    - 143.58616638184
+  Rotation:
+    - -1578.6372070312
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 98.421180725098
+    - 41
+    - 131.17622375488
+  Rotation:
+    - -373.96276855469
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: -1
+  Pos:
+    - 30.025848388672
+    - 41
+    - 129.14999389648
+  Rotation:
+    - 726.19738769531
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.2
+    - 0.19
+    - -0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.16
+    - 0.19
+    - -0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.12
+    - 0.19
+    - 0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.02
+    - 0.19
+    - -0.04
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.16
+    - 0.19
+    - 0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.16
+    - 0.19
+    - 0
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.08
+    - 0.19
+    - 0
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.02
+    - 0.19
+    - -0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.06
+    - 0.19
+    - -0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.04
+    - 0.19
+    - 0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.1
+    - 0.19
+    - 0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.2
+    - 0.19
+    - 0.02
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0
+    - 0.19
+    - 0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.08
+    - 0.19
+    - -0.16
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.08
+    - 0.19
+    - -0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.12
+    - 0.19
+    - 0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0.16
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.1
+    - 0.19
+    - -0.16
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.2
+    - 0.19
+    - 0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.1
+    - 0.19
+    - 0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.02
+    - 0.19
+    - 0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.16
+    - 0.19
+    - -0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.14
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.16
+    - 0.19
+    - 0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.18
+    - 0.19
+    - -0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.18
+    - 0.19
+    - 0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.06
+    - 0.19
+    - -0.16
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0
+    - 0.19
+    - -0.04
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.12
+    - 0.19
+    - -0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.08
+    - 0.19
+    - -0.02
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.06
+    - 0.19
+    - 0
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.2
+    - 0.19
+    - -0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.16
+    - 0.19
+    - 0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.02
+    - 0.19
+    - 0
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.12
+    - 0.19
+    - -0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.04
+    - 0.19
+    - -0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.18
+    - 0.19
+    - 0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0.1
+    - 0.19
+    - -0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.2
+    - 0.19
+    - -0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.18
+    - 0.19
+    - 0
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.18
+    - 0.19
+    - -0.16
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.04
+    - 0.19
+    - 0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.08
+    - 0.19
+    - 0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.06
+    - 0.19
+    - -0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.12
+    - 0.19
+    - 0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.1
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.2
+    - 0.19
+    - 0.04
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.18
+    - 0.19
+    - 0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.16
+    - 0.19
+    - -0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0.02
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.18
+    - 0.19
+    - -0.16
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0
+    - 0.19
+    - -0.02
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.16
+    - 0.19
+    - 0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.06
+    - 0.19
+    - 0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.12
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.18
+    - 0.19
+    - -0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.04
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.04
+    - 0.19
+    - -0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.18
+    - 0.19
+    - -0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.12
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0
+    - 0.19
+    - -0.02
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.04
+    - 0.19
+    - -0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.1
+    - 0.19
+    - -0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.12
+    - 0.19
+    - 0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.06
+    - 0.19
+    - -0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0.12
+    - 0.19
+    - -0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.14
+    - 0.19
+    - -0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0.1
+    - 0.19
+    - -0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.16
+    - 0.19
+    - -0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.08
+    - 0.19
+    - 0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.18
+    - 0.19
+    - 0
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.04
+    - 0.19
+    - -0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.02
+    - 0.19
+    - 0
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.2
+    - 0.19
+    - 0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.08
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.2
+    - 0.19
+    - 0.04
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.2
+    - 0.19
+    - -0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.02
+    - 0.19
+    - 0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0.06
+    - 0.19
+    - -0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.08
+    - 0.19
+    - -0.02
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.02
+    - 0.19
+    - 0
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.06
+    - 0.19
+    - -0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.1
+    - 0.19
+    - 0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.14
+    - 0.19
+    - -0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.16
+    - 0.19
+    - 0.04
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.06
+    - 0.19
+    - 0.16
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.2
+    - 0.19
+    - -0.16
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.04
+    - 0.19
+    - 0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.04
+    - 0.19
+    - -0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.2
+    - 0.19
+    - 0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.18
+    - 0.19
+    - -0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.08
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 141.14999389648
+    - 40
+    - 184.85000610352
+  Rotation:
+    - -400.79098510742
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 2
+  Pos:
+    - 35.756828308105
+    - 41.364273071289
+    - 129.85000610352
+  Rotation:
+    - 3659.6743164062
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 46.765071868896
+    - 41.299999237061
+    - 129.14999389648
+  Rotation:
+    - 2257.615234375
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 0
+  Pos:
+    - 32.912544250488
+    - 41
+    - 129.70007324219
+  Rotation:
+    - 455.43209838867
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.06
+    - 0.19
+    - -0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.02
+    - 0.19
+    - -0.16
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.08
+    - 0.19
+    - -0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.18
+    - 0.19
+    - 0
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.08
+    - 0.19
+    - -0.02
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.08
+    - 0.19
+    - 0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.16
+    - 0.19
+    - -0.04
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.04
+    - 0.19
+    - 0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.08
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.2
+    - 0.19
+    - -0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.1
+    - 0.19
+    - -0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.14
+    - 0.19
+    - -0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0.06
+    - 0.19
+    - -0.16
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.04
+    - 0.19
+    - -0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.06
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.18
+    - 0.19
+    - 0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.06
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0.16
+    - 0.19
+    - -0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.2
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.16
+    - 0.19
+    - 0
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.08
+    - 0.19
+    - 0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.12
+    - 0.19
+    - -0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.06
+    - 0.19
+    - -0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0.12
+    - 0.19
+    - -0.04
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.1
+    - 0.19
+    - -0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.12
+    - 0.19
+    - -0.04
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.12
+    - 0.19
+    - -0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0
+    - 0.19
+    - 0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0.1
+    - 0.19
+    - -0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.16
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.16
+    - 0.19
+    - -0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.06
+    - 0.19
+    - -0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.16
+    - 0.19
+    - 0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.14
+    - 0.19
+    - -0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.04
+    - 0.19
+    - -0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.2
+    - 0.19
+    - -0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.02
+    - 0.19
+    - 0.02
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0
+    - 0.19
+    - 0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.12
+    - 0.19
+    - 0
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0
+    - 0.19
+    - 0.04
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.14
+    - 0.19
+    - -0.04
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.16
+    - 0.19
+    - -0.16
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0.08
+    - 0.19
+    - -0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.18
+    - 0.19
+    - 0.04
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.04
+    - 0.19
+    - 0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.12
+    - 0.19
+    - -0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0.14
+    - 0.19
+    - 0
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.16
+    - 0.19
+    - -0.02
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.18
+    - 0.19
+    - 0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.06
+    - 0.19
+    - -0.04
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.02
+    - 0.19
+    - 0.02
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0.08
+    - 0.19
+    - -0.16
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.06
+    - 0.19
+    - -0.04
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.02
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.1
+    - 0.19
+    - -0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0
+    - 0.19
+    - 0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.12
+    - 0.19
+    - 0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.08
+    - 0.19
+    - 0
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.04
+    - 0.19
+    - -0.02
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.1
+    - 0.19
+    - -0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0.02
+    - 0.19
+    - -0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.1
+    - 0.19
+    - -0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.12
+    - 0.19
+    - -0.04
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.16
+    - 0.19
+    - -0.02
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.08
+    - 0.19
+    - -0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.08
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.14
+    - 0.19
+    - -0.02
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.02
+    - 0.19
+    - 0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.08
+    - 0.19
+    - -0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.12
+    - 0.19
+    - -0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.1
+    - 0.19
+    - 0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0
+    - 0.19
+    - 0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.02
+    - 0.19
+    - -0.16
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.16
+    - 0.19
+    - 0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.16
+    - 0.19
+    - -0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0.02
+    - 0.19
+    - -0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.02
+    - 0.19
+    - 0
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.16
+    - 0.19
+    - -0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.12
+    - 0.19
+    - 0.04
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0
+    - 0.19
+    - -0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.18
+    - 0.19
+    - 0.18
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.04
+    - 0.19
+    - 0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.16
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.1
+    - 0.19
+    - -0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.12
+    - 0.19
+    - -0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.14
+    - 0.19
+    - -0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.04
+    - 0.19
+    - -0.14
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.18
+    - 0.19
+    - -0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.02
+    - 0.19
+    - -0.08
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.14
+    - 0.19
+    - -0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.16
+    - 0.19
+    - -0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.06
+    - 0.19
+    - 0.1
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0
+    - 0.19
+    - -0.04
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - 0.08
+    - 0.19
+    - -0.12
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 2
+  Pos:
+    - 36.318832397461
+    - 41
+    - 129.42459106445
+  Rotation:
+    - -634.51470947266
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 86.870109558105
+    - 41
+    - 129.14999389648
+  Rotation:
+    - -1790.4874267578
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 92.614295959473
+    - 41
+    - 129.14999389648
+  Rotation:
+    - -1623.3635253906
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 93.848564147949
+    - 41
+    - 129.75936889648
+  Rotation:
+    - 845.7021484375
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 231.02520751953
+    - 43
+    - 97.346496582031
+  Rotation:
+    - -791.88507080078
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 53.581825256348
+    - 41.336441040039
+    - 129.85000610352
+  Rotation:
+    - 2154.693359375
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 95.347663879395
+    - 41
+    - 129.53242492676
+  Rotation:
+    - 92.205322265625
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 68.484428405762
+    - 43
+    - 143.98861694336
+  Rotation:
+    - 540.64294433594
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 10
+  Pos:
+    - 89.875427246094
+    - 41
+    - 129.85000610352
+  Rotation:
+    - 2428.8383789062
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 10
+  Pos:
+    - 88.14949798584
+    - 41.299999237061
+    - 129.14999389648
+  Rotation:
+    - -3524.5104980469
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 187.51713562012
+    - 43
+    - 58.931228637695
+  Rotation:
+    - 539.25714111328
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 243.45986938477
+    - 43
+    - 81.96044921875
+  Rotation:
+    - 1795.7316894531
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 88.796379089355
+    - 41.352798461914
+    - 129.85000610352
+  Rotation:
+    - 3496.8203125
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 18.3118019104
+    - 41
+    - 129.4921875
+  Rotation:
+    - 1529.5045166016
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 47.348323822021
+    - 41
+    - 129.580078125
+  Rotation:
+    - -266.78680419922
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 50.107929229736
+    - 41.117599487305
+    - 129.85000610352
+  Rotation:
+    - -1016.9274291992
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 97.49974822998
+    - 43
+    - 195.15238952637
+  Rotation:
+    - 1980.0224609375
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 32.633666992188
+    - 41.184715270996
+    - 129.14999389648
+  Rotation:
+    - 2247.7485351562
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 10
+  Pos:
+    - 93.934661865234
+    - 41
+    - 129.14999389648
+  Rotation:
+    - -530.78436279297
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 10
+  Pos:
+    - 79.399810791016
+    - 41.742443084717
+    - 129.85000610352
+  Rotation:
+    - -1607.3023681641
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 10
+  Pos:
+    - 50.000545501709
+    - 41
+    - 129.29823303223
+  Rotation:
+    - 1152.4718017578
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 10
+  Pos:
+    - 38.727897644043
+    - 41
+    - 129.45858764648
+  Rotation:
+    - -55.052803039551
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 10
+  Pos:
+    - 88.260375976562
+    - 41
+    - 129.66319274902
+  Rotation:
+    - -2618.1140136719
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 10
+  Pos:
+    - 68.839408874512
+    - 41
+    - 129.50051879883
+  Rotation:
+    - -283.62380981445
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 10
+  Pos:
+    - 53.947242736816
+    - 41
+    - 129.35145568848
+  Rotation:
+    - -2076.0659179688
+    - 0
+- 
+  id: 13
+  Color: 0
+  Sheared: 0
+  Health: 8
+  Pos:
+    - 136.44999694824
+    - 64
+    - 142.50970458984
+  Rotation:
+    - -744.95007324219
+    - 0
+- 
+  id: 13
+  Color: 15
+  Sheared: 0
+  Health: 8
+  Pos:
+    - 137.55000305176
+    - 64
+    - 142.44999694824
+  Rotation:
+    - -35.017669677734
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 105.71051025391
+    - 43
+    - 193.12561035156
+  Rotation:
+    - 2294.375
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 102.77500152588
+    - 44.252197265625
+    - 196.4236907959
+  Rotation:
+    - 1094.712890625
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 103.54749298096
+    - 43
+    - 193.84992980957
+  Rotation:
+    - 364.20104980469
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 102.77500152588
+    - 44.206932067871
+    - 196.85000610352
+  Rotation:
+    - 1462.9323730469
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 103.35012817383
+    - 44.206932067871
+    - 197.22500610352
+  Rotation:
+    - 431.42962646484
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 103.15000152588
+    - 44.001331329346
+    - 190.77499389648
+  Rotation:
+    - -3127.068359375
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 107.50005340576
+    - 43
+    - 197.22500610352
+  Rotation:
+    - 1080.0017089844
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 102.77500152588
+    - 43
+    - 196.85000610352
+  Rotation:
+    - -337.06759643555
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 104.08829498291
+    - 44
+    - 195.59101867676
+  Rotation:
+    - -3001.2487792969
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 107.19109344482
+    - 43
+    - 196.5133972168
+  Rotation:
+    - -1503.4799804688
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 106.50016784668
+    - 44
+    - 196.1449432373
+  Rotation:
+    - -2772.4411621094
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 107.45678710938
+    - 43
+    - 191.77491760254
+  Rotation:
+    - 3437.9897460938
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 103.2854309082
+    - 43
+    - 191.31259155273
+  Rotation:
+    - -188.90141296387
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 103.13247680664
+    - 43
+    - 191.85729980469
+  Rotation:
+    - -2734.4799804688
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 103.85913848877
+    - 43
+    - 196.59339904785
+  Rotation:
+    - -621.11553955078
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 102.77500152588
+    - 43.04906463623
+    - 195.70585632324
+  Rotation:
+    - 1448.9543457031
+    - 0
+- 
+  id: 10
+  Color: null
+  Sheared: null
+  Health: 4
+  Pos:
+    - 108.22499847412
+    - 44.252197265625
+    - 194.50003051758
+  Rotation:
+    - 269.99862670898
+    - 0

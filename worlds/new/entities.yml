@@ -1,0 +1,101 @@
+---
+- 
+  id: 13
+  Color: null
+  Sheared: null
+  Health: 10
+  Pos:
+    - 3.5
+    - 38
+    - 2.5
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 13
+  Color: null
+  Sheared: null
+  Health: 10
+  Pos:
+    - 2.5
+    - 38
+    - 3.5
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 13
+  Color: null
+  Sheared: null
+  Health: 10
+  Pos:
+    - 4.5
+    - 38
+    - 3.5
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 11
+  Color: null
+  Sheared: null
+  Health: 10
+  Pos:
+    - 6.5
+    - 38
+    - 5.5
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 80
+  Health: 1
+  Pos:
+    - 253.87598040917
+    - 38
+    - 255.90602085689
+  Rotation:
+    - -1506.6860351562
+    - 66.90747833252
+- 
+  id: 80
+  Health: 1
+  Pos:
+    - 66.433715820312
+    - 128.66250762939
+    - 0.30000022053719
+  Rotation:
+    - 302.73202514648
+    - 53.846519470215
+- 
+  id: 80
+  Health: 1
+  Pos:
+    - 66.563369750977
+    - 141.60003051758
+    - 0.38374826312065
+  Rotation:
+    - 305.85784912109
+    - 57.050266265869
+- 
+  id: 66
+  Health: 120
+  Tile: 12
+  Pos:
+    - 138.5
+    - 37.494977389526
+    - 128.5
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 66
+  Health: 126
+  Tile: 12
+  Pos:
+    - 138.5
+    - 37.5
+    - 127.5
+  Rotation:
+    - 0
+    - 0
