@@ -53,6 +53,7 @@ class SimpleWorlds implements Plugin{
 		foreach($this->config->get("autoload") as $level){
 			$this->loadLevel($level);		
 		}
+		$this->api->dhandle("simpleworlds.loaded",array());
 	}
 	
 	public function command($cmd, $params, $issuer, $alias){

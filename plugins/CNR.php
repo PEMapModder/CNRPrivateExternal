@@ -62,7 +62,15 @@ class CNR implements Plugin{
 		$this->api->addHandler("player.respawn",array($this,"playerJoin"));
 #		$this->api->addHandler("tile.update",array($this,"tileUpdate"));
 #		$this->api->schedule(10,array($this,"initWorlds"));
-		$this->api->schedule(40,array($this,"initializeServer"),array(),false);
+#		$this->api->schedule(40,array($this,"initializeServer"),array(),false);
+		$this->api->addHandler("simpleworlds.loaded",array($this,"initializeServer"));
+		ServerAPI::request()->schedule(3000,array($this,"broadcastHint"), array(), true);
+		$this->broadcastHint();
+	}
+	public function broadcastHint(){
+		$this->msgConfig=new Config($this->dir."Broadcast.yml", CONFIG_YAML, array("chats"=>array("default","default")));
+		$msg=implode("\n", $this->msgConfig->get("chats"));
+		$this->api->chat->send(false, $msg);
 	}
 	public function initializeServer(){
 		$this->api->console->run("swl new");
@@ -125,8 +133,16 @@ class CNR implements Plugin{
 		else console("You are no longer AFK.");return;
 	}
 	public function getPos($cmd,$args,$issuer){
-		if(!($issuer instanceof Player)){
-			return "Only usable by players.";
+		if(!isset($issuer->entity)){
+			if(count($args)==0)
+				return "Only usable by spawned players or /getpos <player>.";
+			$p=$this->api->player->get($args[0]);
+			if(!isset($p->entity))return $args[0]." cannot be resolved as a part of a player ign.";
+			$e=$p->entity;
+			$x=$e->x;
+			$y=$e->y;
+			$z=$e->z;
+			return "X: $x Y: $y Z: $z";
 		}
 		$issuer->sendChat("X: ".$issuer->entity->x." Y: ".$issuer->entity->y." Z: ".$issuer->entity->z);
 	}
