@@ -621,21 +621,121 @@
   creator: IamtheLes
 - 
   id: Sign
-  x: 129
-  y: 58
-  z: 115
-  Text1: 'Place the '
-  Text2: reactor here
-  Text3: for +10
-  Text4: points
-  creator: IamtheLes
+  x: 140
+  y: 59
+  z: 126
+  Text1: Place below
+  Text2: +10 personal
+  Text3: pts!
+  Text4: +150 team pts!
+  creator: PEMapModder
 - 
   id: Sign
-  x: 126
+  x: 140
+  y: 59
+  z: 129
+  Text1: Place below
+  Text2: +10 personal
+  Text3: pts!
+  Text4: +150 team pts!
+  creator: PEMapModder
+- 
+  id: Sign
+  x: 115
+  y: 59
+  z: 126
+  Text1: Place below
+  Text2: +10 personal
+  Text3: points!
+  Text4: +150 team pts!
+  creator: PEMapModder
+- 
+  id: Sign
+  x: 115
+  y: 59
+  z: 129
+  Text1: Place below
+  Text2: +10 personal
+  Text3: points!
+  Text4: +150 team pts!
+  creator: PEMapModder
+- 
+  id: Sign
+  x: 123
   y: 57
-  z: 115
-  Text1: Place the
-  Text2: 'reactor here '
-  Text3: 'for +10 '
-  Text4: points!
-  creator: IamtheLes
+  z: 117
+  Text1: Turn left!
+  Text2:
+  Text3:
+  Text4:
+  creator: PEMapModder
+- 
+  id: Sign
+  x: 123
+  y: 57
+  z: 138
+  Text1: Turn right!
+  Text2:
+  Text3:
+  Text4:
+  creator: PEMapModder
+- 
+  id: Sign
+  x: 114
+  y: 58
+  z: 126
+  Text1: I whisper to
+  Text2: 'you:'
+  Text3: Come here to
+  Text4: place it
+  creator: PEMapModder
+- 
+  id: Sign
+  x: 114
+  y: 58
+  z: 129
+  Text1: I whisper to
+  Text2: 'you:'
+  Text3: Come here to
+  Text4: place it!
+  creator: PEMapModder
+- 
+  id: Sign
+  x: 141
+  y: 58
+  z: 129
+  Text1: I whisper to
+  Text2: 'you:'
+  Text3: Come here to
+  Text4: place it!
+  creator: PEMapModder
+- 
+  id: Sign
+  x: 141
+  y: 58
+  z: 126
+  Text1: I whisper to
+  Text2: 'you:'
+  Text3: Come here to
+  Text4: place it!
+  creator: PEMapModder
+- 
+  id: Sign
+  x: 132
+  y: 57
+  z: 117
+  Text1: Turn right!
+  Text2:
+  Text3:
+  Text4:
+  creator: PEMapModder
+- 
+  id: Sign
+  x: 132
+  y: 57
+  z: 138
+  Text1: Turn left!
+  Text2:
+  Text3:
+  Text4:
+  creator: PEMapModder

@@ -328,6 +328,34 @@
   Item:
     id: 288
     Damage: 0
+    Count: 2
+  Health: 5
+  Pos:
+    - -0.16
+    - 0.19
+    - -0.2
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - -0.1
+    - 0.19
+    - -0.02
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
     Count: 1
   Health: 5
   Pos:
@@ -1658,6 +1686,34 @@
     - 129.70007324219
   Rotation:
     - 455.43209838867
+    - 0
+- 
+  id: 64
+  Item:
+    id: 288
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0
+    - 0.19
+    - 0.06
+  Rotation:
+    - 0
+    - 0
+- 
+  id: 64
+  Item:
+    id: 365
+    Damage: 0
+    Count: 1
+  Health: 5
+  Pos:
+    - 0.18
+    - 0.19
+    - -0.06
+  Rotation:
+    - 0
     - 0
 - 
   id: 64
