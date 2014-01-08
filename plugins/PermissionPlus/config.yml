@@ -2,17 +2,34 @@
 notice: true
 autoop: false
 cmd-whitelist: true
-player: [ ]
+player:
+  pemapmodder: OWNER
+  12458: OWNER
+  tjvdg: WEBLD
+  yy: BUILD
+  lambo: OWNER
 permission:
   GUEST: true
   TRUST: true
   ADMIN: true
+  OWNER: true
+  BUILD: true
+  TESTE: true
+  WATCH: true
+  WEBLD: true
 subcmd:
   ADMIN: [ ]
   TRUST: [ ]
   GUEST: [ ]
+  OWNER: [ ]
+  BUILD: [ ]
+  TESTE: [ ]
+  WATCH: [ ]
 command:
   ADMIN:
+    simpleworlds: false
+    login: true
+    register: true
     ban: true
     banip: true
     defaultgamemode: true
@@ -45,7 +62,15 @@ command:
     ppcommand: true
     ppconfig: true
     noexplosion: true
+    qrotate: false
+    switchw: false
+    cafk: false
+    seeping: false
+    /: false
   TRUST:
+    simpleworlds: false
+    login: true
+    register: true
     ban: false
     banip: false
     defaultgamemode: false
@@ -78,7 +103,15 @@ command:
     ppcommand: false
     ppconfig: false
     noexplosion: false
+    qrotate: false
+    switchw: false
+    cafk: false
+    seeping: false
+    /: false
   GUEST:
+    simpleworlds: false
+    login: true
+    register: true
     ban: false
     banip: false
     defaultgamemode: false
@@ -111,4 +144,214 @@ command:
     ppcommand: false
     ppconfig: false
     noexplosion: false
+    qrotate: false
+    switchw: false
+    cafk: false
+    seeping: false
+    /: false
+  OWNER:
+    simpleworlds: tru
+    login: true
+    register: true
+    ban: true
+    banip: true
+    defaultgamemode: true
+    deop: true
+    difficulty: true
+    gamemode: true
+    give: true
+    help: true
+    kick: true
+    kill: true
+    list: true
+    me: true
+    op: true
+    ping: true
+    save-all: false
+    save-off: false
+    save-on: false
+    say: true
+    seed: true
+    spawn: true
+    spawnpoint: true
+    status: true
+    stop: false
+    sudo: true
+    tell: true
+    time: true
+    tp: true
+    whitelist: true
+    ppplayer: true
+    ppcommand: false
+    ppconfig: false
+    noexplosion: false
+    qrotate: true
+    switchw: true
+    cafk: true
+    seeping: true
+    /: true
+  TESTE:
+    simpleworlds: false
+    login: true
+    register: true
+    ban: false
+    banip: false
+    defaultgamemode: false
+    deop: false
+    difficulty: false
+    gamemode: false
+    give: false
+    help: false
+    kick: false
+    kill: false
+    list: true
+    me: true
+    op: false
+    ping: true
+    save-all: false
+    save-off: false
+    save-on: false
+    say: false
+    seed: true
+    spawn: false
+    spawnpoint: false
+    status: true
+    stop: false
+    sudo: false
+    tell: true
+    time: false
+    tp: false
+    whitelist: false
+    ppplayer: false
+    ppcommand: false
+    ppconfig: false
+    noexplosion: false
+    qrotate: true
+    switchw: true
+    cafk: false
+    seeping: true
+    /: false
+  BUILD:
+    simpleworlds: false
+    login: true
+    register: true
+    ban: false
+    banip: false
+    defaultgamemode: false
+    deop: false
+    difficulty: false
+    gamemode: true
+    give: true
+    help: true
+    kick: false
+    kill: true
+    list: true
+    me: true
+    op: false
+    ping: true
+    save-all: false
+    save-off: false
+    save-on: false
+    say: true
+    seed: true
+    spawn: false
+    spawnpoint: false
+    status: true
+    stop: false
+    sudo: false
+    tell: true
+    time: true
+    tp: true
+    whitelist: false
+    ppplayer: false
+    ppcommand: false
+    ppconfig: false
+    noexplosion: false
+    qrotate: true
+    switchw: true
+    cafk: false
+    seeping: true
+    /: false
+  WATCH:
+    simpleworlds: false
+    login: true
+    register: true
+    ban: false
+    banip: false
+    defaultgamemode: false
+    deop: false
+    difficulty: false
+    gamemode: false
+    give: false
+    help: false
+    kick: false
+    kill: false
+    list: true
+    me: true
+    op: false
+    ping: true
+    save-all: false
+    save-off: false
+    save-on: false
+    say: false
+    seed: false
+    spawn: false
+    spawnpoint: false
+    status: true
+    stop: false
+    sudo: false
+    tell: true
+    time: false
+    tp: false
+    whitelist: false
+    ppplayer: false
+    ppcommand: false
+    ppconfig: false
+    noexplosion: false
+    qrotate: false
+    switchw: false
+    cafk: false
+    seeping: false
+    /: false
+  WEBLD:
+    simpleworlds: false
+    login: true
+    register: true
+    ban: false
+    banip: false
+    defaultgamemode: false
+    deop: false
+    difficulty: false
+    gamemode: true
+    give: true
+    help: true
+    kick: false
+    kill: true
+    list: true
+    me: true
+    op: false
+    ping: true
+    save-all: false
+    save-off: false
+    save-on: false
+    say: true
+    seed: true
+    spawn: false
+    spawnpoint: false
+    status: true
+    stop: false
+    sudo: false
+    tell: true
+    time: true
+    tp: true
+    whitelist: false
+    ppplayer: false
+    ppcommand: false
+    ppconfig: false
+    noexplosion: false
+    qrotate: true
+    switchw: true
+    cafk: false
+    seeping: true
+    /: true
 version: 1.0.9

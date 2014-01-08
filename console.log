@@ -10986,3 +10986,238 @@ Remember /sync
 2014-01-08 21:09:17 [INFO] Unloading level "old"
 2014-01-08 21:09:18 [INFO] Unloading level "prep"
 2014-01-08 21:09:18 [INFO] Unloading level "Chunk_Claimers"
+2014-01-08 22:17:32 [INFO] Starting CNR version v0.8.1 alpha
+2014-01-08 22:17:32 [INFO] Loading properties...
+2014-01-08 22:17:32 [INFO] Starting on *:19135
+2014-01-08 22:17:32 [INFO] This server is running PocketMine-MP version Alpha_1.3.11dev (MCPE: v0.8.1 alpha) (API 11)
+2014-01-08 22:17:32 [INFO] PocketMine-MP is distibuted under the LGPL License
+2014-01-08 22:17:32 [INFO] Checking for new server version
+2014-01-08 22:17:32 [INFO] Last check: 2014-01-08 18:35:20
+2014-01-08 22:17:36 [INFO] This is the latest DEVELOPMENT version
+2014-01-08 22:17:36 [INFO] Preparing level "Buffer world"
+2014-01-08 22:17:36 [INFO] Loading plugin "CNR_Mapping_Plugin" 0.2.0 by PEMapModder
+2014-01-08 22:17:36 [INFO] Loading plugin "CommandEcho" 1.0.0 by ZacHack
+2014-01-08 22:17:36 [WARNING] Plugin "CommandEcho" may not be compatible with the API (10 != 11)! It can crash or corrupt the server!
+2014-01-08 22:17:36 [INFO] Loading plugin "SimpleAuth" 0.3.4 by shoghicp
+2014-01-08 22:17:36 [INFO] Loading plugin "SimpleWorlds" 0.3 by PocketMine Team
+2014-01-08 22:17:36 [INFO] Loading plugin "WorldEditor" 0.8 by shoghicp
+2014-01-08 22:17:36 [WARNING] Plugin "WorldEditor" may not be compatible with the API (7,8,9,10 != 11)! It can crash or corrupt the server!
+2014-01-08 22:17:36 [INFO] Starting GS4 status listener
+2014-01-08 22:17:36 [INFO] Setting query port to 19135
+2014-01-08 22:17:36 [INFO] Query running on 0.0.0.0:19135
+2014-01-08 22:17:38 [INFO] Default game type: VIEW
+2014-01-08 22:17:38 [INFO] Starting plugins...
+2014-01-08 22:17:38 [INFO] default
+Remember /sync
+2014-01-08 22:17:38 [INFO] SimpleAuth enabled!
+2014-01-08 22:17:38 [SimpleWorlds] Loading levels...
+2014-01-08 22:17:38 [INFO] Preparing level "new"
+2014-01-08 22:17:39 [INFO] Preparing level "lobby"
+2014-01-08 22:17:40 [INFO] Preparing level "old"
+2014-01-08 22:17:44 [INFO] Preparing level "prep"
+2014-01-08 22:17:44 [INFO] Done (12.162s)! For help, type "help" or "?"
+2014-01-08 22:17:48 [INFO] Stopping server...
+2014-01-08 22:17:48 [CMD] Stopping the server
+2014-01-08 22:17:49 [INFO] Unloading level "Buffer world"
+2014-01-08 22:17:50 [INFO] Unloading level "new"
+2014-01-08 22:17:50 [INFO] Unloading level "lobby"
+2014-01-08 22:17:50 [INFO] Unloading level "old"
+2014-01-08 22:17:51 [INFO] Unloading level "prep"
+2014-01-08 22:20:52 [INFO] Starting CNR version v0.8.1 alpha
+2014-01-08 22:20:52 [INFO] Loading properties...
+2014-01-08 22:20:52 [INFO] Starting on *:19135
+2014-01-08 22:20:52 [INFO] This server is running PocketMine-MP version Alpha_1.3.11dev (MCPE: v0.8.1 alpha) (API 11)
+2014-01-08 22:20:52 [INFO] PocketMine-MP is distibuted under the LGPL License
+2014-01-08 22:20:52 [INFO] Preparing level "Buffer world"
+2014-01-08 22:20:52 [INFO] Loading plugin "CNR_Mapping_Plugin" 0.2.0 by PEMapModder
+2014-01-08 22:20:52 [INFO] Loading plugin "CommandEcho" 1.0.0 by ZacHack
+2014-01-08 22:20:52 [WARNING] Plugin "CommandEcho" may not be compatible with the API (10 != 11)! It can crash or corrupt the server!
+2014-01-08 22:20:52 [INFO] Loading plugin "PermissionPlus" 1.0.9 by Omattyao
+2014-01-08 22:20:52 [INFO] Loading plugin "SimpleAuth" 0.3.4 by shoghicp
+2014-01-08 22:20:52 [INFO] Loading plugin "SimpleWorlds" 0.3 by PocketMine Team
+2014-01-08 22:20:52 [INFO] Loading plugin "WorldEditor" 0.8 by shoghicp
+2014-01-08 22:20:52 [WARNING] Plugin "WorldEditor" may not be compatible with the API (7,8,9,10 != 11)! It can crash or corrupt the server!
+2014-01-08 22:20:52 [INFO] Starting GS4 status listener
+2014-01-08 22:20:52 [INFO] Setting query port to 19135
+2014-01-08 22:20:52 [INFO] Query running on 0.0.0.0:19135
+2014-01-08 22:20:55 [INFO] Default game type: VIEW
+2014-01-08 22:20:55 [INFO] Starting plugins...
+2014-01-08 22:20:55 [INFO] default
+Remember /sync
+2014-01-08 22:20:56 [INFO] SimpleAuth enabled!
+2014-01-08 22:20:56 [SimpleWorlds] Loading levels...
+2014-01-08 22:20:56 [INFO] Preparing level "new"
+2014-01-08 22:20:57 [INFO] Preparing level "lobby"
+2014-01-08 22:20:58 [INFO] Preparing level "old"
+2014-01-08 22:21:02 [INFO] Preparing level "prep"
+2014-01-08 22:21:02 [INFO] Done (10.764s)! For help, type "help" or "?"
+2014-01-08 22:23:06 
+
+2014-01-08 22:23:06 [CMD] Usage: /ppplayer <player> <guest | trust | admin | owner | build | teste | watch>
+2014-01-08 22:23:08 [CMD] Command doesn't exist! Use /help
+2014-01-08 22:23:15 [CMD] [Permission+] Gived OWNER to pemapmodder.
+2014-01-08 22:23:21 [CMD] [Permission+] Gived BUILD to tjvdg.
+2014-01-08 22:23:25 [INFO] default
+Remember /sync
+2014-01-08 22:23:41 
+              [ADMIN][OWNER]                     :  /ban
+              [ADMIN][OWNER]                     :  /banip
+              [ADMIN][OWNER]                     :  /defaultgamemode
+       [TRUST][ADMIN][OWNER]                     :  /deop
+              [ADMIN][OWNER]                     :  /difficulty
+              [ADMIN][OWNER][BUILD]              :  /gamemode
+       [TRUST][ADMIN][OWNER][BUILD]              :  /give
+       [TRUST][ADMIN][OWNER][BUILD]              :  /help
+       [TRUST][ADMIN][OWNER]                     :  /kick
+              [ADMIN][OWNER][BUILD]              :  /kill
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH]:  /list
+       [TRUST][ADMIN][OWNER][BUILD]       [WATCH]:  /me
+       [TRUST][ADMIN][OWNER]                     :  /op
+       [TRUST][ADMIN][OWNER][BUILD]       [WATCH]:  /ping
+              [ADMIN]                            :  /save-all
+              [ADMIN]                            :  /save-off
+              [ADMIN]                            :  /save-on
+       [TRUST][ADMIN][OWNER][BUILD]              :  /say
+       [TRUST][ADMIN][OWNER][BUILD]              :  /seed
+       [TRUST][ADMIN][OWNER]                     :  /spawn
+       [TRUST][ADMIN][OWNER]                     :  /spawnpoint
+       [TRUST][ADMIN][OWNER][BUILD]       [WATCH]:  /status
+              [ADMIN]                            :  /stop
+              [ADMIN][OWNER]                     :  /sudo
+       [TRUST][ADMIN][OWNER][BUILD]       [WATCH]:  /tell
+       [TRUST][ADMIN][OWNER][BUILD]              :  /time
+       [TRUST][ADMIN][OWNER][BUILD]              :  /tp
+              [ADMIN][OWNER]                     :  /whitelist
+              [ADMIN][OWNER]                     :  /ppplayer
+              [ADMIN]                            :  /ppcommand
+              [ADMIN]                            :  /ppconfig
+              [ADMIN]                            :  /noexplosion
+
+2014-01-08 22:23:41 [CMD] Usage: /ppcommand <command> (guest)(trust)(admin)(owner)(build)(teste)(watch)
+2014-01-08 22:24:38 [INFO] Stopping server...
+2014-01-08 22:24:38 [CMD] Stopping the server
+2014-01-08 22:24:40 [INFO] Unloading level "Buffer world"
+2014-01-08 22:24:40 [INFO] Unloading level "new"
+2014-01-08 22:24:40 [INFO] Unloading level "lobby"
+2014-01-08 22:24:41 [INFO] Unloading level "old"
+2014-01-08 22:24:42 [INFO] Unloading level "prep"
+2014-01-08 22:28:00 [INFO] Starting CNR version v0.8.1 alpha
+2014-01-08 22:28:00 [INFO] Loading properties...
+2014-01-08 22:28:00 [INFO] Starting on *:19135
+2014-01-08 22:28:00 [INFO] This server is running PocketMine-MP version Alpha_1.3.11dev (MCPE: v0.8.1 alpha) (API 11)
+2014-01-08 22:28:00 [INFO] PocketMine-MP is distibuted under the LGPL License
+2014-01-08 22:28:00 [INFO] Preparing level "Buffer world"
+2014-01-08 22:28:00 [INFO] Loading plugin "CNR_Mapping_Plugin" 0.2.0 by PEMapModder
+2014-01-08 22:28:00 [INFO] Loading plugin "CommandEcho" 1.0.0 by ZacHack
+2014-01-08 22:28:00 [WARNING] Plugin "CommandEcho" may not be compatible with the API (10 != 11)! It can crash or corrupt the server!
+2014-01-08 22:28:00 [INFO] Loading plugin "PermissionPlus" 1.0.9 by Omattyao
+2014-01-08 22:28:00 [INFO] Loading plugin "SimpleAuth" 0.3.4 by shoghicp
+2014-01-08 22:28:00 [INFO] Loading plugin "SimpleWorlds" 0.3 by PocketMine Team
+2014-01-08 22:28:00 [INFO] Loading plugin "WorldEditor" 0.8 by shoghicp
+2014-01-08 22:28:00 [WARNING] Plugin "WorldEditor" may not be compatible with the API (7,8,9,10 != 11)! It can crash or corrupt the server!
+2014-01-08 22:28:00 [INFO] Starting GS4 status listener
+2014-01-08 22:28:00 [INFO] Setting query port to 19135
+2014-01-08 22:28:00 [INFO] Query running on 0.0.0.0:19135
+2014-01-08 22:28:03 [INFO] Default game type: VIEW
+2014-01-08 22:28:03 [INFO] Starting plugins...
+2014-01-08 22:28:03 [INFO] default
+Remember /sync
+2014-01-08 22:28:03 [INFO] SimpleAuth enabled!
+2014-01-08 22:28:03 [SimpleWorlds] Loading levels...
+2014-01-08 22:28:03 [INFO] Preparing level "new"
+2014-01-08 22:28:04 [INFO] Preparing level "lobby"
+2014-01-08 22:28:05 [INFO] Preparing level "old"
+2014-01-08 22:28:05 
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH]:  /login
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH]:  /register
+              [ADMIN][OWNER]                     :  /ban
+              [ADMIN][OWNER]                     :  /banip
+              [ADMIN][OWNER]                     :  /defaultgamemode
+       [TRUST][ADMIN][OWNER]                     :  /deop
+              [ADMIN][OWNER]                     :  /difficulty
+              [ADMIN][OWNER][BUILD]              :  /gamemode
+       [TRUST][ADMIN][OWNER][BUILD]              :  /give
+       [TRUST][ADMIN][OWNER][BUILD]              :  /help
+       [TRUST][ADMIN][OWNER]                     :  /kick
+              [ADMIN][OWNER][BUILD]              :  /kill
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH]:  /list
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH]:  /me
+       [TRUST][ADMIN][OWNER]                     :  /op
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH]:  /ping
+              [ADMIN]                            :  /save-all
+              [ADMIN]                            :  /save-off
+              [ADMIN]                            :  /save-on
+       [TRUST][ADMIN][OWNER][BUILD]              :  /say
+       [TRUST][ADMIN][OWNER][BUILD][TESTE]       :  /seed
+       [TRUST][ADMIN][OWNER]                     :  /spawn
+       [TRUST][ADMIN][OWNER]                     :  /spawnpoint
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH]:  /status
+              [ADMIN]                            :  /stop
+              [ADMIN][OWNER]                     :  /sudo
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH]:  /tell
+       [TRUST][ADMIN][OWNER][BUILD]              :  /time
+       [TRUST][ADMIN][OWNER][BUILD]              :  /tp
+              [ADMIN][OWNER]                     :  /whitelist
+              [ADMIN][OWNER]                     :  /ppplayer
+              [ADMIN]                            :  /ppcommand
+              [ADMIN]                            :  /ppconfig
+              [ADMIN]                            :  /noexplosion
+
+2014-01-08 22:28:05 [CMD] Usage: /ppcommand <command> (guest)(trust)(admin)(owner)(build)(teste)(watch)
+2014-01-08 22:28:09 [INFO] Preparing level "prep"
+2014-01-08 22:28:09 [INFO] Done (9.239s)! For help, type "help" or "?"
+2014-01-08 22:28:20 [CMD] [Permission+] Assigned BUILD to "/qrotate".
+2014-01-08 22:28:33 [CMD] [Permission+] Assigned BUILD to "/switchw".
+2014-01-08 22:28:47 [CMD] [Permission+] Assigned OWNER to "/cafk".
+2014-01-08 22:29:30 [CMD] [Permission+] Assigned OWNER to "/seeping".
+2014-01-08 22:29:33 [INFO] Stopping server...
+2014-01-08 22:29:33 [CMD] Stopping the server
+2014-01-08 22:29:35 [INFO] Unloading level "Buffer world"
+2014-01-08 22:29:35 [INFO] Unloading level "new"
+2014-01-08 22:29:35 [INFO] Unloading level "lobby"
+2014-01-08 22:29:35 [INFO] Unloading level "old"
+2014-01-08 22:29:36 [INFO] Unloading level "prep"
+2014-01-08 22:37:13 [INFO] Starting CNR version v0.8.1 alpha
+2014-01-08 22:37:13 [INFO] Loading properties...
+2014-01-08 22:37:13 [INFO] Starting on *:19135
+2014-01-08 22:37:13 [INFO] This server is running PocketMine-MP version Alpha_1.3.11dev (MCPE: v0.8.1 alpha) (API 11)
+2014-01-08 22:37:13 [INFO] PocketMine-MP is distibuted under the LGPL License
+2014-01-08 22:37:13 [INFO] Preparing level "Buffer world"
+2014-01-08 22:37:13 [INFO] Loading plugin "CNR_Mapping_Plugin" 0.2.0 by PEMapModder
+2014-01-08 22:37:13 [INFO] Loading plugin "CommandEcho" 1.0.0 by ZacHack
+2014-01-08 22:37:13 [WARNING] Plugin "CommandEcho" may not be compatible with the API (10 != 11)! It can crash or corrupt the server!
+2014-01-08 22:37:13 [INFO] Loading plugin "PermissionPlus" 1.0.9 by Omattyao
+2014-01-08 22:37:13 [INFO] Loading plugin "SimpleAuth" 0.3.4 by shoghicp
+2014-01-08 22:37:13 [INFO] Loading plugin "SimpleWorlds" 0.3 by PocketMine Team
+2014-01-08 22:37:13 [INFO] Loading plugin "WorldEditor" 0.8 by shoghicp
+2014-01-08 22:37:13 [WARNING] Plugin "WorldEditor" may not be compatible with the API (7,8,9,10 != 11)! It can crash or corrupt the server!
+2014-01-08 22:37:13 [INFO] Starting GS4 status listener
+2014-01-08 22:37:13 [INFO] Setting query port to 19135
+2014-01-08 22:37:13 [INFO] Query running on 0.0.0.0:19135
+2014-01-08 22:37:16 [INFO] Default game type: VIEW
+2014-01-08 22:37:16 [INFO] Starting plugins...
+2014-01-08 22:37:16 [INFO] default
+Remember /sync
+2014-01-08 22:37:17 [INFO] SimpleAuth enabled!
+2014-01-08 22:37:17 [SimpleWorlds] Loading levels...
+2014-01-08 22:37:17 [INFO] Preparing level "new"
+2014-01-08 22:37:18 [INFO] Preparing level "lobby"
+2014-01-08 22:37:19 [INFO] Preparing level "old"
+2014-01-08 22:37:23 [INFO] Preparing level "prep"
+2014-01-08 22:37:23 [INFO] Done (11s)! For help, type "help" or "?"
+2014-01-08 22:37:26 [CMD] Command doesn't exist! Use /help
+2014-01-08 22:37:46 
+[OFFLINE][OWNER]:  pemapmodder
+[OFFLINE][OWNER]:  12458
+[OFFLINE][WEBLD]:  tjvdg
+[OFFLINE][BUILD]:  yy
+[OFFLINE][OWNER]:  lambo
+
+2014-01-08 22:37:46 [CMD] Usage: /ppplayer <player> <guest | trust | admin | owner | build | teste | watch>
+2014-01-08 22:37:56 [INFO] Stopping server...
+2014-01-08 22:37:56 [CMD] Stopping the server
+2014-01-08 22:37:58 [INFO] Unloading level "Buffer world"
+2014-01-08 22:37:58 [INFO] Unloading level "new"
+2014-01-08 22:37:58 [INFO] Unloading level "lobby"
+2014-01-08 22:37:58 [INFO] Unloading level "old"
+2014-01-08 22:38:00 [INFO] Unloading level "prep"
