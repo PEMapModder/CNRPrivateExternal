@@ -40,7 +40,7 @@ class PlayerAPI{
         $this->server->api->console->alias("tppos", "tp");
         $this->server->api->ban->cmdWhitelist("list");
         $this->server->api->ban->cmdWhitelist("ping");
-        $this->server->api->ban->cmdWhitelist("spawn");
+#        $this->server->api->ban->cmdWhitelist("spawn");
         $this->server->preparedSQL->selectPlayersToHeal = $this->server->database->prepare("SELECT EID FROM entities WHERE class = ".ENTITY_PLAYER." AND health < 20;");
     }
 
