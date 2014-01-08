@@ -2,7 +2,7 @@
 bin/*
 plugins/SimpleAuth/*
 players/*
-*.log
+#*.log
 plugins/bin/*
 server.properties
 plugins/PermissionPlus/*
