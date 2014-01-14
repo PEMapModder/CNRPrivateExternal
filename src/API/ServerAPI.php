@@ -98,15 +98,15 @@ class ServerAPI{
 		@mkdir(DATA_PATH."worlds/", 0755);
 		@mkdir(DATA_PATH."plugins/", 0755);
 		$version = new VersionString();
-		console("[INFO] Starting CNR version ".FORMAT_AQUA.CURRENT_MINECRAFT_VERSION);
+		console("[INFO] Starting Minecraft PE server version ".FORMAT_AQUA.CURRENT_MINECRAFT_VERSION);
 		
 		console("[INFO] Loading properties...");
 		$this->config = new Config(DATA_PATH . "server.properties", CONFIG_PROPERTIES, array(
-			"server-name" => "CNR",
+			"server-name" => "Minecraft: PE Server",
 			"description" => "Server made using PocketMine-MP",
-			"motd" => "Welcome builder @player to be back!",
+			"motd" => "Welcome @player to this server!",
 			"server-ip" => "",
-			"server-port" => 19135,
+			"server-port" => 19132,
 			"server-type" => "normal",
 			"memory-limit" => "128M",
 			"last-update" => false,
@@ -118,12 +118,12 @@ class ServerAPI{
 			"allow-flight" => false,
 			"spawn-animals" => true,
 			"spawn-mobs" => true,
-			"gamemode" => VIEW,
+			"gamemode" => SURVIVAL,
 			"hardcore" => false,
 			"pvp" => true,
 			"difficulty" => 1,
 			"generator-settings" => "",
-			"level-name" => "Buffer world",
+			"level-name" => "world",
 			"level-seed" => "",
 			"level-type" => "DEFAULT",
 			"enable-query" => true,
@@ -143,7 +143,7 @@ class ServerAPI{
 		$this->server = new PocketMinecraftServer($this->getProperty("server-name"), $this->getProperty("gamemode"), ($seed = $this->getProperty("level-seed")) != "" ? (int) $seed:false, $this->getProperty("server-port"), ($ip = $this->getProperty("server-ip")) != "" ? $ip:"0.0.0.0");
 		$this->server->api = $this;
 		self::$serverRequest = $this->server;
-		console("[INFO] This server is running PocketMine-MP version ".($version->isDev() ? FORMAT_YELLOW:"").MAJOR_VERSION.FORMAT_RESET." (MCPE: ".CURRENT_MINECRAFT_VERSION.") (API ".CURRENT_API_VERSION.")", true, true, 0);
+		console("[INFO] This server is running PocketMine-MP version ".($version->isDev() ? FORMAT_YELLOW:"").MAJOR_VERSION.FORMAT_RESET." \"".CODENAME."\" (MCPE: ".CURRENT_MINECRAFT_VERSION.") (API ".CURRENT_API_VERSION.")", true, true, 0);
 		console("[INFO] PocketMine-MP is distibuted under the LGPL License", true, true, 0);
 
 		if($this->getProperty("upnp-forwarding") === true){

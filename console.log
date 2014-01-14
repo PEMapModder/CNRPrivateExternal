@@ -11221,3 +11221,1565 @@ Remember /sync
 2014-01-08 22:37:58 [INFO] Unloading level "lobby"
 2014-01-08 22:37:58 [INFO] Unloading level "old"
 2014-01-08 22:38:00 [INFO] Unloading level "prep"
+2014-01-08 22:39:16 [INFO] Starting CNR version v0.8.1 alpha
+2014-01-08 22:39:16 [INFO] Loading properties...
+2014-01-08 22:39:16 [INFO] Starting on *:19135
+2014-01-08 22:39:16 [INFO] This server is running PocketMine-MP version Alpha_1.3.11dev (MCPE: v0.8.1 alpha) (API 11)
+2014-01-08 22:39:16 [INFO] PocketMine-MP is distibuted under the LGPL License
+2014-01-08 22:39:16 [INFO] Preparing level "Buffer world"
+2014-01-08 22:39:16 [INFO] Loading plugin "CNR_Mapping_Plugin" 0.2.0 by PEMapModder
+2014-01-08 22:39:16 [INFO] Loading plugin "CommandEcho" 1.0.0 by ZacHack
+2014-01-08 22:39:16 [WARNING] Plugin "CommandEcho" may not be compatible with the API (10 != 11)! It can crash or corrupt the server!
+2014-01-08 22:39:16 [INFO] Loading plugin "PermissionPlus" 1.0.9 by Omattyao
+2014-01-08 22:39:16 [INFO] Loading plugin "SimpleAuth" 0.3.4 by shoghicp
+2014-01-08 22:39:16 [INFO] Loading plugin "SimpleWorlds" 0.3 by PocketMine Team
+2014-01-08 22:39:16 [INFO] Loading plugin "WorldEditor" 0.8 by shoghicp
+2014-01-08 22:39:16 [WARNING] Plugin "WorldEditor" may not be compatible with the API (7,8,9,10 != 11)! It can crash or corrupt the server!
+2014-01-08 22:39:16 [INFO] Starting GS4 status listener
+2014-01-08 22:39:16 [INFO] Setting query port to 19135
+2014-01-08 22:39:16 [INFO] Query running on 0.0.0.0:19135
+2014-01-08 22:39:19 [INFO] Default game type: VIEW
+2014-01-08 22:39:19 [INFO] Starting plugins...
+2014-01-08 22:39:19 [INFO] default
+Remember /sync
+2014-01-08 22:39:19 [INFO] SimpleAuth enabled!
+2014-01-08 22:39:19 [SimpleWorlds] Loading levels...
+2014-01-08 22:39:19 [INFO] Preparing level "new"
+2014-01-08 22:39:20 [INFO] Preparing level "lobby"
+2014-01-08 22:39:21 [INFO] Preparing level "old"
+2014-01-08 22:39:25 [INFO] Preparing level "prep"
+2014-01-08 22:39:26 [INFO] Done (9.777s)! For help, type "help" or "?"
+2014-01-08 22:39:37 [INFO] Joel123yeo[/119.74.24.103:50142] logged out due to You are banned!
+2014-01-08 22:39:52 [CMD] Usage: /banip <add|remove|list|reload> [IP|player]
+2014-01-08 22:39:58 [CMD] IP "joel123yeo" removed from ban list
+2014-01-08 22:40:01 [CMD] IP ban list: 119.74.24.103
+2014-01-08 22:40:06 [CMD] IP "119.74.24.103" removed from ban list
+2014-01-08 22:41:11 [CMD] IP "119.74.24.103" added to ban list
+2014-01-08 22:41:13 [INFO] Stopping server...
+2014-01-08 22:41:13 [CMD] Stopping the server
+2014-01-08 22:41:14 [INFO] Unloading level "Buffer world"
+2014-01-08 22:41:15 [INFO] Unloading level "new"
+2014-01-08 22:41:15 [INFO] Unloading level "lobby"
+2014-01-08 22:41:15 [INFO] Unloading level "old"
+2014-01-08 22:41:16 [INFO] Unloading level "prep"
+2014-01-09 18:19:03 [INFO] Starting CNR version v0.8.1 alpha
+2014-01-09 18:19:03 [INFO] Loading properties...
+2014-01-09 18:19:03 [INFO] Starting on *:19135
+2014-01-09 18:19:03 [INFO] This server is running PocketMine-MP version Alpha_1.3.11dev (MCPE: v0.8.1 alpha) (API 11)
+2014-01-09 18:19:03 [INFO] PocketMine-MP is distibuted under the LGPL License
+2014-01-09 18:19:03 [INFO] Checking for new server version
+2014-01-09 18:19:03 [INFO] Last check: 2014-01-08 22:17:36
+2014-01-09 18:19:06 [INFO] This is the latest DEVELOPMENT version
+2014-01-09 18:19:06 [INFO] Preparing level "Buffer world"
+2014-01-09 18:19:06 [INFO] Loading plugin "CNR_Mapping_Plugin" 0.2.0 by PEMapModder
+2014-01-09 18:19:06 [INFO] Loading plugin "CommandEcho" 1.0.0 by ZacHack
+2014-01-09 18:19:06 [WARNING] Plugin "CommandEcho" may not be compatible with the API (10 != 11)! It can crash or corrupt the server!
+2014-01-09 18:19:06 [INFO] Loading plugin "PermissionPlus" 1.0.9 by Omattyao
+2014-01-09 18:19:06 [INFO] Loading plugin "SimpleAuth" 0.3.4 by shoghicp
+2014-01-09 18:19:06 [INFO] Loading plugin "SimpleWorlds" 0.3 by PocketMine Team
+2014-01-09 18:19:06 [INFO] Loading plugin "WorldEditor" 0.8 by shoghicp
+2014-01-09 18:19:06 [WARNING] Plugin "WorldEditor" may not be compatible with the API (7,8,9,10 != 11)! It can crash or corrupt the server!
+2014-01-09 18:19:06 [INFO] Starting GS4 status listener
+2014-01-09 18:19:06 [INFO] Setting query port to 19135
+2014-01-09 18:19:06 [INFO] Query running on 0.0.0.0:19135
+2014-01-09 18:19:08 [INFO] Default game type: VIEW
+2014-01-09 18:19:08 [INFO] Starting plugins...
+2014-01-09 18:19:08 [INFO] default
+Remember /sync
+2014-01-09 18:19:09 [INFO] SimpleAuth enabled!
+2014-01-09 18:19:09 [SimpleWorlds] Loading levels...
+2014-01-09 18:19:09 [INFO] Preparing level "new"
+2014-01-09 18:19:10 [INFO] Preparing level "lobby"
+2014-01-09 18:19:11 [INFO] Preparing level "old"
+2014-01-09 18:19:16 [INFO] Preparing level "prep"
+2014-01-09 18:19:16 [INFO] Done (13.274s)! For help, type "help" or "?"
+2014-01-09 18:19:18 [INFO] Stopping server...
+2014-01-09 18:19:18 [CMD] Stopping the server
+2014-01-09 18:19:19 [INFO] Unloading level "Buffer world"
+2014-01-09 18:19:19 [INFO] Unloading level "new"
+2014-01-09 18:19:20 [INFO] Unloading level "lobby"
+2014-01-09 18:19:20 [INFO] Unloading level "old"
+2014-01-09 18:19:21 [INFO] Unloading level "prep"
+2014-01-09 18:19:51 [INFO] Starting CNR version v0.8.1 alpha
+2014-01-09 18:19:51 [INFO] Loading properties...
+2014-01-09 18:19:51 [INFO] Starting on *:19135
+2014-01-09 18:19:51 [INFO] This server is running PocketMine-MP version Alpha_1.3.11dev (MCPE: v0.8.1 alpha) (API 11)
+2014-01-09 18:19:51 [INFO] PocketMine-MP is distibuted under the LGPL License
+2014-01-09 18:19:51 [INFO] Preparing level "Buffer world"
+2014-01-09 18:19:51 [INFO] Loading plugin "CNR_Mapping_Plugin" 0.2.0 by PEMapModder
+2014-01-09 18:19:51 [INFO] Loading plugin "CommandEcho" 1.0.0 by ZacHack
+2014-01-09 18:19:51 [WARNING] Plugin "CommandEcho" may not be compatible with the API (10 != 11)! It can crash or corrupt the server!
+2014-01-09 18:19:51 [INFO] Loading plugin "PermissionPlus" 1.0.9 by Omattyao
+2014-01-09 18:19:51 [INFO] Loading plugin "SimpleAuth" 0.3.4 by shoghicp
+2014-01-09 18:19:51 [INFO] Loading plugin "SimpleWorlds" 0.3 by PocketMine Team
+2014-01-09 18:19:51 [INFO] Loading plugin "WorldEditor" 0.8 by shoghicp
+2014-01-09 18:19:51 [WARNING] Plugin "WorldEditor" may not be compatible with the API (7,8,9,10 != 11)! It can crash or corrupt the server!
+2014-01-09 18:19:51 [INFO] Starting remote control listener
+2014-01-09 18:19:51 [INFO] RCON running on 0.0.0.0:19135
+2014-01-09 18:19:51 [INFO] Starting GS4 status listener
+2014-01-09 18:19:51 [INFO] Setting query port to 19135
+2014-01-09 18:19:51 [INFO] Query running on 0.0.0.0:19135
+2014-01-09 18:19:53 [INFO] Default game type: VIEW
+2014-01-09 18:19:53 [INFO] Starting plugins...
+2014-01-09 18:19:53 [INFO] default
+Remember /sync
+2014-01-09 18:19:54 [INFO] SimpleAuth enabled!
+2014-01-09 18:19:54 [SimpleWorlds] Loading levels...
+2014-01-09 18:19:54 [INFO] Preparing level "new"
+2014-01-09 18:19:54 
+                     [OWNER]                            :  /simpleworlds
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /login
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /register
+              [ADMIN][OWNER]                            :  /ban
+              [ADMIN][OWNER]                            :  /banip
+              [ADMIN][OWNER]                            :  /defaultgamemode
+       [TRUST][ADMIN][OWNER]                            :  /deop
+              [ADMIN][OWNER]                            :  /difficulty
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /gamemode
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /give
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /help
+       [TRUST][ADMIN][OWNER]                            :  /kick
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /kill
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /list
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /me
+       [TRUST][ADMIN][OWNER]                            :  /op
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /ping
+              [ADMIN]                                   :  /save-all
+              [ADMIN]                                   :  /save-off
+              [ADMIN]                                   :  /save-on
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /say
+       [TRUST][ADMIN][OWNER][BUILD][TESTE]       [WEBLD]:  /seed
+       [TRUST][ADMIN][OWNER]                            :  /spawn
+       [TRUST][ADMIN][OWNER]                            :  /spawnpoint
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /status
+              [ADMIN]                                   :  /stop
+              [ADMIN][OWNER]                            :  /sudo
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /tell
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /time
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /tp
+              [ADMIN][OWNER]                            :  /whitelist
+              [ADMIN][OWNER]                            :  /ppplayer
+              [ADMIN]                                   :  /ppcommand
+              [ADMIN]                                   :  /ppconfig
+              [ADMIN]                                   :  /noexplosion
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /qrotate
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /switchw
+                     [OWNER]                            :  /cafk
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /seeping
+                     [OWNER]                     [WEBLD]:  //
+
+2014-01-09 18:19:54 [CMD] Usage: /ppcommand <command> (guest)(trust)(admin)(owner)(build)(teste)(watch)(webld)
+2014-01-09 18:19:55 [INFO] Preparing level "lobby"
+2014-01-09 18:19:56 [INFO] Preparing level "old"
+2014-01-09 18:19:58 
+                     [OWNER]                            :  /simpleworlds
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /login
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /register
+              [ADMIN][OWNER]                            :  /ban
+              [ADMIN][OWNER]                            :  /banip
+              [ADMIN][OWNER]                            :  /defaultgamemode
+       [TRUST][ADMIN][OWNER]                            :  /deop
+              [ADMIN][OWNER]                            :  /difficulty
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /gamemode
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /give
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /help
+       [TRUST][ADMIN][OWNER]                            :  /kick
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /kill
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /list
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /me
+       [TRUST][ADMIN][OWNER]                            :  /op
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /ping
+              [ADMIN]                                   :  /save-all
+              [ADMIN]                                   :  /save-off
+              [ADMIN]                                   :  /save-on
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /say
+       [TRUST][ADMIN][OWNER][BUILD][TESTE]       [WEBLD]:  /seed
+       [TRUST][ADMIN][OWNER]                            :  /spawn
+       [TRUST][ADMIN][OWNER]                            :  /spawnpoint
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /status
+              [ADMIN]                                   :  /stop
+              [ADMIN][OWNER]                            :  /sudo
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /tell
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /time
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /tp
+              [ADMIN][OWNER]                            :  /whitelist
+              [ADMIN][OWNER]                            :  /ppplayer
+              [ADMIN]                                   :  /ppcommand
+              [ADMIN]                                   :  /ppconfig
+              [ADMIN]                                   :  /noexplosion
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /qrotate
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /switchw
+                     [OWNER]                            :  /cafk
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /seeping
+                     [OWNER]                     [WEBLD]:  //
+
+2014-01-09 18:19:58 [CMD] Usage: /ppcommand <command> (guest)(trust)(admin)(owner)(build)(teste)(watch)(webld)
+2014-01-09 18:19:59 
+                     [OWNER]                            :  /simpleworlds
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /login
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /register
+              [ADMIN][OWNER]                            :  /ban
+              [ADMIN][OWNER]                            :  /banip
+              [ADMIN][OWNER]                            :  /defaultgamemode
+       [TRUST][ADMIN][OWNER]                            :  /deop
+              [ADMIN][OWNER]                            :  /difficulty
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /gamemode
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /give
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /help
+       [TRUST][ADMIN][OWNER]                            :  /kick
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /kill
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /list
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /me
+       [TRUST][ADMIN][OWNER]                            :  /op
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /ping
+              [ADMIN]                                   :  /save-all
+              [ADMIN]                                   :  /save-off
+              [ADMIN]                                   :  /save-on
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /say
+       [TRUST][ADMIN][OWNER][BUILD][TESTE]       [WEBLD]:  /seed
+       [TRUST][ADMIN][OWNER]                            :  /spawn
+       [TRUST][ADMIN][OWNER]                            :  /spawnpoint
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /status
+              [ADMIN]                                   :  /stop
+              [ADMIN][OWNER]                            :  /sudo
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /tell
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /time
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /tp
+              [ADMIN][OWNER]                            :  /whitelist
+              [ADMIN][OWNER]                            :  /ppplayer
+              [ADMIN]                                   :  /ppcommand
+              [ADMIN]                                   :  /ppconfig
+              [ADMIN]                                   :  /noexplosion
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /qrotate
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /switchw
+                     [OWNER]                            :  /cafk
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /seeping
+                     [OWNER]                     [WEBLD]:  //
+
+2014-01-09 18:19:59 [CMD] Usage: /ppcommand <command> (guest)(trust)(admin)(owner)(build)(teste)(watch)(webld)
+2014-01-09 18:20:00 [INFO] Preparing level "prep"
+2014-01-09 18:20:01 [INFO] Done (10.34s)! For help, type "help" or "?"
+2014-01-09 18:20:30 [CMD] [Permission+] Gived BUILD to minidoesmcpe.
+2014-01-09 18:20:42 [CMD] [Permission+] Gived BUILD to cumslogan.
+2014-01-09 18:20:55 [CMD] [Permission+] Gived BUILD to bluephoenix911.
+2014-01-09 18:21:04 
+[OFFLINE][OWNER]:  pemapmodder
+[OFFLINE][OWNER]:  12458
+[OFFLINE][WEBLD]:  tjvdg
+[OFFLINE][BUILD]:  yy
+[OFFLINE][OWNER]:  lambo
+[OFFLINE][BUILD]:  minidoesmcpe
+[OFFLINE][BUILD]:  cumslogan
+[OFFLINE][BUILD]:  bluephoenix911
+
+2014-01-09 18:21:04 [CMD] Usage: /ppplayer <player> <guest | trust | admin | owner | build | teste | watch | webld>
+2014-01-09 18:21:31 [CMD] Usage: /ppplayer <player> <guest | trust | admin | owner | build | teste | watch | webld>
+2014-01-09 18:21:39 [CMD] Command doesn't exist! Use /help
+2014-01-09 18:21:43 [CMD] [Permission+] Gived BUILD to lambo.
+2014-01-09 18:21:58 [CMD] [Permission+] Gived BUILD to st00rmer25631.
+2014-01-09 18:22:23 [CMD] [Permission+] Gived BUILD to sleepy_complex.
+2014-01-09 18:22:23 [INFO] default
+Remember /sync
+2014-01-09 18:22:24 [CMD] Usage: /whitelist <on|off|list|add|remove|reload> [username]
+2014-01-09 18:22:28 [CMD] White-list turned off
+2014-01-09 18:22:32 [CMD] Usage: /defaultgamemode <mode>
+2014-01-09 18:23:58 [CMD] [Permission+] Gived BUILD to klankus.
+2014-01-09 18:24:00 [CMD] White-list: pemapmodder, st00rmer25631, 12458, yy, butter, n3croking62, pemapmodders, stevesboss, hero0fhyrule, necroking, pemm, buddergirl1001, buddergirl, minidoesmcpe, bluephoenix911, sleepy_complex, scream, tjvdg, tiaranoboo, klankus, iamtheles, superkill_186, superkill_777, jmgimboo, superkill_168, gmjimboo, tbpm, youtbpm_elvin
+2014-01-09 18:24:19 [CMD] [Permission+] Gived BUILD to scream.
+2014-01-09 18:24:35 [CMD] [Permission+] Gived WEBLD to iamtheles.
+2014-01-09 18:24:53 [INFO] default
+Remember /sync
+2014-01-09 18:26:07 [CMD] [Permission+] Gived BUILD to superkill_168.
+2014-01-09 18:26:22 [CMD] [Permission+] Gived BUILD to gmjimboo.
+2014-01-09 18:26:50 
+[OFFLINE][OWNER]:  pemapmodder
+[OFFLINE][OWNER]:  12458
+[OFFLINE][WEBLD]:  tjvdg
+[OFFLINE][BUILD]:  yy
+[OFFLINE][BUILD]:  lambo
+[OFFLINE][BUILD]:  minidoesmcpe
+[OFFLINE][BUILD]:  cumslogan
+[OFFLINE][BUILD]:  bluephoenix911
+[OFFLINE][BUILD]:  st00rmer25631
+[OFFLINE][BUILD]:  sleepy_complex
+[OFFLINE][BUILD]:  klankus
+[OFFLINE][BUILD]:  scream
+[OFFLINE][WEBLD]:  iamtheles
+[OFFLINE][BUILD]:  superkill_168
+[OFFLINE][BUILD]:  gmjimboo
+
+2014-01-09 18:26:50 [CMD] Usage: /ppplayer <player> <guest | trust | admin | owner | build | teste | watch | webld>
+2014-01-09 18:26:58 [CMD] [Permission+] Gived BUILD to youtbpm_elvin.
+2014-01-09 18:27:23 [INFO] default
+Remember /sync
+2014-01-09 18:29:53 [INFO] default
+Remember /sync
+2014-01-09 18:30:52 [INFO] Stopping server...
+2014-01-09 18:30:52 [CMD] Stopping the server
+2014-01-09 18:30:54 [INFO] Unloading level "Buffer world"
+2014-01-09 18:30:54 [INFO] Unloading level "new"
+2014-01-09 18:30:55 [INFO] Unloading level "lobby"
+2014-01-09 18:30:55 [INFO] Unloading level "old"
+2014-01-09 18:30:56 [INFO] Unloading level "prep"
+2014-01-10 19:21:50 [INFO] Starting CNR version v0.8.1 alpha
+2014-01-10 19:21:51 [INFO] Loading properties...
+2014-01-10 19:21:51 [INFO] Starting on *:19135
+2014-01-10 19:21:51 [INFO] This server is running PocketMine-MP version Alpha_1.3.11dev (MCPE: v0.8.1 alpha) (API 11)
+2014-01-10 19:21:51 [INFO] PocketMine-MP is distibuted under the LGPL License
+2014-01-10 19:21:51 [INFO] Checking for new server version
+2014-01-10 19:21:51 [INFO] Last check: 2014-01-09 18:19:06
+2014-01-10 19:21:54 [INFO] This is the latest DEVELOPMENT version
+2014-01-10 19:21:54 [INFO] Preparing level "Buffer world"
+2014-01-10 19:21:54 [INFO] Loading plugin "CNR_Mapping_Plugin" 0.2.0 by PEMapModder
+2014-01-10 19:21:54 [INFO] Loading plugin "CommandEcho" 1.0.0 by ZacHack
+2014-01-10 19:21:54 [WARNING] Plugin "CommandEcho" may not be compatible with the API (10 != 11)! It can crash or corrupt the server!
+2014-01-10 19:21:54 [INFO] Loading plugin "PermissionPlus" 1.0.9 by Omattyao
+2014-01-10 19:21:54 [INFO] Loading plugin "SimpleAuth" 0.3.4 by shoghicp
+2014-01-10 19:21:54 [INFO] Loading plugin "SimpleWorlds" 0.3 by PocketMine Team
+2014-01-10 19:21:54 [INFO] Loading plugin "WorldEditor" 0.8 by shoghicp
+2014-01-10 19:21:54 [WARNING] Plugin "WorldEditor" may not be compatible with the API (7,8,9,10 != 11)! It can crash or corrupt the server!
+2014-01-10 19:21:54 [INFO] Starting remote control listener
+2014-01-10 19:21:54 [INFO] RCON running on 0.0.0.0:19135
+2014-01-10 19:21:54 [INFO] Starting GS4 status listener
+2014-01-10 19:21:54 [INFO] Setting query port to 19135
+2014-01-10 19:21:54 [INFO] Query running on 0.0.0.0:19135
+2014-01-10 19:21:56 [INFO] Default game type: VIEW
+2014-01-10 19:21:56 [INFO] Starting plugins...
+2014-01-10 19:21:56 [INFO] default
+Remember /sync
+2014-01-10 19:21:57 [INFO] SimpleAuth enabled!
+2014-01-10 19:21:57 [SimpleWorlds] Loading levels...
+2014-01-10 19:21:57 [INFO] Preparing level "new"
+2014-01-10 19:21:58 [INFO] Preparing level "lobby"
+2014-01-10 19:21:59 [INFO] Preparing level "old"
+2014-01-10 19:22:04 [INFO] Preparing level "prep"
+2014-01-10 19:22:04 [INFO] Done (13.757s)! For help, type "help" or "?"
+2014-01-10 19:24:26 [INFO] default
+Remember /sync
+2014-01-10 19:26:06 [INFO] PEMapModder[/219.73.81.15:45328] logged in with entity id 315 at (new, 153.47, 38, 95.02)
+2014-01-10 19:26:28 PEMapModder entered
+2014-01-10 19:26:38 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-10 19:26:38 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-10 19:26:38 PEMapModder has used /sync off
+2014-01-10 19:26:56 [INFO] default
+Remember /sync
+2014-01-10 19:27:51 
+[ONLINE][OWNER]:  pemapmodder
+[OFFLINE][OWNER]:  12458
+[OFFLINE][WEBLD]:  tjvdg
+[OFFLINE][BUILD]:  yy
+[OFFLINE][BUILD]:  lambo
+[OFFLINE][BUILD]:  minidoesmcpe
+[OFFLINE][BUILD]:  cumslogan
+[OFFLINE][BUILD]:  bluephoenix911
+[OFFLINE][BUILD]:  st00rmer25631
+[OFFLINE][BUILD]:  sleepy_complex
+[OFFLINE][BUILD]:  klankus
+[OFFLINE][BUILD]:  scream
+[OFFLINE][WEBLD]:  iamtheles
+[OFFLINE][BUILD]:  superkill_168
+[OFFLINE][BUILD]:  gmjimboo
+[OFFLINE][BUILD]:  youtbpm_elvin
+[ONLINE][GUEST]:  PEMapModder
+
+2014-01-10 19:27:51 [CMD] Usage: /ppplayer <player> <guest | trust | admin | owner | build | teste | watch | webld>
+2014-01-10 19:27:56 
+                     [OWNER]                            :  /simpleworlds
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /login
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /register
+              [ADMIN][OWNER]                            :  /ban
+              [ADMIN][OWNER]                            :  /banip
+              [ADMIN][OWNER]                            :  /defaultgamemode
+       [TRUST][ADMIN][OWNER]                            :  /deop
+              [ADMIN][OWNER]                            :  /difficulty
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /gamemode
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /give
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /help
+       [TRUST][ADMIN][OWNER]                            :  /kick
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /kill
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /list
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /me
+       [TRUST][ADMIN][OWNER]                            :  /op
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /ping
+              [ADMIN]                                   :  /save-all
+              [ADMIN]                                   :  /save-off
+              [ADMIN]                                   :  /save-on
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /say
+       [TRUST][ADMIN][OWNER][BUILD][TESTE]       [WEBLD]:  /seed
+       [TRUST][ADMIN][OWNER]                            :  /spawn
+       [TRUST][ADMIN][OWNER]                            :  /spawnpoint
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /status
+              [ADMIN]                                   :  /stop
+              [ADMIN][OWNER]                            :  /sudo
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /tell
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /time
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /tp
+              [ADMIN][OWNER]                            :  /whitelist
+              [ADMIN][OWNER]                            :  /ppplayer
+              [ADMIN]                                   :  /ppcommand
+              [ADMIN]                                   :  /ppconfig
+              [ADMIN]                                   :  /noexplosion
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /qrotate
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /switchw
+                     [OWNER]                            :  /cafk
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /seeping
+                     [OWNER]                     [WEBLD]:  //
+
+2014-01-10 19:27:56 [CMD] Usage: /ppcommand <command> (guest)(trust)(admin)(owner)(build)(teste)(watch)(webld)
+2014-01-10 19:28:23 [INFO] PEMapModder left the game
+2014-01-10 19:28:23 [INFO] PEMapModder[/219.73.81.15:45328] logged out due to client disconnect
+2014-01-10 19:28:38 [INFO] pemapmodder[/219.73.81.15:49064] logged in with entity id 316 at (new, 3.36, 41.75, 252.85)
+2014-01-10 19:28:56 pemapmodder entered
+2014-01-10 19:29:08 pemapmodder has used /tp w:lobby
+2014-01-10 19:29:17 
+[ONLINE][OWNER]:  pemapmodder
+[OFFLINE][OWNER]:  12458
+[OFFLINE][WEBLD]:  tjvdg
+[OFFLINE][BUILD]:  yy
+[OFFLINE][BUILD]:  lambo
+[OFFLINE][BUILD]:  minidoesmcpe
+[OFFLINE][BUILD]:  cumslogan
+[OFFLINE][BUILD]:  bluephoenix911
+[OFFLINE][BUILD]:  st00rmer25631
+[OFFLINE][BUILD]:  sleepy_complex
+[OFFLINE][BUILD]:  klankus
+[OFFLINE][BUILD]:  scream
+[OFFLINE][WEBLD]:  iamtheles
+[OFFLINE][BUILD]:  superkill_168
+[OFFLINE][BUILD]:  gmjimboo
+[OFFLINE][BUILD]:  youtbpm_elvin
+[ONLINE][GUEST]:  PEMapModder
+
+2014-01-10 19:29:17 [CMD] Usage: /ppplayer <player> <guest | trust | admin | owner | build | teste | watch | webld>
+2014-01-10 19:29:26 [INFO] default
+Remember /sync
+2014-01-10 19:31:56 [INFO] default
+Remember /sync
+2014-01-10 19:32:58 pemapmodder has used /switchw 
+2014-01-10 19:33:19 pemapmodder has used /switchw 
+2014-01-10 19:33:27 pemapmodder has used /switchw 3
+2014-01-10 19:33:55 pemapmodder has used /tp w:prep
+2014-01-10 19:34:15 [Permission+] NOTICE: "/warp" permission is not setted!
+2014-01-10 19:34:15 [Permission+] Usage: /ppcommand warp (g) (t) (a)
+2014-01-10 19:34:15 pemapmodder has used /warp team creeper spawn
+2014-01-10 19:34:26 pemapmodder has used /ping 
+2014-01-10 19:34:26 [INFO] default
+Remember /sync
+2014-01-10 19:34:37 [Permission+] NOTICE: "/warp" permission is not setted!
+2014-01-10 19:34:37 [Permission+] Usage: /ppcommand warp (g) (t) (a)
+2014-01-10 19:34:37 pemapmodder has used /warp team creeper prep
+2014-01-10 19:35:54 [Permission+] NOTICE: "/getpos" permission is not setted!
+2014-01-10 19:35:54 [Permission+] Usage: /ppcommand getpos (g) (t) (a)
+2014-01-10 19:35:54 pemapmodder has used /getpos 
+2014-01-10 19:36:19 [CMD] [Permission+] Assigned OWNER to "/warp".
+2014-01-10 19:36:25 [CMD] [Permission+] Assigned GUEST to "/warp".
+2014-01-10 19:36:29 [CMD] [Permission+] Invalid value: "o"
+2014-01-10 19:36:29 [CMD] [Permission+] "/warp" was disabled.
+2014-01-10 19:36:35 [CMD] [Permission+] Assigned OWNER to "/warp".
+2014-01-10 19:36:38 
+                     [OWNER]                            :  /simpleworlds
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /login
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /register
+              [ADMIN][OWNER]                            :  /ban
+              [ADMIN][OWNER]                            :  /banip
+              [ADMIN][OWNER]                            :  /defaultgamemode
+       [TRUST][ADMIN][OWNER]                            :  /deop
+              [ADMIN][OWNER]                            :  /difficulty
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /gamemode
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /give
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /help
+       [TRUST][ADMIN][OWNER]                            :  /kick
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /kill
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /list
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /me
+       [TRUST][ADMIN][OWNER]                            :  /op
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /ping
+              [ADMIN]                                   :  /save-all
+              [ADMIN]                                   :  /save-off
+              [ADMIN]                                   :  /save-on
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /say
+       [TRUST][ADMIN][OWNER][BUILD][TESTE]       [WEBLD]:  /seed
+       [TRUST][ADMIN][OWNER]                            :  /spawn
+       [TRUST][ADMIN][OWNER]                            :  /spawnpoint
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /status
+              [ADMIN]                                   :  /stop
+              [ADMIN][OWNER]                            :  /sudo
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /tell
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /time
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /tp
+              [ADMIN][OWNER]                            :  /whitelist
+              [ADMIN][OWNER]                            :  /ppplayer
+              [ADMIN]                                   :  /ppcommand
+              [ADMIN]                                   :  /ppconfig
+              [ADMIN]                                   :  /noexplosion
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /qrotate
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /switchw
+                     [OWNER]                            :  /cafk
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /seeping
+                     [OWNER]                     [WEBLD]:  //
+                     [OWNER]                            :  /warp
+
+2014-01-10 19:36:38 [CMD] Usage: /ppcommand <command> (guest)(trust)(admin)(owner)(build)(teste)(watch)(webld)
+2014-01-10 19:36:53 [CMD] [Permission+] Invalid value: "o"
+2014-01-10 19:36:53 [CMD] [Permission+] "/ppcommand" was disabled.
+2014-01-10 19:36:56 [INFO] default
+Remember /sync
+2014-01-10 19:37:06 [CMD] [Permission+] Invalid value: "o"
+2014-01-10 19:37:06 [CMD] [Permission+] "/ppplayer" was disabled.
+2014-01-10 19:37:13 [CMD] [Permission+] Invalid value: "o"
+2014-01-10 19:37:13 [CMD] [Permission+] "/noexplosion" was disabled.
+2014-01-10 19:37:22 [CMD] [Permission+] Invalid value: "o"
+2014-01-10 19:37:22 [CMD] [Permission+] "/ppconfig" was disabled.
+2014-01-10 19:37:28 
+                     [OWNER]                            :  /simpleworlds
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /login
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /register
+              [ADMIN][OWNER]                            :  /ban
+              [ADMIN][OWNER]                            :  /banip
+              [ADMIN][OWNER]                            :  /defaultgamemode
+       [TRUST][ADMIN][OWNER]                            :  /deop
+              [ADMIN][OWNER]                            :  /difficulty
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /gamemode
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /give
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /help
+       [TRUST][ADMIN][OWNER]                            :  /kick
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /kill
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /list
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /me
+       [TRUST][ADMIN][OWNER]                            :  /op
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /ping
+              [ADMIN]                                   :  /save-all
+              [ADMIN]                                   :  /save-off
+              [ADMIN]                                   :  /save-on
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /say
+       [TRUST][ADMIN][OWNER][BUILD][TESTE]       [WEBLD]:  /seed
+       [TRUST][ADMIN][OWNER]                            :  /spawn
+       [TRUST][ADMIN][OWNER]                            :  /spawnpoint
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /status
+              [ADMIN]                                   :  /stop
+              [ADMIN][OWNER]                            :  /sudo
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /tell
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /time
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /tp
+              [ADMIN][OWNER]                            :  /whitelist
+                                                        :  /ppplayer
+                                                        :  /ppcommand
+                                                        :  /ppconfig
+                                                        :  /noexplosion
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /qrotate
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /switchw
+                     [OWNER]                            :  /cafk
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /seeping
+                     [OWNER]                     [WEBLD]:  //
+                     [OWNER]                            :  /warp
+
+2014-01-10 19:37:28 [CMD] Usage: /ppcommand <command> (guest)(trust)(admin)(owner)(build)(teste)(watch)(webld)
+2014-01-10 19:37:38 [Permission+] NOTICE: "/getpos" permission is not setted!
+2014-01-10 19:37:38 [Permission+] Usage: /ppcommand getpos (g) (t) (a)
+2014-01-10 19:37:38 pemapmodder has used /getpos 
+2014-01-10 19:37:51 [CMD] [Permission+] Assigned OWNER to "/getpos".
+2014-01-10 19:39:03 pemapmodder has used /getpos 
+2014-01-10 19:39:21 pemapmodder has used /getpos 
+2014-01-10 19:39:26 [INFO] default
+Remember /sync
+2014-01-10 19:39:32 pemapmodder has used /tp 50 70 50
+2014-01-10 19:39:57 [CMD] "pemapmodder" teleported to (50, 70, 205)
+2014-01-10 19:41:19 [CMD] "pemapmodder" teleported to (50, 70, 50)
+2014-01-10 19:41:56 [INFO] default
+Remember /sync
+2014-01-10 19:42:11 pemapmodder has used /getpos 
+2014-01-10 19:42:27 [CMD] "pemapmodder" teleported to (50, 70, 205)
+2014-01-10 19:42:39 pemapmodder has used // 
+2014-01-10 19:42:39 [CMD] Command ran as pemapmodder.
+2014-01-10 19:42:50 pemapmodder has used // 7 40
+2014-01-10 19:42:54 [CMD] Command ran as pemapmodder.
+2014-01-10 19:42:59 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 19:43:13 [CMD] Only usable by spawned players or /getpos <player>.
+2014-01-10 19:43:15 [CMD] X: 50 Y: 70 Z: 205
+2014-01-10 19:43:27 pemapmodder has used // 0 38
+2014-01-10 19:43:30 [CMD] Command ran as pemapmodder.
+2014-01-10 19:43:32 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 19:43:52 [CMD] Player not connected.
+2014-01-10 19:44:02 pemapmodder has used // 37
+2014-01-10 19:44:02 [CMD] Command ran as pemapmodder.
+2014-01-10 19:44:10 pemapmodder has used // 0 37
+2014-01-10 19:44:42 [CMD] Command ran as pemapmodder.
+2014-01-10 19:44:43 [INFO] pemapmodder left the game
+2014-01-10 19:44:43 [INFO] pemapmodder[/219.73.81.15:49064] logged out due to timeout
+2014-01-10 19:44:43 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 19:44:43 [INFO] default
+Remember /sync
+2014-01-10 19:44:43 [CMD] TPS: 1.1493, Memory usage: 18.56MB (Peak 54.01MB)
+2014-01-10 19:44:44 [INFO] pemapmodder[/219.73.81.15:35502] logged in with entity id 318 at (prep, 50, 70, 205)
+2014-01-10 19:45:03 pemapmodder entered
+2014-01-10 19:45:10 [CMD] "pemapmodder" teleported to (50, 70, 205)
+2014-01-10 19:45:37 pemapmodder has used // 0 39
+2014-01-10 19:45:41 [CMD] Command ran as pemapmodder.
+2014-01-10 19:45:43 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 19:46:01 pemapmodder has used // 0 39.5
+2014-01-10 19:46:05 [CMD] Command ran as pemapmodder.
+2014-01-10 19:46:34 pemapmodder has used // 0 40
+2014-01-10 19:47:10 [CMD] Command ran as pemapmodder.
+2014-01-10 19:47:10 [INFO] pemapmodder left the game
+2014-01-10 19:47:10 [INFO] pemapmodder[/219.73.81.15:35502] logged out due to timeout
+2014-01-10 19:47:10 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 19:47:12 [CMD] TPS: 1.0078, Memory usage: 18.49MB (Peak 54.01MB)
+2014-01-10 19:47:13 [INFO] default
+Remember /sync
+2014-01-10 19:49:43 [INFO] default
+Remember /sync
+2014-01-10 19:50:11 
+[OFFLINE][OWNER]:  pemapmodder
+[OFFLINE][OWNER]:  12458
+[OFFLINE][WEBLD]:  tjvdg
+[OFFLINE][BUILD]:  yy
+[OFFLINE][BUILD]:  lambo
+[OFFLINE][BUILD]:  minidoesmcpe
+[OFFLINE][BUILD]:  cumslogan
+[OFFLINE][BUILD]:  bluephoenix911
+[OFFLINE][BUILD]:  st00rmer25631
+[OFFLINE][BUILD]:  sleepy_complex
+[OFFLINE][BUILD]:  klankus
+[OFFLINE][BUILD]:  scream
+[OFFLINE][WEBLD]:  iamtheles
+[OFFLINE][BUILD]:  superkill_168
+[OFFLINE][BUILD]:  gmjimboo
+[OFFLINE][BUILD]:  youtbpm_elvin
+[OFFLINE][GUEST]:  PEMapModder
+
+2014-01-10 19:50:11 [CMD] Usage: /ppplayer <player> <guest | trust | admin | owner | build | teste | watch | webld>
+2014-01-10 19:50:21 [INFO] pemapmodder[/219.73.81.15:49304] logged in with entity id 319 at (prep, 50, 70, 205)
+2014-01-10 19:50:38 [CMD] Ban list:
+2014-01-10 19:50:40 [CMD] IP ban list: 119.74.24.103
+2014-01-10 19:50:41 pemapmodder entered
+2014-01-10 19:50:51 [CMD] - Showing help page 1 of 9 (/help <page>) -
+2014-01-10 19:50:51 [CMD] // WorldEditor commands.
+2014-01-10 19:50:51 [CMD] /ban <add|remove|list|reload> [username]
+2014-01-10 19:50:51 [CMD] /banip <add|remove|list|reload> [IP|player]
+2014-01-10 19:50:51 [CMD] /cafk Toggles console's AFK status
+2014-01-10 19:50:51 [CMD] /defaultgamemode <mode>
+2014-01-10 19:50:56 
+[ONLINE][OWNER]:  pemapmodder
+[OFFLINE][OWNER]:  12458
+[OFFLINE][WEBLD]:  tjvdg
+[OFFLINE][BUILD]:  yy
+[OFFLINE][BUILD]:  lambo
+[OFFLINE][BUILD]:  minidoesmcpe
+[OFFLINE][BUILD]:  cumslogan
+[OFFLINE][BUILD]:  bluephoenix911
+[OFFLINE][BUILD]:  st00rmer25631
+[OFFLINE][BUILD]:  sleepy_complex
+[OFFLINE][BUILD]:  klankus
+[OFFLINE][BUILD]:  scream
+[OFFLINE][WEBLD]:  iamtheles
+[OFFLINE][BUILD]:  superkill_168
+[OFFLINE][BUILD]:  gmjimboo
+[OFFLINE][BUILD]:  youtbpm_elvin
+[ONLINE][GUEST]:  PEMapModder
+
+2014-01-10 19:50:56 [CMD] Usage: /ppplayer <player> <guest | trust | admin | owner | build | teste | watch | webld>
+2014-01-10 19:51:00 
+                     [OWNER]                            :  /simpleworlds
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /login
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /register
+              [ADMIN][OWNER]                            :  /ban
+              [ADMIN][OWNER]                            :  /banip
+              [ADMIN][OWNER]                            :  /defaultgamemode
+       [TRUST][ADMIN][OWNER]                            :  /deop
+              [ADMIN][OWNER]                            :  /difficulty
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /gamemode
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /give
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /help
+       [TRUST][ADMIN][OWNER]                            :  /kick
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /kill
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /list
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /me
+       [TRUST][ADMIN][OWNER]                            :  /op
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /ping
+              [ADMIN]                                   :  /save-all
+              [ADMIN]                                   :  /save-off
+              [ADMIN]                                   :  /save-on
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /say
+       [TRUST][ADMIN][OWNER][BUILD][TESTE]       [WEBLD]:  /seed
+       [TRUST][ADMIN][OWNER]                            :  /spawn
+       [TRUST][ADMIN][OWNER]                            :  /spawnpoint
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /status
+              [ADMIN]                                   :  /stop
+              [ADMIN][OWNER]                            :  /sudo
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /tell
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /time
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /tp
+              [ADMIN][OWNER]                            :  /whitelist
+                                                        :  /ppplayer
+                                                        :  /ppcommand
+                                                        :  /ppconfig
+                                                        :  /noexplosion
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /qrotate
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /switchw
+                     [OWNER]                            :  /cafk
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /seeping
+                     [OWNER]                     [WEBLD]:  //
+                     [OWNER]                            :  /warp
+                     [OWNER]                            :  /getpos
+
+2014-01-10 19:51:00 [CMD] Usage: /ppcommand <command> (guest)(trust)(admin)(owner)(build)(teste)(watch)(webld)
+2014-01-10 19:51:06 
+[ONLINE][OWNER]:  pemapmodder
+[OFFLINE][OWNER]:  12458
+[OFFLINE][WEBLD]:  tjvdg
+[OFFLINE][BUILD]:  yy
+[OFFLINE][BUILD]:  lambo
+[OFFLINE][BUILD]:  minidoesmcpe
+[OFFLINE][BUILD]:  cumslogan
+[OFFLINE][BUILD]:  bluephoenix911
+[OFFLINE][BUILD]:  st00rmer25631
+[OFFLINE][BUILD]:  sleepy_complex
+[OFFLINE][BUILD]:  klankus
+[OFFLINE][BUILD]:  scream
+[OFFLINE][WEBLD]:  iamtheles
+[OFFLINE][BUILD]:  superkill_168
+[OFFLINE][BUILD]:  gmjimboo
+[OFFLINE][BUILD]:  youtbpm_elvin
+[ONLINE][GUEST]:  PEMapModder
+
+2014-01-10 19:51:06 [CMD] Usage: /ppplayer <player> <guest | trust | admin | owner | build | teste | watch | webld>
+2014-01-10 19:51:09 
+                     [OWNER]                            :  /simpleworlds
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /login
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /register
+              [ADMIN][OWNER]                            :  /ban
+              [ADMIN][OWNER]                            :  /banip
+              [ADMIN][OWNER]                            :  /defaultgamemode
+       [TRUST][ADMIN][OWNER]                            :  /deop
+              [ADMIN][OWNER]                            :  /difficulty
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /gamemode
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /give
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /help
+       [TRUST][ADMIN][OWNER]                            :  /kick
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /kill
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /list
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /me
+       [TRUST][ADMIN][OWNER]                            :  /op
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /ping
+              [ADMIN]                                   :  /save-all
+              [ADMIN]                                   :  /save-off
+              [ADMIN]                                   :  /save-on
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /say
+       [TRUST][ADMIN][OWNER][BUILD][TESTE]       [WEBLD]:  /seed
+       [TRUST][ADMIN][OWNER]                            :  /spawn
+       [TRUST][ADMIN][OWNER]                            :  /spawnpoint
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /status
+              [ADMIN]                                   :  /stop
+              [ADMIN][OWNER]                            :  /sudo
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /tell
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /time
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /tp
+              [ADMIN][OWNER]                            :  /whitelist
+                                                        :  /ppplayer
+                                                        :  /ppcommand
+                                                        :  /ppconfig
+                                                        :  /noexplosion
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /qrotate
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /switchw
+                     [OWNER]                            :  /cafk
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /seeping
+                     [OWNER]                     [WEBLD]:  //
+                     [OWNER]                            :  /warp
+                     [OWNER]                            :  /getpos
+
+2014-01-10 19:51:09 [CMD] Usage: /ppcommand <command> (guest)(trust)(admin)(owner)(build)(teste)(watch)(webld)
+2014-01-10 19:51:10 [CMD] - Showing help page 1 of 9 (/help <page>) -
+2014-01-10 19:51:10 [CMD] // WorldEditor commands.
+2014-01-10 19:51:10 [CMD] /ban <add|remove|list|reload> [username]
+2014-01-10 19:51:10 [CMD] /banip <add|remove|list|reload> [IP|player]
+2014-01-10 19:51:10 [CMD] /cafk Toggles console's AFK status
+2014-01-10 19:51:10 [CMD] /defaultgamemode <mode>
+2014-01-10 19:51:15 [CMD] - Showing help page 2 of 9 (/help <page>) -
+2014-01-10 19:51:15 [CMD] /deop <player>
+2014-01-10 19:51:15 [CMD] /difficulty <0|1|2|3>
+2014-01-10 19:51:15 [CMD] /gamemode <mode> [player]
+2014-01-10 19:51:15 [CMD] /getpos getPos
+2014-01-10 19:51:15 [CMD] /give <player> <item[:damage]> [amount]
+2014-01-10 19:51:21 [CMD] - Showing help page 3 of 9 (/help <page>) -
+2014-01-10 19:51:21 [CMD] /help [page|command name]
+2014-01-10 19:51:21 [CMD] /kick <player> [reason ...]
+2014-01-10 19:51:21 [CMD] /kill <player>
+2014-01-10 19:51:21 [CMD] /list 
+2014-01-10 19:51:21 [CMD] /me <action ...>
+2014-01-10 19:51:24 [CMD] - Showing help page 4 of 9 (/help <page>) -
+2014-01-10 19:51:24 [CMD] /op <player>
+2014-01-10 19:51:24 [CMD] /ping 
+2014-01-10 19:51:24 [CMD] /ppcommand [Permission+] Manages command permission.
+2014-01-10 19:51:24 [CMD] /ppconfig [Permission+] PermissionPlus preferences.
+2014-01-10 19:51:24 [CMD] /ppplayer [Permission+] Manages player permission.
+2014-01-10 19:51:28 [CMD] - Showing help page 5 of 9 (/help <page>) -
+2014-01-10 19:51:28 [CMD] /ppsub [Permission+] PermissionPlus preferences.
+2014-01-10 19:51:28 [CMD] /qrotate teleports to another quarter of the world
+2014-01-10 19:51:28 [CMD] /save-all 
+2014-01-10 19:51:28 [CMD] /save-off 
+2014-01-10 19:51:28 [CMD] /save-on
+2014-01-10 19:51:32 
+
+2014-01-10 19:51:32 [CMD] Usage: /ppsub <cmd> <subcmd> (guest)(trust)(admin)(owner)(build)(teste)(watch)(webld)
+2014-01-10 19:51:52 [CMD] [Permission+] Invalid value: "o"
+2014-01-10 19:51:52 [CMD] [Permission+] "/ppsub" was disabled.
+2014-01-10 19:51:56 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 19:52:01 [CMD] "pemapmodder" teleported to (50, 70, 205)
+2014-01-10 19:52:13 [INFO] default
+Remember /sync
+2014-01-10 19:52:19 pemapmodder has used // 0 40
+2014-01-10 19:52:22 [CMD] Command ran as pemapmodder.
+2014-01-10 19:52:34 pemapmodder has used // 89 40
+2014-01-10 19:52:39 [CMD] Command ran as pemapmodder.
+2014-01-10 19:52:43 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 19:52:51 pemapmodder has used // 7 40
+2014-01-10 19:52:56 [CMD] Command ran as pemapmodder.
+2014-01-10 19:52:59 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 19:53:00 pemapmodder has used // 89 35
+2014-01-10 19:53:03 [CMD] Command ran as pemapmodder.
+2014-01-10 19:53:46 pemapmodder has used /warp team creeper spawn
+2014-01-10 19:53:46 [CMD] Command ran as pemapmodder.
+2014-01-10 19:53:56 pemapmodder has used /warp team creeper prep
+2014-01-10 19:53:56 [CMD] Command ran as pemapmodder.
+2014-01-10 19:54:23 [CMD] X: 82.652420043945 Y: 79 Z: 57.276790618896
+2014-01-10 19:54:32 pemapmodder has used // 
+2014-01-10 19:54:32 [CMD] Command ran as pemapmodder.
+2014-01-10 19:54:43 [INFO] default
+Remember /sync
+2014-01-10 19:54:57 pemapmodder has used /tp 50 70 205
+2014-01-10 19:55:17 [CMD] "pemapmodder" teleported to (60, 79, 215)
+2014-01-10 19:55:57 [Permission+] NOTICE: "/pos1" permission is not setted!
+2014-01-10 19:55:57 [Permission+] Usage: /ppcommand pos1 (g) (t) (a)
+2014-01-10 19:55:57 pemapmodder has used /pos1 
+2014-01-10 19:56:02 pemapmodder has used // 
+2014-01-10 19:56:02 [CMD] Command ran as pemapmodder.
+2014-01-10 19:56:49 pemapmodder has used // 
+2014-01-10 19:56:49 [CMD] Command ran as pemapmodder.
+2014-01-10 19:57:13 [INFO] default
+Remember /sync
+2014-01-10 19:57:32 pemapmodder has used // 0
+2014-01-10 19:57:56 [CMD] Command ran as pemapmodder.
+2014-01-10 19:57:56 [INFO] pemapmodder left the game
+2014-01-10 19:57:56 [INFO] pemapmodder[/219.73.81.15:49304] logged out due to timeout
+2014-01-10 19:57:56 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 19:57:57 [CMD] TPS: 1.4464, Memory usage: 29.14MB (Peak 54.01MB)
+2014-01-10 19:57:58 [CMD] Player p not found.
+2014-01-10 19:58:00 [INFO] pemapmodder[/219.73.81.15:37362] logged in with entity id 320 at (prep, 8.87, 110, 161.56)
+2014-01-10 19:58:09 [CMD] TPS: 19.8009, Memory usage: 18.76MB (Peak 54.01MB)
+2014-01-10 19:58:10 [CMD] TPS: 19.9093, Memory usage: 18.76MB (Peak 54.01MB)
+2014-01-10 19:58:11 [CMD] TPS: 19.8401, Memory usage: 18.76MB (Peak 54.01MB)
+2014-01-10 19:58:13 [CMD] TPS: 19.7813, Memory usage: 18.76MB (Peak 54.01MB)
+2014-01-10 19:58:14 [CMD] Command doesn't exist! Use /help
+2014-01-10 19:58:15 [CMD] TPS: 19.8205, Memory usage: 18.76MB (Peak 54.01MB)
+2014-01-10 19:58:16 [CMD] TPS: 19.8598, Memory usage: 18.76MB (Peak 54.01MB)
+2014-01-10 19:58:17 [CMD] TPS: 19.8107, Memory usage: 18.76MB (Peak 54.01MB)
+2014-01-10 19:58:18 pemapmodder entered
+2014-01-10 19:58:19 [CMD] Command doesn't exist! Use /help
+2014-01-10 19:58:20 [CMD] pemapmodder's lag: 36.883455135326
+2014-01-10 19:58:22 [CMD] Command doesn't exist! Use /help
+2014-01-10 19:58:25 [CMD] pemapmodder's lag: 35.925401187112
+2014-01-10 19:58:29 
+                     [OWNER]                            :  /simpleworlds
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /login
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /register
+              [ADMIN][OWNER]                            :  /ban
+              [ADMIN][OWNER]                            :  /banip
+              [ADMIN][OWNER]                            :  /defaultgamemode
+       [TRUST][ADMIN][OWNER]                            :  /deop
+              [ADMIN][OWNER]                            :  /difficulty
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /gamemode
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /give
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /help
+       [TRUST][ADMIN][OWNER]                            :  /kick
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /kill
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /list
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /me
+       [TRUST][ADMIN][OWNER]                            :  /op
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /ping
+              [ADMIN]                                   :  /save-all
+              [ADMIN]                                   :  /save-off
+              [ADMIN]                                   :  /save-on
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /say
+       [TRUST][ADMIN][OWNER][BUILD][TESTE]       [WEBLD]:  /seed
+       [TRUST][ADMIN][OWNER]                            :  /spawn
+       [TRUST][ADMIN][OWNER]                            :  /spawnpoint
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /status
+              [ADMIN]                                   :  /stop
+              [ADMIN][OWNER]                            :  /sudo
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /tell
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /time
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /tp
+              [ADMIN][OWNER]                            :  /whitelist
+                                                        :  /ppplayer
+                                                        :  /ppcommand
+                                                        :  /ppconfig
+                                                        :  /noexplosion
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /qrotate
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /switchw
+                     [OWNER]                            :  /cafk
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /seeping
+                     [OWNER]                     [WEBLD]:  //
+                     [OWNER]                            :  /warp
+                     [OWNER]                            :  /getpos
+                                                        :  /ppsub
+
+2014-01-10 19:58:29 [CMD] Usage: /ppcommand <command> (guest)(trust)(admin)(owner)(build)(teste)(watch)(webld)
+2014-01-10 19:59:37 pemapmodder has used /warp team creeper prep
+2014-01-10 19:59:37 [CMD] Command ran as pemapmodder.
+2014-01-10 19:59:43 [INFO] default
+Remember /sync
+2014-01-10 20:00:00 [CMD] "pemapmodder" teleported to (50, 70, 205)
+2014-01-10 20:00:18 [CMD] "pemapmodder" teleported to (205, 70, 205)
+2014-01-10 20:00:56 pemapmodder has used // 0 40
+2014-01-10 20:01:37 [CMD] Command ran as pemapmodder.
+2014-01-10 20:01:37 [INFO] pemapmodder left the game
+2014-01-10 20:01:37 [INFO] pemapmodder[/219.73.81.15:37362] logged out due to timeout
+2014-01-10 20:01:37 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 20:01:38 [CMD] TPS: 0.9024, Memory usage: 18.56MB (Peak 61.03MB)
+2014-01-10 20:01:39 
+                     [OWNER]                            :  /simpleworlds
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /login
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /register
+              [ADMIN][OWNER]                            :  /ban
+              [ADMIN][OWNER]                            :  /banip
+              [ADMIN][OWNER]                            :  /defaultgamemode
+       [TRUST][ADMIN][OWNER]                            :  /deop
+              [ADMIN][OWNER]                            :  /difficulty
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /gamemode
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /give
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /help
+       [TRUST][ADMIN][OWNER]                            :  /kick
+              [ADMIN][OWNER][BUILD]              [WEBLD]:  /kill
+[GUEST][TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /list
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /me
+       [TRUST][ADMIN][OWNER]                            :  /op
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /ping
+              [ADMIN]                                   :  /save-all
+              [ADMIN]                                   :  /save-off
+              [ADMIN]                                   :  /save-on
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /say
+       [TRUST][ADMIN][OWNER][BUILD][TESTE]       [WEBLD]:  /seed
+       [TRUST][ADMIN][OWNER]                            :  /spawn
+       [TRUST][ADMIN][OWNER]                            :  /spawnpoint
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /status
+              [ADMIN]                                   :  /stop
+              [ADMIN][OWNER]                            :  /sudo
+       [TRUST][ADMIN][OWNER][BUILD][TESTE][WATCH][WEBLD]:  /tell
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /time
+       [TRUST][ADMIN][OWNER][BUILD]              [WEBLD]:  /tp
+              [ADMIN][OWNER]                            :  /whitelist
+                                                        :  /ppplayer
+                                                        :  /ppcommand
+                                                        :  /ppconfig
+                                                        :  /noexplosion
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /qrotate
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /switchw
+                     [OWNER]                            :  /cafk
+                     [OWNER][BUILD][TESTE]       [WEBLD]:  /seeping
+                     [OWNER]                     [WEBLD]:  //
+                     [OWNER]                            :  /warp
+                     [OWNER]                            :  /getpos
+                                                        :  /ppsub
+
+2014-01-10 20:01:39 [CMD] Usage: /ppcommand <command> (guest)(trust)(admin)(owner)(build)(teste)(watch)(webld)
+2014-01-10 20:01:39 
+[OFFLINE][OWNER]:  pemapmodder
+[OFFLINE][OWNER]:  12458
+[OFFLINE][WEBLD]:  tjvdg
+[OFFLINE][BUILD]:  yy
+[OFFLINE][BUILD]:  lambo
+[OFFLINE][BUILD]:  minidoesmcpe
+[OFFLINE][BUILD]:  cumslogan
+[OFFLINE][BUILD]:  bluephoenix911
+[OFFLINE][BUILD]:  st00rmer25631
+[OFFLINE][BUILD]:  sleepy_complex
+[OFFLINE][BUILD]:  klankus
+[OFFLINE][BUILD]:  scream
+[OFFLINE][WEBLD]:  iamtheles
+[OFFLINE][BUILD]:  superkill_168
+[OFFLINE][BUILD]:  gmjimboo
+[OFFLINE][BUILD]:  youtbpm_elvin
+[OFFLINE][GUEST]:  PEMapModder
+
+2014-01-10 20:01:39 [CMD] Usage: /ppplayer <player> <guest | trust | admin | owner | build | teste | watch | webld>
+2014-01-10 20:01:43 [INFO] pemapmodder[/219.73.81.15:39374] logged in with entity id 321 at (prep, 205, 70, 205)
+2014-01-10 20:01:50 [CMD] TPS: 19.6646, Memory usage: 18.76MB (Peak 61.03MB)
+2014-01-10 20:01:51 [CMD] TPS: 19.5684, Memory usage: 18.76MB (Peak 61.03MB)
+2014-01-10 20:01:52 [CMD] TPS: 19.4826, Memory usage: 18.76MB (Peak 61.03MB)
+2014-01-10 20:01:52 [CMD] TPS: 19.5779, Memory usage: 18.76MB (Peak 61.03MB)
+2014-01-10 20:01:53 [CMD] TPS: 19.6163, Memory usage: 18.76MB (Peak 61.03MB)
+2014-01-10 20:01:54 [CMD] TPS: 19.752, Memory usage: 18.76MB (Peak 61.03MB)
+2014-01-10 20:01:55 [CMD] TPS: 19.7422, Memory usage: 18.76MB (Peak 61.03MB)
+2014-01-10 20:01:56 [CMD] TPS: 19.4921, Memory usage: 18.76MB (Peak 61.03MB)
+2014-01-10 20:01:57 [CMD] TPS: 19.4541, Memory usage: 18.76MB (Peak 61.03MB)
+2014-01-10 20:01:58 [CMD] TPS: 19.939, Memory usage: 18.76MB (Peak 61.03MB)
+2014-01-10 20:01:59 [CMD] TPS: 19.9192, Memory usage: 18.76MB (Peak 61.03MB)
+2014-01-10 20:02:00 [CMD] TPS: 19.6646, Memory usage: 18.76MB (Peak 61.03MB)
+2014-01-10 20:02:01 [CMD] TPS: 19.4921, Memory usage: 18.76MB (Peak 61.03MB)
+2014-01-10 20:02:02 pemapmodder entered
+2014-01-10 20:02:03 [CMD] TPS: 19.3506, Memory usage: 19.08MB (Peak 61.03MB)
+2014-01-10 20:02:03 [CMD] TPS: 19.36, Memory usage: 19.01MB (Peak 61.03MB)
+2014-01-10 20:02:04 [CMD] TPS: 19.156, Memory usage: 19.13MB (Peak 61.03MB)
+2014-01-10 20:02:13 [INFO] default
+Remember /sync
+2014-01-10 20:02:15 [CMD] "pemapmodder" teleported to (205, 70, 205)
+2014-01-10 20:02:33 pemapmodder has used // 7 40
+2014-01-10 20:02:37 [CMD] Command ran as pemapmodder.
+2014-01-10 20:02:37 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 20:03:18 pemapmodder has used // 89 35
+2014-01-10 20:03:21 [CMD] Command ran as pemapmodder.
+2014-01-10 20:03:24 [CMD] TPS: 4.9192, Memory usage: 27.52MB (Peak 61.03MB)
+2014-01-10 20:03:24 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 20:03:24 [CMD] TPS: 4.9107, Memory usage: 27.19MB (Peak 61.03MB)
+2014-01-10 20:03:25 [CMD] TPS: 4.9089, Memory usage: 27.22MB (Peak 61.03MB)
+2014-01-10 20:03:25 [CMD] pemapmodder's lag: 0
+2014-01-10 20:03:34 [CMD] pemapmodder's lag: 0
+2014-01-10 20:03:36 [CMD] pemapmodder's lag: 1782.8261893371
+2014-01-10 20:03:39 [CMD] pemapmodder's lag: 126.32648723642
+2014-01-10 20:03:41 [CMD] pemapmodder's lag: 0
+2014-01-10 20:04:17 pemapmodder has used /ping 
+2014-01-10 20:04:23 [CMD] pemapmodder's lag: 0
+2014-01-10 20:04:28 [CMD] pemapmodder's lag: 14.999866485596
+2014-01-10 20:04:43 [INFO] default
+Remember /sync
+2014-01-10 20:05:39 [CMD] "pemapmodder" teleported to (250, 79, 250)
+2014-01-10 20:05:55 pemapmodder has used // 
+2014-01-10 20:05:55 [CMD] Command ran as pemapmodder.
+2014-01-10 20:06:25 pemapmodder has used // 
+2014-01-10 20:06:25 [CMD] Command ran as pemapmodder.
+2014-01-10 20:06:56 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 20:07:04 pemapmodder has used // 0
+2014-01-10 20:07:04 [CMD] Command ran as pemapmodder.
+2014-01-10 20:07:12 pemapmodder has used // 
+2014-01-10 20:07:12 [CMD] Command ran as pemapmodder.
+2014-01-10 20:07:13 [INFO] default
+Remember /sync
+2014-01-10 20:07:17 pemapmodder has used // 0
+2014-01-10 20:07:41 [CMD] Command ran as pemapmodder.
+2014-01-10 20:07:41 [INFO] pemapmodder left the game
+2014-01-10 20:07:41 [INFO] pemapmodder[/219.73.81.15:39374] logged out due to timeout
+2014-01-10 20:07:41 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 20:07:43 [CMD] TPS: 1.4326, Memory usage: 18.55MB (Peak 61.03MB)
+2014-01-10 20:07:44 [CMD] TPS: 1.4354, Memory usage: 18.49MB (Peak 61.03MB)
+2014-01-10 20:07:45 [CMD] TPS: 19.7911, Memory usage: 18.49MB (Peak 61.03MB)
+2014-01-10 20:09:43 [INFO] default
+Remember /sync
+2014-01-10 20:12:13 [INFO] default
+Remember /sync
+2014-01-10 20:14:43 [INFO] default
+Remember /sync
+2014-01-10 20:17:13 [INFO] default
+Remember /sync
+2014-01-10 20:19:43 [INFO] default
+Remember /sync
+2014-01-10 20:21:57 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 20:22:13 [INFO] default
+Remember /sync
+2014-01-10 20:24:43 [INFO] default
+Remember /sync
+2014-01-10 20:27:13 [INFO] default
+Remember /sync
+2014-01-10 20:29:43 [INFO] default
+Remember /sync
+2014-01-10 20:32:13 [INFO] default
+Remember /sync
+2014-01-10 20:34:43 [INFO] default
+Remember /sync
+2014-01-10 20:37:13 [INFO] default
+Remember /sync
+2014-01-10 20:39:43 [INFO] default
+Remember /sync
+2014-01-10 20:42:13 [INFO] default
+Remember /sync
+2014-01-10 20:44:43 [INFO] default
+Remember /sync
+2014-01-10 20:47:13 [INFO] default
+Remember /sync
+2014-01-10 20:49:43 [INFO] default
+Remember /sync
+2014-01-10 20:52:13 [INFO] default
+Remember /sync
+2014-01-10 20:54:43 [INFO] default
+Remember /sync
+2014-01-10 20:57:13 [INFO] default
+Remember /sync
+2014-01-10 20:59:43 [INFO] default
+Remember /sync
+2014-01-10 21:02:13 [INFO] default
+Remember /sync
+2014-01-10 21:04:43 [INFO] default
+Remember /sync
+2014-01-10 21:07:13 [INFO] default
+Remember /sync
+2014-01-10 21:09:43 [INFO] default
+Remember /sync
+2014-01-10 21:12:13 [INFO] default
+Remember /sync
+2014-01-10 21:14:44 [INFO] default
+Remember /sync
+2014-01-10 21:17:14 [INFO] default
+Remember /sync
+2014-01-10 21:19:44 [INFO] default
+Remember /sync
+2014-01-10 21:22:14 [INFO] default
+Remember /sync
+2014-01-10 21:24:44 [INFO] default
+Remember /sync
+2014-01-10 21:27:14 [INFO] default
+Remember /sync
+2014-01-10 21:29:44 [INFO] default
+Remember /sync
+2014-01-10 21:32:14 [INFO] default
+Remember /sync
+2014-01-10 21:34:44 [INFO] default
+Remember /sync
+2014-01-10 21:37:14 [INFO] default
+Remember /sync
+2014-01-10 21:39:44 [INFO] default
+Remember /sync
+2014-01-10 21:42:14 [INFO] default
+Remember /sync
+2014-01-10 21:44:44 [INFO] default
+Remember /sync
+2014-01-10 21:47:14 [INFO] default
+Remember /sync
+2014-01-10 21:49:44 [INFO] default
+Remember /sync
+2014-01-10 21:52:14 [INFO] default
+Remember /sync
+2014-01-10 21:54:44 [INFO] default
+Remember /sync
+2014-01-10 21:57:14 [INFO] default
+Remember /sync
+2014-01-10 21:59:44 [INFO] default
+Remember /sync
+2014-01-10 22:02:14 [INFO] default
+Remember /sync
+2014-01-10 22:04:44 [INFO] default
+Remember /sync
+2014-01-10 22:07:14 [INFO] default
+Remember /sync
+2014-01-10 22:09:44 [INFO] default
+Remember /sync
+2014-01-10 22:12:14 [INFO] default
+Remember /sync
+2014-01-10 22:14:44 [INFO] default
+Remember /sync
+2014-01-10 22:17:14 [INFO] default
+Remember /sync
+2014-01-10 22:19:44 [INFO] default
+Remember /sync
+2014-01-10 22:21:56 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 22:22:14 [INFO] default
+Remember /sync
+2014-01-10 22:24:44 [INFO] default
+Remember /sync
+2014-01-10 22:27:14 [INFO] default
+Remember /sync
+2014-01-10 22:29:44 [INFO] default
+Remember /sync
+2014-01-10 22:32:14 [INFO] default
+Remember /sync
+2014-01-10 22:34:44 [INFO] default
+Remember /sync
+2014-01-10 22:36:57 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-10 22:37:14 [INFO] default
+Remember /sync
+2014-01-10 22:39:45 [INFO] default
+Remember /sync
+2014-01-10 22:42:15 [INFO] default
+Remember /sync
+2014-01-10 22:44:45 [INFO] default
+Remember /sync
+2014-01-10 22:47:15 [INFO] default
+Remember /sync
+2014-01-10 22:49:45 [INFO] default
+Remember /sync
+2014-01-10 22:52:15 [INFO] default
+Remember /sync
+2014-01-10 22:54:45 [INFO] default
+Remember /sync
+2014-01-10 22:57:15 [INFO] default
+Remember /sync
+2014-01-10 22:59:45 [INFO] default
+Remember /sync
+2014-01-10 23:02:15 [INFO] default
+Remember /sync
+2014-01-10 23:04:43 [INFO] Stopping server...
+2014-01-10 23:04:43 [CMD] Stopping the server
+2014-01-10 23:04:45 [INFO] Unloading level "Buffer world"
+2014-01-10 23:04:45 [INFO] Unloading level "new"
+2014-01-10 23:04:45 [INFO] Unloading level "lobby"
+2014-01-10 23:04:45 [INFO] Unloading level "old"
+2014-01-10 23:04:46 [INFO] Unloading level "prep"
+2014-01-14 12:07:24 [INFO] Starting CNR version v0.8.1 alpha
+2014-01-14 12:07:24 [INFO] Loading properties...
+2014-01-14 12:07:24 [INFO] Starting on *:19135
+2014-01-14 12:07:24 [INFO] This server is running PocketMine-MP version Alpha_1.3.11dev (MCPE: v0.8.1 alpha) (API 11)
+2014-01-14 12:07:24 [INFO] PocketMine-MP is distibuted under the LGPL License
+2014-01-14 12:07:24 [INFO] Checking for new server version
+2014-01-14 12:07:24 [INFO] Last check: 2014-01-10 19:21:54
+2014-01-14 12:07:27 [NOTICE] A new DEVELOPMENT version of PocketMine-MP has been released!
+2014-01-14 12:07:27 [NOTICE] Commit "Updated PHP and cURL" [6a7b03e1bf] by Shoghi Cervantes
+2014-01-14 12:07:27 [NOTICE] Get it at PocketMine.net or at https://github.com/PocketMine/PocketMine-MP/archive/6a7b03e1bf841cca55a4f03e6de084967c971cd7.zip
+2014-01-14 12:07:27 [NOTICE] This message will dissapear after issuing the command "/update-done"
+2014-01-14 12:07:27 [INFO] Preparing level "Buffer world"
+2014-01-14 12:07:27 [INFO] Loading plugin "CNR_Mapping_Plugin" 0.2.0 by PEMapModder
+2014-01-14 12:07:27 [INFO] Loading plugin "CommandEcho" 1.0.0 by ZacHack
+2014-01-14 12:07:27 [WARNING] Plugin "CommandEcho" may not be compatible with the API (10 != 11)! It can crash or corrupt the server!
+2014-01-14 12:07:27 [INFO] Loading plugin "PermissionPlus" 1.0.9 by Omattyao
+2014-01-14 12:07:27 [INFO] Loading plugin "SimpleAuth" 0.3.4 by shoghicp
+2014-01-14 12:07:27 [INFO] Loading plugin "SimpleWorlds" 0.3 by PocketMine Team
+2014-01-14 12:07:27 [INFO] Loading plugin "WorldEditor" 0.8 by shoghicp
+2014-01-14 12:07:27 [WARNING] Plugin "WorldEditor" may not be compatible with the API (7,8,9,10 != 11)! It can crash or corrupt the server!
+2014-01-14 12:07:27 [INFO] Starting remote control listener
+2014-01-14 12:07:27 [INFO] RCON running on 0.0.0.0:19135
+2014-01-14 12:07:27 [INFO] Starting GS4 status listener
+2014-01-14 12:07:27 [INFO] Setting query port to 19135
+2014-01-14 12:07:27 [INFO] Query running on 0.0.0.0:19135
+2014-01-14 12:07:37 [INFO] Default game type: VIEW
+2014-01-14 12:07:37 [INFO] Starting plugins...
+2014-01-14 12:07:37 [INFO] default
+Remember /sync
+2014-01-14 12:07:38 [INFO] SimpleAuth enabled!
+2014-01-14 12:07:38 [SimpleWorlds] Loading levels...
+2014-01-14 12:07:38 [INFO] Preparing level "new"
+2014-01-14 12:07:38 [INFO] Preparing level "lobby"
+2014-01-14 12:07:39 [INFO] Preparing level "old"
+2014-01-14 12:07:43 [CMD] Command doesn't exist! Use /help
+2014-01-14 12:07:44 [INFO] Preparing level "prep"
+2014-01-14 12:07:44 [INFO] Done (20.452s)! For help, type "help" or "?"
+2014-01-14 12:10:07 [INFO] default
+Remember /sync
+2014-01-14 12:12:37 [INFO] default
+Remember /sync
+2014-01-14 12:15:07 [INFO] default
+Remember /sync
+2014-01-14 12:17:37 [INFO] default
+Remember /sync
+2014-01-14 12:20:07 [INFO] default
+Remember /sync
+2014-01-14 12:22:37 [INFO] default
+Remember /sync
+2014-01-14 12:25:07 [INFO] default
+Remember /sync
+2014-01-14 12:27:37 [INFO] default
+Remember /sync
+2014-01-14 12:30:07 [INFO] default
+Remember /sync
+2014-01-14 12:32:37 [INFO] default
+Remember /sync
+2014-01-14 12:35:07 [INFO] default
+Remember /sync
+2014-01-14 12:37:37 [INFO] default
+Remember /sync
+2014-01-14 12:40:07 [INFO] default
+Remember /sync
+2014-01-14 12:42:37 [INFO] default
+Remember /sync
+2014-01-14 12:45:07 [INFO] default
+Remember /sync
+2014-01-14 12:47:37 [INFO] default
+Remember /sync
+2014-01-14 12:50:07 [INFO] default
+Remember /sync
+2014-01-14 12:52:37 [INFO] default
+Remember /sync
+2014-01-14 12:55:07 [INFO] default
+Remember /sync
+2014-01-14 12:57:37 [INFO] default
+Remember /sync
+2014-01-14 13:00:07 [INFO] default
+Remember /sync
+2014-01-14 13:02:37 [INFO] default
+Remember /sync
+2014-01-14 13:05:07 [INFO] default
+Remember /sync
+2014-01-14 13:07:30 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-14 13:07:37 [INFO] default
+Remember /sync
+2014-01-14 13:10:07 [INFO] default
+Remember /sync
+2014-01-14 13:12:37 [INFO] default
+Remember /sync
+2014-01-14 13:15:07 [INFO] default
+Remember /sync
+2014-01-14 13:17:38 [INFO] default
+Remember /sync
+2014-01-14 13:20:08 [INFO] default
+Remember /sync
+2014-01-14 13:22:31 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-14 13:22:38 [INFO] default
+Remember /sync
+2014-01-14 13:25:08 [INFO] default
+Remember /sync
+2014-01-14 13:27:38 [INFO] default
+Remember /sync
+2014-01-14 13:30:08 [INFO] default
+Remember /sync
+2014-01-14 13:32:38 [INFO] default
+Remember /sync
+2014-01-14 13:35:08 [INFO] default
+Remember /sync
+2014-01-14 13:37:38 [INFO] default
+Remember /sync
+2014-01-14 13:40:08 [INFO] default
+Remember /sync
+2014-01-14 13:42:38 [INFO] default
+Remember /sync
+2014-01-14 13:45:08 [INFO] default
+Remember /sync
+2014-01-14 13:47:38 [INFO] default
+Remember /sync
+2014-01-14 13:50:08 [INFO] default
+Remember /sync
+2014-01-14 13:52:38 [INFO] default
+Remember /sync
+2014-01-14 13:55:08 [INFO] default
+Remember /sync
+2014-01-14 13:57:38 [INFO] default
+Remember /sync
+2014-01-14 14:00:08 [INFO] default
+Remember /sync
+2014-01-14 14:02:38 [INFO] default
+Remember /sync
+2014-01-14 14:05:08 [INFO] default
+Remember /sync
+2014-01-14 14:07:38 [INFO] default
+Remember /sync
+2014-01-14 14:10:08 [INFO] default
+Remember /sync
+2014-01-14 14:12:38 [INFO] default
+Remember /sync
+2014-01-14 14:15:08 [INFO] default
+Remember /sync
+2014-01-14 14:17:38 [INFO] default
+Remember /sync
+2014-01-14 14:20:08 [INFO] default
+Remember /sync
+2014-01-14 14:22:38 [INFO] default
+Remember /sync
+2014-01-14 14:25:08 [INFO] default
+Remember /sync
+2014-01-14 14:27:38 [INFO] default
+Remember /sync
+2014-01-14 14:30:08 [INFO] default
+Remember /sync
+2014-01-14 14:32:38 [INFO] default
+Remember /sync
+2014-01-14 14:35:08 [INFO] default
+Remember /sync
+2014-01-14 14:37:38 [INFO] default
+Remember /sync
+2014-01-14 14:40:09 [INFO] default
+Remember /sync
+2014-01-14 14:42:39 [INFO] default
+Remember /sync
+2014-01-14 14:45:09 [INFO] default
+Remember /sync
+2014-01-14 14:47:39 [INFO] default
+Remember /sync
+2014-01-14 14:50:09 [INFO] default
+Remember /sync
+2014-01-14 14:52:39 [INFO] default
+Remember /sync
+2014-01-14 14:55:09 [INFO] default
+Remember /sync
+2014-01-14 14:57:39 [INFO] default
+Remember /sync
+2014-01-14 15:00:09 [INFO] default
+Remember /sync
+2014-01-14 15:02:39 [INFO] default
+Remember /sync
+2014-01-14 15:05:09 [INFO] default
+Remember /sync
+2014-01-14 15:07:39 [INFO] default
+Remember /sync
+2014-01-14 15:10:09 [INFO] default
+Remember /sync
+2014-01-14 15:12:39 [INFO] default
+Remember /sync
+2014-01-14 15:15:09 [INFO] default
+Remember /sync
+2014-01-14 15:17:39 [INFO] default
+Remember /sync
+2014-01-14 15:20:09 [INFO] default
+Remember /sync
+2014-01-14 15:22:30 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-14 15:22:39 [INFO] default
+Remember /sync
+2014-01-14 15:25:09 [INFO] default
+Remember /sync
+2014-01-14 15:27:39 [INFO] default
+Remember /sync
+2014-01-14 15:30:09 [INFO] default
+Remember /sync
+2014-01-14 15:32:39 [INFO] default
+Remember /sync
+2014-01-14 15:35:09 [INFO] default
+Remember /sync
+2014-01-14 15:37:31 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-14 15:37:39 [INFO] default
+Remember /sync
+2014-01-14 15:40:09 [INFO] default
+Remember /sync
+2014-01-14 15:42:39 [INFO] default
+Remember /sync
+2014-01-14 15:45:09 [INFO] default
+Remember /sync
+2014-01-14 15:47:39 [INFO] default
+Remember /sync
+2014-01-14 15:50:09 [INFO] default
+Remember /sync
+2014-01-14 15:52:39 [INFO] default
+Remember /sync
+2014-01-14 15:55:09 [INFO] default
+Remember /sync
+2014-01-14 15:57:39 [INFO] default
+Remember /sync
+2014-01-14 16:00:09 [INFO] default
+Remember /sync
+2014-01-14 16:02:40 [INFO] default
+Remember /sync
+2014-01-14 16:05:10 [INFO] default
+Remember /sync
+2014-01-14 16:07:40 [INFO] default
+Remember /sync
+2014-01-14 16:10:10 [INFO] default
+Remember /sync
+2014-01-14 16:12:40 [INFO] default
+Remember /sync
+2014-01-14 16:15:10 [INFO] default
+Remember /sync
+2014-01-14 16:17:40 [INFO] default
+Remember /sync
+2014-01-14 16:20:10 [INFO] default
+Remember /sync
+2014-01-14 16:22:40 [INFO] default
+Remember /sync
+2014-01-14 16:25:10 [INFO] default
+Remember /sync
+2014-01-14 16:27:40 [INFO] default
+Remember /sync
+2014-01-14 16:30:10 [INFO] default
+Remember /sync
+2014-01-14 16:32:40 [INFO] default
+Remember /sync
+2014-01-14 16:35:10 [INFO] default
+Remember /sync
+2014-01-14 16:37:40 [INFO] default
+Remember /sync
+2014-01-14 16:40:10 [INFO] default
+Remember /sync
+2014-01-14 16:42:40 [INFO] default
+Remember /sync
+2014-01-14 16:45:10 [INFO] default
+Remember /sync
+2014-01-14 16:47:40 [INFO] default
+Remember /sync
+2014-01-14 16:50:10 [INFO] default
+Remember /sync
+2014-01-14 16:52:40 [INFO] default
+Remember /sync
+2014-01-14 16:55:10 [INFO] default
+Remember /sync
+2014-01-14 16:57:40 [INFO] default
+Remember /sync
+2014-01-14 17:00:10 [INFO] default
+Remember /sync
+2014-01-14 17:02:40 [INFO] default
+Remember /sync
+2014-01-14 17:05:10 [INFO] default
+Remember /sync
+2014-01-14 17:07:40 [INFO] default
+Remember /sync
+2014-01-14 17:10:10 [INFO] default
+Remember /sync
+2014-01-14 17:12:40 [INFO] default
+Remember /sync
+2014-01-14 17:15:10 [INFO] default
+Remember /sync
+2014-01-14 17:17:40 [INFO] default
+Remember /sync
+2014-01-14 17:20:10 [INFO] default
+Remember /sync
+2014-01-14 17:22:40 [INFO] default
+Remember /sync
+2014-01-14 17:25:10 [INFO] default
+Remember /sync
+2014-01-14 17:27:40 [INFO] default
+Remember /sync
+2014-01-14 17:30:10 [INFO] default
+Remember /sync
+2014-01-14 17:32:40 [INFO] default
+Remember /sync
+2014-01-14 17:35:10 [INFO] default
+Remember /sync
+2014-01-14 17:37:31 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-14 17:37:40 [INFO] default
+Remember /sync
+2014-01-14 17:40:10 [INFO] default
+Remember /sync
+2014-01-14 17:42:40 [INFO] default
+Remember /sync
+2014-01-14 17:45:10 [INFO] default
+Remember /sync
+2014-01-14 17:47:40 [INFO] default
+Remember /sync
+2014-01-14 17:49:28 
+[OFFLINE][OWNER]:  pemapmodder
+[OFFLINE][OWNER]:  12458
+[OFFLINE][WEBLD]:  tjvdg
+[OFFLINE][BUILD]:  yy
+[OFFLINE][BUILD]:  Minidoesmcpe
+[OFFLINE][BUILD]:  CumSlogan
+[OFFLINE][BUILD]:  BluePhoenix911
+[OFFLINE][BUILD]:  St00rmer25631
+[OFFLINE][BUILD]:  Sleepy_complex
+[OFFLINE][BUILD]:  Klankus
+[OFFLINE][BUILD]:  scream
+[OFFLINE][WEBLD]:  IamtheLes
+[OFFLINE][BUILD]:  superkill_168
+[OFFLINE][BUILD]:  gmjimboo
+[OFFLINE][BUILD]:  youtbpm_elvin
+[OFFLINE][OWNER]:  PEMapModder
+[OFFLINE][BUILD]:  TJVDG
+
+2014-01-14 17:49:28 [CMD] Usage: /ppplayer <player> <guest | trust | admin | owner | build | teste | watch | webld>
+2014-01-14 17:49:45 [CMD] [Permission+] Gived BUILD to grim_fighter.
+2014-01-14 17:49:49 [CMD] White-list turned on
+2014-01-14 17:49:54 [CMD] White-list turned off
+2014-01-14 17:50:10 [INFO] default
+Remember /sync
+2014-01-14 17:50:19 [CMD] IP ban list: 119.74.24.103
+2014-01-14 17:51:27 [CMD] TPS: 19.939, Memory usage: 14.59MB (Peak 15.15MB)
+2014-01-14 17:51:34 [CMD] TPS: 19.8895, Memory usage: 14.59MB (Peak 15.15MB)
+2014-01-14 17:52:41 [INFO] default
+Remember /sync
+2014-01-14 17:55:11 [INFO] default
+Remember /sync
+2014-01-14 17:57:41 [INFO] default
+Remember /sync
+2014-01-14 18:00:11 [INFO] default
+Remember /sync
+2014-01-14 18:02:41 [INFO] default
+Remember /sync
+2014-01-14 18:05:11 [INFO] default
+Remember /sync
+2014-01-14 18:07:41 [INFO] default
+Remember /sync
+2014-01-14 18:10:11 [INFO] default
+Remember /sync
+2014-01-14 18:12:41 [INFO] default
+Remember /sync
+2014-01-14 18:15:11 [INFO] default
+Remember /sync
+2014-01-14 18:17:41 [INFO] default
+Remember /sync
+2014-01-14 18:19:24 [INFO] Stopping server...
+2014-01-14 18:19:24 [CMD] Stopping the server
+2014-01-14 18:19:26 [INFO] Unloading level "Buffer world"
+2014-01-14 18:19:26 [INFO] Unloading level "new"
+2014-01-14 18:19:27 [INFO] Unloading level "lobby"
+2014-01-14 18:19:27 [INFO] Unloading level "old"
+2014-01-14 18:19:28 [INFO] Unloading level "prep"

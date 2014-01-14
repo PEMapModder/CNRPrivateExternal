@@ -40,7 +40,7 @@ class PlayerAPI{
         $this->server->api->console->alias("tppos", "tp");
         $this->server->api->ban->cmdWhitelist("list");
         $this->server->api->ban->cmdWhitelist("ping");
-#        $this->server->api->ban->cmdWhitelist("spawn");
+        $this->server->api->ban->cmdWhitelist("spawn");
         $this->server->preparedSQL->selectPlayersToHeal = $this->server->database->prepare("SELECT EID FROM entities WHERE class = ".ENTITY_PLAYER." AND health < 20;");
     }
 
@@ -402,7 +402,7 @@ class PlayerAPI{
 
     public function spawnToAllPlayers(Player $player){
         foreach($this->getAll() as $p){
-            if($p !== $player and ($p->entity instanceof Entity)){
+            if($p !== $player and ($p->entity instanceof Entity) and ($player->entity instanceof Entity)){
                 $player->entity->spawn($p);
                 if($p->level !== $player->level){
                     $p->dataPacket(MC_MOVE_ENTITY_POSROT, array(

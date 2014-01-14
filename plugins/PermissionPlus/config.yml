@@ -7,7 +7,20 @@ player:
   12458: OWNER
   tjvdg: WEBLD
   yy: BUILD
-  lambo: OWNER
+  Minidoesmcpe: BUILD
+  CumSlogan: BUILD
+  BluePhoenix911: BUILD
+  St00rmer25631: BUILD
+  Sleepy_complex: BUILD
+  Klankus: BUILD
+  scream: BUILD
+  IamtheLes: WEBLD
+  superkill_168: BUILD
+  gmjimboo: BUILD
+  youtbpm_elvin: BUILD
+  PEMapModder: OWNER
+  TJVDG: BUILD
+  grim_fighter: BUILD
 permission:
   GUEST: true
   TRUST: true
@@ -58,15 +71,18 @@ command:
     time: true
     tp: true
     whitelist: true
-    ppplayer: true
-    ppcommand: true
-    ppconfig: true
-    noexplosion: true
+    ppplayer: false
+    ppcommand: false
+    ppconfig: false
+    noexplosion: false
     qrotate: false
     switchw: false
     cafk: false
     seeping: false
     /: false
+    warp: false
+    getpos: false
+    ppsub: false
   TRUST:
     simpleworlds: false
     login: true
@@ -108,6 +124,9 @@ command:
     cafk: false
     seeping: false
     /: false
+    warp: false
+    getpos: false
+    ppsub: false
   GUEST:
     simpleworlds: false
     login: true
@@ -149,6 +168,9 @@ command:
     cafk: false
     seeping: false
     /: false
+    warp: false
+    getpos: false
+    ppsub: false
   OWNER:
     simpleworlds: tru
     login: true
@@ -181,7 +203,7 @@ command:
     time: true
     tp: true
     whitelist: true
-    ppplayer: true
+    ppplayer: false
     ppcommand: false
     ppconfig: false
     noexplosion: false
@@ -190,6 +212,9 @@ command:
     cafk: true
     seeping: true
     /: true
+    warp: true
+    getpos: true
+    ppsub: false
   TESTE:
     simpleworlds: false
     login: true
@@ -231,6 +256,9 @@ command:
     cafk: false
     seeping: true
     /: false
+    warp: false
+    getpos: false
+    ppsub: false
   BUILD:
     simpleworlds: false
     login: true
@@ -272,6 +300,9 @@ command:
     cafk: false
     seeping: true
     /: false
+    warp: false
+    getpos: false
+    ppsub: false
   WATCH:
     simpleworlds: false
     login: true
@@ -313,6 +344,9 @@ command:
     cafk: false
     seeping: false
     /: false
+    warp: false
+    getpos: false
+    ppsub: false
   WEBLD:
     simpleworlds: false
     login: true
@@ -354,4 +388,7 @@ command:
     cafk: false
     seeping: true
     /: true
+    warp: false
+    getpos: false
+    ppsub: false
 version: 1.0.9
