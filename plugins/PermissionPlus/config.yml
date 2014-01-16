@@ -21,6 +21,8 @@ player:
   PEMapModder: OWNER
   TJVDG: BUILD
   grim_fighter: BUILD
+  YOUTBPM_Elvin: GUEST
+  grin_fighter: WATCH
 permission:
   GUEST: true
   TRUST: true
@@ -83,6 +85,7 @@ command:
     warp: false
     getpos: false
     ppsub: false
+    unregister: false
   TRUST:
     simpleworlds: false
     login: true
@@ -127,6 +130,7 @@ command:
     warp: false
     getpos: false
     ppsub: false
+    unregister: false
   GUEST:
     simpleworlds: false
     login: true
@@ -171,6 +175,7 @@ command:
     warp: false
     getpos: false
     ppsub: false
+    unregister: false
   OWNER:
     simpleworlds: tru
     login: true
@@ -215,6 +220,7 @@ command:
     warp: true
     getpos: true
     ppsub: false
+    unregister: false
   TESTE:
     simpleworlds: false
     login: true
@@ -259,6 +265,7 @@ command:
     warp: false
     getpos: false
     ppsub: false
+    unregister: false
   BUILD:
     simpleworlds: false
     login: true
@@ -303,6 +310,7 @@ command:
     warp: false
     getpos: false
     ppsub: false
+    unregister: false
   WATCH:
     simpleworlds: false
     login: true
@@ -347,6 +355,7 @@ command:
     warp: false
     getpos: false
     ppsub: false
+    unregister: false
   WEBLD:
     simpleworlds: false
     login: true
@@ -391,4 +400,5 @@ command:
     warp: false
     getpos: false
     ppsub: false
+    unregister: false
 version: 1.0.9

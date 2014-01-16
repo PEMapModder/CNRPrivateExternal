@@ -12783,3 +12783,2293 @@ Remember /sync
 2014-01-14 18:19:27 [INFO] Unloading level "lobby"
 2014-01-14 18:19:27 [INFO] Unloading level "old"
 2014-01-14 18:19:28 [INFO] Unloading level "prep"
+2014-01-14 18:29:09 [INFO] Starting Minecraft PE server version v0.8.1 alpha
+2014-01-14 18:29:09 [INFO] Loading properties...
+2014-01-14 18:29:09 [INFO] Starting Minecraft PE server on *:19135
+2014-01-14 18:29:09 [INFO] This server is running PocketMine-MP version Alpha_1.3.11 "甘いビートルート" (MCPE: v0.8.1 alpha) (API 11)
+2014-01-14 18:29:09 [INFO] PocketMine-MP is distibuted under the LGPL License
+2014-01-14 18:29:09 [INFO] Checking for new server version
+2014-01-14 18:29:09 [INFO] Last check: 2014-01-10 19:21:54
+2014-01-14 18:29:11 [INFO] This is the latest STABLE version
+2014-01-14 18:29:11 [INFO] Preparing level "Buffer world"
+2014-01-14 18:29:11 [INFO] Loading plugin "CNR_Mapping_Plugin" 0.2.0 by PEMapModder
+2014-01-14 18:29:11 [INFO] Loading plugin "CommandEcho" 1.0.0 by ZacHack
+2014-01-14 18:29:11 [WARNING] Plugin "CommandEcho" may not be compatible with the API (10 != 11)! It can crash or corrupt the server!
+2014-01-14 18:29:11 [INFO] Loading plugin "PermissionPlus" 1.0.9 by Omattyao
+2014-01-14 18:29:11 [INFO] Loading plugin "SimpleAuth" 0.3.4 by shoghicp
+2014-01-14 18:29:11 [INFO] Loading plugin "SimpleWorlds" 0.3 by PocketMine Team
+2014-01-14 18:29:11 [INFO] Loading plugin "WorldEditor" 0.8 by shoghicp
+2014-01-14 18:29:11 [WARNING] Plugin "WorldEditor" may not be compatible with the API (7,8,9,10 != 11)! It can crash or corrupt the server!
+2014-01-14 18:29:11 [INFO] Starting remote control listener
+2014-01-14 18:29:11 [INFO] RCON running on 0.0.0.0:19135
+2014-01-14 18:29:11 [INFO] Starting GS4 status listener
+2014-01-14 18:29:11 [INFO] Setting query port to 19135
+2014-01-14 18:29:12 [INFO] Query running on 0.0.0.0:19135
+2014-01-14 18:29:18 [INFO] Default game type: VIEW
+2014-01-14 18:29:18 [INFO] Starting plugins...
+2014-01-14 18:29:18 [INFO] default
+Remember /sync
+2014-01-14 18:29:18 [INFO] SimpleAuth enabled!
+2014-01-14 18:29:18 [SimpleWorlds] Loading levels...
+2014-01-14 18:29:18 [INFO] Preparing level "new"
+2014-01-14 18:29:19 [INFO] Preparing level "lobby"
+2014-01-14 18:29:19 [INFO] Preparing level "old"
+2014-01-14 18:29:20 [INFO] Preparing level "prep"
+2014-01-14 18:29:20 [INFO] Done (11.483s)! For help, type "help" or "?"
+2014-01-14 18:29:51 [INFO] Stopping server...
+2014-01-14 18:29:51 [CMD] Stopping the server
+2014-01-14 18:29:52 [INFO] Unloading level "Buffer world"
+2014-01-14 18:29:52 [INFO] Unloading level "new"
+2014-01-14 18:29:52 [INFO] Unloading level "lobby"
+2014-01-14 18:29:52 [INFO] Unloading level "old"
+2014-01-14 18:29:52 [INFO] Unloading level "prep"
+2014-01-14 18:32:21 [INFO] Starting Minecraft PE server version v0.8.1 alpha
+2014-01-14 18:32:21 [INFO] Loading properties...
+2014-01-14 18:32:21 [INFO] Starting Minecraft PE server on *:19135
+2014-01-14 18:32:21 [INFO] This server is running PocketMine-MP version Alpha_1.3.11 "甘いビートルート" (MCPE: v0.8.1 alpha) (API 11)
+2014-01-14 18:32:21 [INFO] PocketMine-MP is distibuted under the LGPL License
+2014-01-14 18:32:21 [INFO] Preparing level "Buffer world"
+2014-01-14 18:32:21 [INFO] Loading plugin "CNR_Mapping_Plugin" 0.2.0 by PEMapModder
+2014-01-14 18:32:21 [INFO] Loading plugin "CommandEcho" 1.0.0 by ZacHack
+2014-01-14 18:32:21 [WARNING] Plugin "CommandEcho" may not be compatible with the API (10 != 11)! It can crash or corrupt the server!
+2014-01-14 18:32:21 [INFO] Loading plugin "PermissionPlus" 1.0.9 by Omattyao
+2014-01-14 18:32:21 [INFO] Loading plugin "SimpleAuth" 0.3.4 by shoghicp
+2014-01-14 18:32:21 [INFO] Loading plugin "SimpleWorlds" 0.3 by PocketMine Team
+2014-01-14 18:32:21 [INFO] Loading plugin "WorldEditor" 0.8 by shoghicp
+2014-01-14 18:32:21 [WARNING] Plugin "WorldEditor" may not be compatible with the API (7,8,9,10 != 11)! It can crash or corrupt the server!
+2014-01-14 18:32:21 [INFO] Starting remote control listener
+2014-01-14 18:32:21 [INFO] RCON running on 0.0.0.0:19135
+2014-01-14 18:32:21 [INFO] Starting GS4 status listener
+2014-01-14 18:32:21 [INFO] Setting query port to 19135
+2014-01-14 18:32:21 [INFO] Query running on 0.0.0.0:19135
+2014-01-14 18:32:24 [INFO] Default game type: VIEW
+2014-01-14 18:32:24 [INFO] Starting plugins...
+2014-01-14 18:32:24 [INFO] default
+Remember /sync
+2014-01-14 18:32:25 [INFO] SimpleAuth enabled!
+2014-01-14 18:32:25 [SimpleWorlds] Loading levels...
+2014-01-14 18:32:25 [INFO] Preparing level "new"
+2014-01-14 18:32:25 [INFO] Preparing level "lobby"
+2014-01-14 18:32:25 [INFO] Preparing level "old"
+2014-01-14 18:32:26 [INFO] Preparing level "prep"
+2014-01-14 18:32:26 [INFO] Done (5.898s)! For help, type "help" or "?"
+2014-01-14 18:32:27 [CMD] Command doesn't exist! Use /help
+2014-01-14 18:34:54 [INFO] default
+Remember /sync
+2014-01-14 18:37:10 [CMD] White-list turned off
+2014-01-14 18:37:24 [INFO] default
+Remember /sync
+2014-01-14 18:39:54 [INFO] default
+Remember /sync
+2014-01-14 18:42:25 [INFO] default
+Remember /sync
+2014-01-14 18:44:55 [INFO] default
+Remember /sync
+2014-01-14 18:47:25 [INFO] default
+Remember /sync
+2014-01-14 18:49:55 [INFO] default
+Remember /sync
+2014-01-14 18:52:25 [INFO] default
+Remember /sync
+2014-01-14 18:54:55 [INFO] default
+Remember /sync
+2014-01-14 18:57:25 [INFO] default
+Remember /sync
+2014-01-14 18:59:55 [INFO] default
+Remember /sync
+2014-01-14 19:00:52 [CMD] Command doesn't exist! Use /help
+2014-01-14 19:02:25 [INFO] default
+Remember /sync
+2014-01-14 19:04:55 [INFO] default
+Remember /sync
+2014-01-14 19:07:25 [INFO] default
+Remember /sync
+2014-01-14 19:09:55 [INFO] default
+Remember /sync
+2014-01-14 19:12:25 [INFO] default
+Remember /sync
+2014-01-14 19:14:55 [INFO] default
+Remember /sync
+2014-01-14 19:17:25 [INFO] default
+Remember /sync
+2014-01-14 19:19:55 [INFO] default
+Remember /sync
+2014-01-14 19:22:25 [INFO] default
+Remember /sync
+2014-01-14 19:24:55 [INFO] default
+Remember /sync
+2014-01-14 19:27:25 [INFO] default
+Remember /sync
+2014-01-14 19:29:55 [INFO] default
+Remember /sync
+2014-01-14 19:32:25 [INFO] default
+Remember /sync
+2014-01-14 19:34:55 [INFO] default
+Remember /sync
+2014-01-14 19:37:25 [INFO] default
+Remember /sync
+2014-01-14 19:39:55 [INFO] default
+Remember /sync
+2014-01-14 19:42:25 [INFO] default
+Remember /sync
+2014-01-14 19:44:55 [INFO] default
+Remember /sync
+2014-01-14 19:47:25 [INFO] default
+Remember /sync
+2014-01-14 19:49:55 [INFO] default
+Remember /sync
+2014-01-14 19:52:25 [INFO] default
+Remember /sync
+2014-01-14 19:54:55 [INFO] default
+Remember /sync
+2014-01-14 19:57:25 [INFO] default
+Remember /sync
+2014-01-14 19:59:00 [INFO] IamtheLes[/116.15.160.93:63232] logged in with entity id 323 at (new, 125.31, 59.37, 125.38)
+2014-01-14 19:59:14 IamtheLes entered
+2014-01-14 19:59:55 [INFO] default
+Remember /sync
+2014-01-14 20:00:04 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-14 20:00:04 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-14 20:00:04 IamtheLes has used /sync 
+2014-01-14 20:00:07 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-14 20:00:07 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-14 20:00:07 IamtheLes has used /sync on
+2014-01-14 20:01:38 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-14 20:01:38 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-14 20:01:38 IamtheLes has used /sync off
+2014-01-14 20:02:25 [INFO] default
+Remember /sync
+2014-01-14 20:02:34 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-14 20:02:34 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-14 20:02:34 IamtheLes has used /sync on
+2014-01-14 20:04:46 IamtheLes has used /gamemode 0 Iam
+2014-01-14 20:04:47 [INFO] IamtheLes[/116.15.160.93:63232] logged out due to gamemode change
+2014-01-14 20:04:54 [INFO] IamtheLes[/116.15.160.93:54788] logged in with entity id 367 at (new, 129.7, 38, 130.45)
+2014-01-14 20:04:55 [INFO] default
+Remember /sync
+2014-01-14 20:05:08 IamtheLes entered
+2014-01-14 20:05:30 IamtheLes has used /give Iam Quartz
+2014-01-14 20:05:46 IamtheLes has used /give Iam 407
+2014-01-14 20:06:55 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-14 20:06:55 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-14 20:06:55 IamtheLes has used /sync on
+2014-01-14 20:07:21 IamtheLes has used /give item.tilestone
+2014-01-14 20:07:25 [INFO] default
+Remember /sync
+2014-01-14 20:07:41 IamtheLes has used /give iam item.tilestone
+2014-01-14 20:08:10 IamtheLes has used /give Iam Wood 64
+2014-01-14 20:09:00 IamtheLes has used /give Iam 17 1
+2014-01-14 20:09:55 [INFO] default
+Remember /sync
+2014-01-14 20:10:04 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-14 20:10:04 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-14 20:10:04 IamtheLes has used /sync on
+2014-01-14 20:10:30 IamtheLes has used /give Iam 204;1000 64
+2014-01-14 20:10:41 IamtheLes has used /give Iam Diamond
+2014-01-14 20:10:58 IamtheLes has used /give Iam Crafting
+2014-01-14 20:11:14 IamtheLes has used /give Iam Tile.craftingbench.id
+2014-01-14 20:11:35 IamtheLes has used /give 1 264
+2014-01-14 20:11:43 IamtheLes has used /give iam 1 244
+2014-01-14 20:11:58 IamtheLes has used /give Iam 1 11
+2014-01-14 20:12:09 IamtheLes has used /give Iam 1 1
+2014-01-14 20:12:25 [INFO] default
+Remember /sync
+2014-01-14 20:12:41 IamtheLes has used /give Iam Diamondpick
+2014-01-14 20:12:58 IamtheLes has used /help 
+2014-01-14 20:12:58 IamtheLes has used // 
+2014-01-14 20:12:58 IamtheLes has used /gamemode 
+2014-01-14 20:12:58 IamtheLes has used /give 
+2014-01-14 20:12:58 IamtheLes has used /help 
+2014-01-14 20:12:58 IamtheLes has used /kill 
+2014-01-14 20:12:58 IamtheLes has used /list 
+2014-01-14 20:12:58 IamtheLes has used /me 
+2014-01-14 20:12:58 IamtheLes has used /ping 
+2014-01-14 20:12:58 IamtheLes has used /qrotate 
+2014-01-14 20:12:58 IamtheLes has used /say 
+2014-01-14 20:12:58 IamtheLes has used /seed 
+2014-01-14 20:12:58 IamtheLes has used /seeping 
+2014-01-14 20:12:58 [Permission+] NOTICE: "/seesync" permission is not setted!
+2014-01-14 20:12:58 [Permission+] Usage: /ppcommand seesync (g) (t) (a)
+2014-01-14 20:12:58 IamtheLes has used /seesync 
+2014-01-14 20:12:58 [Permission+] NOTICE: "/simpleauth" permission is not setted!
+2014-01-14 20:12:58 [Permission+] Usage: /ppcommand simpleauth (g) (t) (a)
+2014-01-14 20:12:58 IamtheLes has used /simpleauth 
+2014-01-14 20:12:58 IamtheLes has used /status 
+2014-01-14 20:12:58 IamtheLes has used /switchw 
+2014-01-14 20:12:58 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-14 20:12:58 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-14 20:12:58 IamtheLes has used /sync 
+2014-01-14 20:12:58 IamtheLes has used /tell 
+2014-01-14 20:12:58 IamtheLes has used /time 
+2014-01-14 20:12:58 [Permission+] NOTICE: "/toggleeditwand" permission is not setted!
+2014-01-14 20:12:58 [Permission+] Usage: /ppcommand toggleeditwand (g) (t) (a)
+2014-01-14 20:12:58 IamtheLes has used /toggleeditwand 
+2014-01-14 20:12:58 IamtheLes has used /tp 
+2014-01-14 20:12:58 [Permission+] NOTICE: "/unregister" permission is not setted!
+2014-01-14 20:12:58 [Permission+] Usage: /ppcommand unregister (g) (t) (a)
+2014-01-14 20:12:58 IamtheLes has used /unregister 
+2014-01-14 20:13:03 IamtheLes has used /help 2
+2014-01-14 20:13:03 IamtheLes has used // 
+2014-01-14 20:13:03 IamtheLes has used /gamemode 
+2014-01-14 20:13:03 IamtheLes has used /give 
+2014-01-14 20:13:03 IamtheLes has used /help 
+2014-01-14 20:13:03 IamtheLes has used /kill 
+2014-01-14 20:13:03 IamtheLes has used /list 
+2014-01-14 20:13:03 IamtheLes has used /me 
+2014-01-14 20:13:03 IamtheLes has used /ping 
+2014-01-14 20:13:03 IamtheLes has used /qrotate 
+2014-01-14 20:13:03 IamtheLes has used /say 
+2014-01-14 20:13:03 IamtheLes has used /seed 
+2014-01-14 20:13:03 IamtheLes has used /seeping 
+2014-01-14 20:13:03 [Permission+] NOTICE: "/seesync" permission is not setted!
+2014-01-14 20:13:03 [Permission+] Usage: /ppcommand seesync (g) (t) (a)
+2014-01-14 20:13:03 IamtheLes has used /seesync 
+2014-01-14 20:13:03 [Permission+] NOTICE: "/simpleauth" permission is not setted!
+2014-01-14 20:13:03 [Permission+] Usage: /ppcommand simpleauth (g) (t) (a)
+2014-01-14 20:13:03 IamtheLes has used /simpleauth 
+2014-01-14 20:13:03 IamtheLes has used /status 
+2014-01-14 20:13:03 IamtheLes has used /switchw 
+2014-01-14 20:13:03 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-14 20:13:03 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-14 20:13:03 IamtheLes has used /sync 
+2014-01-14 20:13:03 IamtheLes has used /tell 
+2014-01-14 20:13:03 IamtheLes has used /time 
+2014-01-14 20:13:03 [Permission+] NOTICE: "/toggleeditwand" permission is not setted!
+2014-01-14 20:13:03 [Permission+] Usage: /ppcommand toggleeditwand (g) (t) (a)
+2014-01-14 20:13:03 IamtheLes has used /toggleeditwand 
+2014-01-14 20:13:03 IamtheLes has used /tp 
+2014-01-14 20:13:03 [Permission+] NOTICE: "/unregister" permission is not setted!
+2014-01-14 20:13:03 [Permission+] Usage: /ppcommand unregister (g) (t) (a)
+2014-01-14 20:13:03 IamtheLes has used /unregister 
+2014-01-14 20:13:06 IamtheLes has used /kill 
+2014-01-14 20:13:06 [INFO] IamtheLes died
+2014-01-14 20:13:08 IamtheLes entered
+2014-01-14 20:13:15 [INFO] IamtheLes suffocated in a wall
+2014-01-14 20:13:21 [INFO] IamtheLes[/116.15.160.93:54167] logged out due to Unknown reason
+2014-01-14 20:13:31 [INFO] IamtheLes left the game
+2014-01-14 20:13:31 [INFO] IamtheLes[/116.15.160.93:54788] logged out due to timeout
+2014-01-14 20:14:55 [INFO] default
+Remember /sync
+2014-01-14 20:17:25 [INFO] default
+Remember /sync
+2014-01-14 20:19:55 [INFO] default
+Remember /sync
+2014-01-14 20:22:25 [INFO] default
+Remember /sync
+2014-01-14 20:24:55 [INFO] default
+Remember /sync
+2014-01-14 20:27:25 [INFO] default
+Remember /sync
+2014-01-14 20:29:56 [INFO] default
+Remember /sync
+2014-01-14 20:32:26 [INFO] default
+Remember /sync
+2014-01-14 20:34:56 [INFO] default
+Remember /sync
+2014-01-14 20:37:26 [INFO] default
+Remember /sync
+2014-01-14 20:39:56 [INFO] default
+Remember /sync
+2014-01-14 20:42:26 [INFO] default
+Remember /sync
+2014-01-14 20:44:56 [INFO] default
+Remember /sync
+2014-01-14 20:47:26 [INFO] default
+Remember /sync
+2014-01-14 20:47:31 [INFO] [Console] hi
+2014-01-14 20:48:09 [CMD] [Permission+] Invalid value: "p"
+2014-01-14 20:48:09 [CMD] [Permission+] "/unregister" was disabled.
+2014-01-14 20:48:44 [INFO] Stopping server...
+2014-01-14 20:48:44 [CMD] Stopping the server
+2014-01-14 20:48:44 [INFO] Unloading level "Buffer world"
+2014-01-14 20:48:44 [INFO] Unloading level "new"
+2014-01-14 20:48:44 [INFO] Unloading level "lobby"
+2014-01-14 20:48:44 [INFO] Unloading level "old"
+2014-01-14 20:48:44 [INFO] Unloading level "prep"
+2014-01-15 10:05:20 [INFO] Starting Minecraft PE server version v0.8.1 alpha
+2014-01-15 10:05:20 [INFO] Loading properties...
+2014-01-15 10:05:20 [INFO] Starting Minecraft PE server on *:19135
+2014-01-15 10:05:20 [INFO] This server is running PocketMine-MP version Alpha_1.3.11 "甘いビートルート" (MCPE: v0.8.1 alpha) (API 11)
+2014-01-15 10:05:20 [INFO] PocketMine-MP is distibuted under the LGPL License
+2014-01-15 10:05:20 [INFO] Checking for new server version
+2014-01-15 10:05:20 [INFO] Last check: 2014-01-14 18:29:11
+2014-01-15 10:05:22 [INFO] This is the latest STABLE version
+2014-01-15 10:05:22 [INFO] Preparing level "Buffer world"
+2014-01-15 10:05:22 [INFO] Loading plugin "CNR_Mapping_Plugin" 0.2.0 by PEMapModder
+2014-01-15 10:05:22 [INFO] Loading plugin "CommandEcho" 1.0.0 by ZacHack
+2014-01-15 10:05:22 [WARNING] Plugin "CommandEcho" may not be compatible with the API (10 != 11)! It can crash or corrupt the server!
+2014-01-15 10:05:22 [INFO] Loading plugin "PermissionPlus" 1.0.9 by Omattyao
+2014-01-15 10:05:22 [INFO] Loading plugin "SimpleAuth" 0.3.4 by shoghicp
+2014-01-15 10:05:22 [INFO] Loading plugin "SimpleWorlds" 0.3 by PocketMine Team
+2014-01-15 10:05:22 [INFO] Loading plugin "WorldEditor" 0.8 by shoghicp
+2014-01-15 10:05:22 [WARNING] Plugin "WorldEditor" may not be compatible with the API (7,8,9,10 != 11)! It can crash or corrupt the server!
+2014-01-15 10:05:22 [INFO] Starting remote control listener
+2014-01-15 10:05:22 [INFO] RCON running on 0.0.0.0:19135
+2014-01-15 10:05:22 [INFO] Starting GS4 status listener
+2014-01-15 10:05:22 [INFO] Setting query port to 19135
+2014-01-15 10:05:22 [INFO] Query running on 0.0.0.0:19135
+2014-01-15 10:05:28 [INFO] Default game type: VIEW
+2014-01-15 10:05:28 [INFO] Starting plugins...
+2014-01-15 10:05:28 [INFO] default
+Remember /sync
+2014-01-15 10:05:29 [INFO] SimpleAuth enabled!
+2014-01-15 10:05:29 [SimpleWorlds] Loading levels...
+2014-01-15 10:05:29 [INFO] Preparing level "new"
+2014-01-15 10:05:29 [INFO] Preparing level "lobby"
+2014-01-15 10:05:29 [INFO] Preparing level "old"
+2014-01-15 10:05:31 [INFO] Preparing level "prep"
+2014-01-15 10:05:31 [INFO] Done (11.468s)! For help, type "help" or "?"
+2014-01-15 10:05:32 [INFO] Starting Minecraft PE server version v0.8.1 alpha
+2014-01-15 10:05:32 [INFO] Loading properties...
+2014-01-15 10:05:32 [INFO] Starting Minecraft PE server on *:19135
+2014-01-15 10:05:32 [ERROR] A level 2 error happened: "socket_bind(): unable to bind address [10048]: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+" in "C:\PocketMineCNR\src\network\UDPSocket.php" at line 35
+2014-01-15 10:05:32 [ERROR] Couldn't bind to 0.0.0.0:19135
+2014-01-15 10:06:04 [INFO] PEMapModder[/192.168.0.101:57679] logged in with entity id 326 at (prep, 163.73, 111.63, 164.78)
+2014-01-15 10:06:24 PEMapModder entered
+2014-01-15 10:07:58 [INFO] default
+Remember /sync
+2014-01-15 10:10:08 PEMapModder has used /warp team creeper prep
+2014-01-15 10:10:20 PEMapModder has used /getpos 
+2014-01-15 10:10:28 [INFO] default
+Remember /sync
+2014-01-15 10:10:35 PEMapModder has used /tp 205 70 50
+2014-01-15 10:10:58 PEMapModder has used // 0 40
+2014-01-15 10:11:08 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-15 10:12:04 PEMapModder has used // 7 40
+2014-01-15 10:12:17 PEMapModder has used // 89 35
+2014-01-15 10:12:58 [INFO] default
+Remember /sync
+2014-01-15 10:13:37 PEMapModder has used // 
+2014-01-15 10:14:13 PEMapModder has used // 
+2014-01-15 10:14:19 PEMapModder has used // 0
+2014-01-15 10:14:24 [WARNING] Can't keep up! Is the server overloaded?
+2014-01-15 10:14:39 PEMapModder has used /time set 0
+2014-01-15 10:15:28 [INFO] default
+Remember /sync
+2014-01-15 10:15:38 PEMapModder has used /tp 205 40 205
+2014-01-15 10:15:56 PEMapModder has used /tp 205 40 50
+2014-01-15 10:16:10 PEMapModder has used /tp 50 40 205
+2014-01-15 10:17:58 [INFO] default
+Remember /sync
+2014-01-15 10:18:27 PEMapModder has used // 0
+2014-01-15 10:18:53 PEMapModder has used // 0
+2014-01-15 10:19:17 PEMapModder has used // grass
+2014-01-15 10:19:38 PEMapModder has used // grass
+2014-01-15 10:20:28 [INFO] default
+Remember /sync
+2014-01-15 10:20:36 PEMapModder has used /switchw 
+2014-01-15 10:20:51 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 10:20:51 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 10:20:51 PEMapModder has used /sync on
+2014-01-15 10:22:05 PEMapModder has used /time set 0
+2014-01-15 10:22:58 [INFO] default
+Remember /sync
+2014-01-15 10:25:24 [INFO] PEMapModder left the game
+2014-01-15 10:25:24 [INFO] PEMapModder[/192.168.0.101:57679] logged out due to client disconnect
+2014-01-15 10:25:28 [INFO] default
+Remember /sync
+2014-01-15 10:27:58 [INFO] default
+Remember /sync
+2014-01-15 10:30:29 [INFO] default
+Remember /sync
+2014-01-15 10:32:59 [INFO] default
+Remember /sync
+2014-01-15 10:35:29 [INFO] default
+Remember /sync
+2014-01-15 10:37:59 [INFO] default
+Remember /sync
+2014-01-15 10:40:29 [INFO] default
+Remember /sync
+2014-01-15 10:42:59 [INFO] default
+Remember /sync
+2014-01-15 10:45:29 [INFO] default
+Remember /sync
+2014-01-15 10:47:59 [INFO] default
+Remember /sync
+2014-01-15 10:50:29 [INFO] default
+Remember /sync
+2014-01-15 10:52:59 [INFO] default
+Remember /sync
+2014-01-15 10:55:29 [INFO] default
+Remember /sync
+2014-01-15 10:57:59 [INFO] default
+Remember /sync
+2014-01-15 11:00:29 [INFO] default
+Remember /sync
+2014-01-15 11:02:59 [INFO] default
+Remember /sync
+2014-01-15 11:05:29 [INFO] default
+Remember /sync
+2014-01-15 11:07:59 [INFO] default
+Remember /sync
+2014-01-15 11:10:29 [INFO] default
+Remember /sync
+2014-01-15 11:12:59 [INFO] default
+Remember /sync
+2014-01-15 11:15:29 [INFO] default
+Remember /sync
+2014-01-15 11:17:59 [INFO] default
+Remember /sync
+2014-01-15 11:20:29 [INFO] default
+Remember /sync
+2014-01-15 11:22:59 [INFO] default
+Remember /sync
+2014-01-15 11:25:29 [INFO] default
+Remember /sync
+2014-01-15 11:27:59 [INFO] default
+Remember /sync
+2014-01-15 11:30:29 [INFO] default
+Remember /sync
+2014-01-15 11:32:59 [INFO] default
+Remember /sync
+2014-01-15 11:35:29 [INFO] default
+Remember /sync
+2014-01-15 11:37:59 [INFO] default
+Remember /sync
+2014-01-15 11:40:29 [INFO] default
+Remember /sync
+2014-01-15 11:42:59 [INFO] default
+Remember /sync
+2014-01-15 11:45:29 [INFO] default
+Remember /sync
+2014-01-15 11:47:59 [INFO] default
+Remember /sync
+2014-01-15 11:50:29 [INFO] default
+Remember /sync
+2014-01-15 11:52:59 [INFO] default
+Remember /sync
+2014-01-15 11:55:29 [INFO] default
+Remember /sync
+2014-01-15 11:57:59 [INFO] default
+Remember /sync
+2014-01-15 12:00:29 [INFO] default
+Remember /sync
+2014-01-15 12:02:59 [INFO] default
+Remember /sync
+2014-01-15 12:05:29 [INFO] default
+Remember /sync
+2014-01-15 12:07:59 [INFO] default
+Remember /sync
+2014-01-15 12:10:30 [INFO] default
+Remember /sync
+2014-01-15 12:13:00 [INFO] default
+Remember /sync
+2014-01-15 12:15:30 [INFO] default
+Remember /sync
+2014-01-15 12:18:00 [INFO] default
+Remember /sync
+2014-01-15 12:19:09 [INFO] YOUTBPM_Elvin[/223.18.98.225:59221] logged in with entity id 361 at (Buffer world, 213.39, 91.41, 198.56)
+2014-01-15 12:20:30 [INFO] default
+Remember /sync
+2014-01-15 12:23:00 [INFO] default
+Remember /sync
+2014-01-15 12:24:50 YOUTBPM_Elvin entered
+2014-01-15 12:25:13 [INFO] YOUTBPM_Elvin left the game
+2014-01-15 12:25:13 [INFO] YOUTBPM_Elvin[/223.18.98.225:59221] logged out due to client disconnect
+2014-01-15 12:25:30 [INFO] default
+Remember /sync
+2014-01-15 12:25:39 [INFO] YOUTBPM_Elvin[/223.18.98.225:49646] logged in with entity id 362 at (Buffer world, 213, 68, 199)
+2014-01-15 12:25:59 [INFO] YOUTBPM_Elvin left the game
+2014-01-15 12:25:59 [INFO] YOUTBPM_Elvin[/223.18.98.225:49646] logged out due to timeout
+2014-01-15 12:28:00 [INFO] default
+Remember /sync
+2014-01-15 12:30:30 [INFO] default
+Remember /sync
+2014-01-15 12:33:00 [INFO] default
+Remember /sync
+2014-01-15 12:35:30 [INFO] default
+Remember /sync
+2014-01-15 12:38:00 [INFO] default
+Remember /sync
+2014-01-15 12:40:30 [INFO] default
+Remember /sync
+2014-01-15 12:43:00 [INFO] default
+Remember /sync
+2014-01-15 12:45:30 [INFO] default
+Remember /sync
+2014-01-15 12:48:00 [INFO] default
+Remember /sync
+2014-01-15 12:50:30 [INFO] default
+Remember /sync
+2014-01-15 12:53:00 [INFO] default
+Remember /sync
+2014-01-15 12:55:30 [INFO] default
+Remember /sync
+2014-01-15 12:58:00 [INFO] default
+Remember /sync
+2014-01-15 13:00:30 [INFO] default
+Remember /sync
+2014-01-15 13:03:00 [INFO] default
+Remember /sync
+2014-01-15 13:05:30 [INFO] default
+Remember /sync
+2014-01-15 13:08:00 [INFO] default
+Remember /sync
+2014-01-15 13:10:30 [INFO] default
+Remember /sync
+2014-01-15 13:13:00 [INFO] default
+Remember /sync
+2014-01-15 13:15:30 [INFO] default
+Remember /sync
+2014-01-15 13:18:00 [INFO] default
+Remember /sync
+2014-01-15 13:20:30 [INFO] default
+Remember /sync
+2014-01-15 13:23:00 [INFO] default
+Remember /sync
+2014-01-15 13:25:30 [INFO] default
+Remember /sync
+2014-01-15 13:28:00 [INFO] default
+Remember /sync
+2014-01-15 13:30:30 [INFO] default
+Remember /sync
+2014-01-15 13:33:00 [INFO] default
+Remember /sync
+2014-01-15 13:35:30 [INFO] default
+Remember /sync
+2014-01-15 13:38:00 [INFO] default
+Remember /sync
+2014-01-15 13:40:30 [INFO] default
+Remember /sync
+2014-01-15 13:43:00 [INFO] default
+Remember /sync
+2014-01-15 13:45:30 [INFO] default
+Remember /sync
+2014-01-15 13:48:00 [INFO] default
+Remember /sync
+2014-01-15 13:50:31 [INFO] default
+Remember /sync
+2014-01-15 13:53:01 [INFO] default
+Remember /sync
+2014-01-15 13:55:31 [INFO] default
+Remember /sync
+2014-01-15 13:58:01 [INFO] default
+Remember /sync
+2014-01-15 14:00:31 [INFO] default
+Remember /sync
+2014-01-15 14:03:01 [INFO] default
+Remember /sync
+2014-01-15 14:05:31 [INFO] default
+Remember /sync
+2014-01-15 14:08:01 [INFO] default
+Remember /sync
+2014-01-15 14:10:31 [INFO] default
+Remember /sync
+2014-01-15 14:13:01 [INFO] default
+Remember /sync
+2014-01-15 14:15:31 [INFO] default
+Remember /sync
+2014-01-15 14:18:01 [INFO] default
+Remember /sync
+2014-01-15 14:20:31 [INFO] default
+Remember /sync
+2014-01-15 14:23:01 [INFO] default
+Remember /sync
+2014-01-15 14:25:31 [INFO] default
+Remember /sync
+2014-01-15 14:28:01 [INFO] default
+Remember /sync
+2014-01-15 14:30:31 [INFO] default
+Remember /sync
+2014-01-15 14:33:01 [INFO] default
+Remember /sync
+2014-01-15 14:35:31 [INFO] default
+Remember /sync
+2014-01-15 14:38:01 [INFO] default
+Remember /sync
+2014-01-15 14:40:31 [INFO] default
+Remember /sync
+2014-01-15 14:43:01 [INFO] default
+Remember /sync
+2014-01-15 14:45:31 [INFO] default
+Remember /sync
+2014-01-15 14:48:01 [INFO] default
+Remember /sync
+2014-01-15 14:50:31 [INFO] default
+Remember /sync
+2014-01-15 14:53:01 [INFO] default
+Remember /sync
+2014-01-15 14:55:31 [INFO] default
+Remember /sync
+2014-01-15 14:58:01 [INFO] default
+Remember /sync
+2014-01-15 15:00:31 [INFO] default
+Remember /sync
+2014-01-15 15:03:01 [INFO] default
+Remember /sync
+2014-01-15 15:05:31 [INFO] default
+Remember /sync
+2014-01-15 15:08:01 [INFO] default
+Remember /sync
+2014-01-15 15:10:31 [INFO] default
+Remember /sync
+2014-01-15 15:13:01 [INFO] default
+Remember /sync
+2014-01-15 15:15:31 [INFO] default
+Remember /sync
+2014-01-15 15:18:01 [INFO] default
+Remember /sync
+2014-01-15 15:20:31 [INFO] default
+Remember /sync
+2014-01-15 15:23:02 [INFO] default
+Remember /sync
+2014-01-15 15:25:32 [INFO] default
+Remember /sync
+2014-01-15 15:28:02 [INFO] default
+Remember /sync
+2014-01-15 15:30:32 [INFO] default
+Remember /sync
+2014-01-15 15:33:02 [INFO] default
+Remember /sync
+2014-01-15 15:35:32 [INFO] default
+Remember /sync
+2014-01-15 15:38:02 [INFO] default
+Remember /sync
+2014-01-15 15:40:32 [INFO] default
+Remember /sync
+2014-01-15 15:43:02 [INFO] default
+Remember /sync
+2014-01-15 15:45:32 [INFO] default
+Remember /sync
+2014-01-15 15:48:02 [INFO] default
+Remember /sync
+2014-01-15 15:50:32 [INFO] default
+Remember /sync
+2014-01-15 15:53:02 [INFO] default
+Remember /sync
+2014-01-15 15:55:32 [INFO] default
+Remember /sync
+2014-01-15 15:58:02 [INFO] default
+Remember /sync
+2014-01-15 16:00:32 [INFO] default
+Remember /sync
+2014-01-15 16:03:02 [INFO] default
+Remember /sync
+2014-01-15 16:05:32 [INFO] default
+Remember /sync
+2014-01-15 16:08:02 [INFO] default
+Remember /sync
+2014-01-15 16:10:32 [INFO] default
+Remember /sync
+2014-01-15 16:13:02 [INFO] default
+Remember /sync
+2014-01-15 16:15:32 [INFO] default
+Remember /sync
+2014-01-15 16:18:02 [INFO] default
+Remember /sync
+2014-01-15 16:20:32 [INFO] default
+Remember /sync
+2014-01-15 16:23:02 [INFO] default
+Remember /sync
+2014-01-15 16:25:32 [INFO] default
+Remember /sync
+2014-01-15 16:28:02 [INFO] default
+Remember /sync
+2014-01-15 16:30:32 [INFO] default
+Remember /sync
+2014-01-15 16:33:02 [INFO] default
+Remember /sync
+2014-01-15 16:35:32 [INFO] default
+Remember /sync
+2014-01-15 16:38:02 [INFO] default
+Remember /sync
+2014-01-15 16:40:32 [INFO] default
+Remember /sync
+2014-01-15 16:43:02 [INFO] default
+Remember /sync
+2014-01-15 16:45:32 [INFO] default
+Remember /sync
+2014-01-15 16:48:02 [INFO] default
+Remember /sync
+2014-01-15 16:50:32 [INFO] default
+Remember /sync
+2014-01-15 16:53:02 [INFO] default
+Remember /sync
+2014-01-15 16:55:32 [INFO] default
+Remember /sync
+2014-01-15 16:58:02 [INFO] default
+Remember /sync
+2014-01-15 17:00:32 [INFO] default
+Remember /sync
+2014-01-15 17:03:02 [INFO] default
+Remember /sync
+2014-01-15 17:05:32 [INFO] default
+Remember /sync
+2014-01-15 17:08:02 [INFO] default
+Remember /sync
+2014-01-15 17:10:33 [INFO] default
+Remember /sync
+2014-01-15 17:13:03 [INFO] default
+Remember /sync
+2014-01-15 17:15:33 [INFO] default
+Remember /sync
+2014-01-15 17:18:03 [INFO] default
+Remember /sync
+2014-01-15 17:20:33 [INFO] default
+Remember /sync
+2014-01-15 17:23:03 [INFO] default
+Remember /sync
+2014-01-15 17:25:33 [INFO] default
+Remember /sync
+2014-01-15 17:28:03 [INFO] default
+Remember /sync
+2014-01-15 17:30:33 [INFO] default
+Remember /sync
+2014-01-15 17:33:03 [INFO] default
+Remember /sync
+2014-01-15 17:35:33 [INFO] default
+Remember /sync
+2014-01-15 17:38:03 [INFO] default
+Remember /sync
+2014-01-15 17:40:33 [INFO] default
+Remember /sync
+2014-01-15 17:43:03 [INFO] default
+Remember /sync
+2014-01-15 17:45:33 [INFO] default
+Remember /sync
+2014-01-15 17:48:03 [INFO] default
+Remember /sync
+2014-01-15 17:50:33 [INFO] default
+Remember /sync
+2014-01-15 17:53:03 [INFO] default
+Remember /sync
+2014-01-15 17:55:33 [INFO] default
+Remember /sync
+2014-01-15 17:58:03 [INFO] default
+Remember /sync
+2014-01-15 18:00:33 [INFO] default
+Remember /sync
+2014-01-15 18:03:03 [INFO] default
+Remember /sync
+2014-01-15 18:05:33 [INFO] default
+Remember /sync
+2014-01-15 18:08:03 [INFO] default
+Remember /sync
+2014-01-15 18:10:33 [INFO] default
+Remember /sync
+2014-01-15 18:13:03 [INFO] default
+Remember /sync
+2014-01-15 18:15:33 [INFO] default
+Remember /sync
+2014-01-15 18:18:03 [INFO] default
+Remember /sync
+2014-01-15 18:20:33 [INFO] default
+Remember /sync
+2014-01-15 18:23:03 [INFO] default
+Remember /sync
+2014-01-15 18:25:33 [INFO] default
+Remember /sync
+2014-01-15 18:28:03 [INFO] default
+Remember /sync
+2014-01-15 18:30:33 [INFO] default
+Remember /sync
+2014-01-15 18:33:03 [INFO] default
+Remember /sync
+2014-01-15 18:35:33 [INFO] default
+Remember /sync
+2014-01-15 18:38:03 [INFO] default
+Remember /sync
+2014-01-15 18:40:33 [INFO] default
+Remember /sync
+2014-01-15 18:43:03 [INFO] default
+Remember /sync
+2014-01-15 18:45:33 [INFO] default
+Remember /sync
+2014-01-15 18:48:04 [INFO] default
+Remember /sync
+2014-01-15 18:50:34 [INFO] default
+Remember /sync
+2014-01-15 18:53:04 [INFO] default
+Remember /sync
+2014-01-15 18:55:34 [INFO] default
+Remember /sync
+2014-01-15 18:58:04 [INFO] default
+Remember /sync
+2014-01-15 19:00:34 [INFO] default
+Remember /sync
+2014-01-15 19:03:04 [INFO] default
+Remember /sync
+2014-01-15 19:05:34 [INFO] default
+Remember /sync
+2014-01-15 19:08:04 [INFO] default
+Remember /sync
+2014-01-15 19:10:34 [INFO] default
+Remember /sync
+2014-01-15 19:13:04 [INFO] default
+Remember /sync
+2014-01-15 19:15:34 [INFO] default
+Remember /sync
+2014-01-15 19:18:04 [INFO] default
+Remember /sync
+2014-01-15 19:20:34 [INFO] default
+Remember /sync
+2014-01-15 19:23:04 [INFO] default
+Remember /sync
+2014-01-15 19:25:34 [INFO] default
+Remember /sync
+2014-01-15 19:28:04 [INFO] default
+Remember /sync
+2014-01-15 19:30:34 [INFO] default
+Remember /sync
+2014-01-15 19:33:04 [INFO] default
+Remember /sync
+2014-01-15 19:35:34 [INFO] default
+Remember /sync
+2014-01-15 19:38:04 [INFO] default
+Remember /sync
+2014-01-15 19:40:34 [INFO] default
+Remember /sync
+2014-01-15 19:43:04 [INFO] default
+Remember /sync
+2014-01-15 19:45:34 [INFO] default
+Remember /sync
+2014-01-15 19:48:04 [INFO] default
+Remember /sync
+2014-01-15 19:50:34 [INFO] default
+Remember /sync
+2014-01-15 19:53:04 [INFO] default
+Remember /sync
+2014-01-15 19:55:34 [INFO] default
+Remember /sync
+2014-01-15 19:58:04 [INFO] default
+Remember /sync
+2014-01-15 20:00:34 [INFO] default
+Remember /sync
+2014-01-15 20:03:04 [INFO] default
+Remember /sync
+2014-01-15 20:05:34 [INFO] default
+Remember /sync
+2014-01-15 20:08:04 [INFO] default
+Remember /sync
+2014-01-15 20:10:35 [INFO] default
+Remember /sync
+2014-01-15 20:13:05 [INFO] default
+Remember /sync
+2014-01-15 20:15:35 [INFO] default
+Remember /sync
+2014-01-15 20:18:05 [INFO] default
+Remember /sync
+2014-01-15 20:20:35 [INFO] default
+Remember /sync
+2014-01-15 20:23:05 [INFO] default
+Remember /sync
+2014-01-15 20:25:35 [INFO] default
+Remember /sync
+2014-01-15 20:28:05 [INFO] default
+Remember /sync
+2014-01-15 20:30:35 [INFO] default
+Remember /sync
+2014-01-15 20:33:05 [INFO] default
+Remember /sync
+2014-01-15 20:35:35 [INFO] default
+Remember /sync
+2014-01-15 20:38:05 [INFO] default
+Remember /sync
+2014-01-15 20:40:35 [INFO] default
+Remember /sync
+2014-01-15 20:43:05 [INFO] default
+Remember /sync
+2014-01-15 20:45:35 [INFO] default
+Remember /sync
+2014-01-15 20:48:05 [INFO] default
+Remember /sync
+2014-01-15 20:50:35 [INFO] default
+Remember /sync
+2014-01-15 20:53:05 [INFO] default
+Remember /sync
+2014-01-15 20:55:35 [INFO] default
+Remember /sync
+2014-01-15 20:58:05 [INFO] default
+Remember /sync
+2014-01-15 21:00:35 [INFO] default
+Remember /sync
+2014-01-15 21:03:05 [INFO] default
+Remember /sync
+2014-01-15 21:05:35 [INFO] default
+Remember /sync
+2014-01-15 21:08:05 [INFO] default
+Remember /sync
+2014-01-15 21:10:35 [INFO] default
+Remember /sync
+2014-01-15 21:13:05 [INFO] default
+Remember /sync
+2014-01-15 21:15:35 [INFO] default
+Remember /sync
+2014-01-15 21:18:05 [INFO] default
+Remember /sync
+2014-01-15 21:18:33 [INFO] YOUTBPM_Elvin[/223.18.113.217:53202] logged in with entity id 363 at (Buffer world, 213, 68, 199)
+2014-01-15 21:18:45 YOUTBPM_Elvin entered
+2014-01-15 21:18:53 [INFO] YOUTBPM_Elvin left the game
+2014-01-15 21:18:53 [INFO] YOUTBPM_Elvin[/223.18.113.217:53202] logged out due to client disconnect
+2014-01-15 21:20:35 [INFO] default
+Remember /sync
+2014-01-15 21:23:05 [INFO] default
+Remember /sync
+2014-01-15 21:25:35 [INFO] default
+Remember /sync
+2014-01-15 21:28:05 [INFO] default
+Remember /sync
+2014-01-15 21:30:35 [INFO] default
+Remember /sync
+2014-01-15 21:31:56 [INFO] IamtheLes[/116.15.160.93:61118] logged in with entity id 364 at (Buffer world, 126.3, 38.2, 128.7)
+2014-01-15 21:32:06 IamtheLes entered
+2014-01-15 21:32:25 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 21:32:25 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 21:32:25 IamtheLes has used /sync on
+2014-01-15 21:32:44 IamtheLes has used /gamemode 1
+2014-01-15 21:32:54 IamtheLes has used /gamemode 1 i
+2014-01-15 21:32:55 [INFO] IamtheLes[/116.15.160.93:61118] logged out due to gamemode change
+2014-01-15 21:33:02 [INFO] IamtheLes[/116.15.160.93:52067] logged in with entity id 365 at (Buffer world, 130.41, 80, 128.41)
+2014-01-15 21:33:05 [INFO] default
+Remember /sync
+2014-01-15 21:33:11 IamtheLes entered
+2014-01-15 21:33:17 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 21:33:17 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 21:33:17 IamtheLes has used /sync on
+2014-01-15 21:33:29 IamtheLes has used /time set 1
+2014-01-15 21:34:10 IamtheLes has used /give Iam Chain
+2014-01-15 21:34:26 [INFO] <IamtheLes> Mc you here?
+2014-01-15 21:34:34 IamtheLes has used /switchw 
+2014-01-15 21:35:35 [INFO] default
+Remember /sync
+2014-01-15 21:36:11 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 21:36:11 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 21:36:11 IamtheLes has used /sync off
+2014-01-15 21:36:20 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 21:36:20 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 21:36:20 IamtheLes has used /sync on
+2014-01-15 21:38:05 [INFO] default
+Remember /sync
+2014-01-15 21:39:39 [INFO] [Console] hi
+2014-01-15 21:39:45 [INFO] <IamtheLes> Hi MC
+2014-01-15 21:40:09 [INFO] [Console] I have chemistry exam tmr
+2014-01-15 21:40:16 [INFO] [Console] I have to go in five minutes
+2014-01-15 21:40:21 [INFO] [Console] I will leave the server on
+2014-01-15 21:40:26 [INFO] <IamtheLes> k
+2014-01-15 21:40:28 
+[OFFLINE][OWNER]:  pemapmodder
+[OFFLINE][OWNER]:  12458
+[OFFLINE][WEBLD]:  tjvdg
+[OFFLINE][BUILD]:  yy
+[OFFLINE][BUILD]:  Minidoesmcpe
+[OFFLINE][BUILD]:  CumSlogan
+[OFFLINE][BUILD]:  BluePhoenix911
+[OFFLINE][BUILD]:  St00rmer25631
+[OFFLINE][BUILD]:  Sleepy_complex
+[OFFLINE][BUILD]:  Klankus
+[OFFLINE][BUILD]:  scream
+[ONLINE][WEBLD]:  IamtheLes
+[OFFLINE][BUILD]:  superkill_168
+[OFFLINE][BUILD]:  gmjimboo
+[OFFLINE][BUILD]:  youtbpm_elvin
+[OFFLINE][OWNER]:  PEMapModder
+[OFFLINE][BUILD]:  TJVDG
+[OFFLINE][BUILD]:  grim_fighter
+[OFFLINE][GUEST]:  YOUTBPM_Elvin
+
+2014-01-15 21:40:28 [CMD] Usage: /ppplayer <player> <guest | trust | admin | owner | build | teste | watch | webld>
+2014-01-15 21:40:35 [INFO] default
+Remember /sync
+2014-01-15 21:40:43 [CMD] [Permission+] Gived WEBLD to IamtheLes.
+2014-01-15 21:40:52 [INFO] <IamtheLes> WEBLD?
+2014-01-15 21:40:55 [INFO] [Console] BUILD cannot use world edit
+2014-01-15 21:41:05 [INFO] [Console] WEBLD is world-edit builder
+2014-01-15 21:41:11 [INFO] <IamtheLes> oh
+2014-01-15 21:41:14 
+[OFFLINE][OWNER]:  pemapmodder
+[OFFLINE][OWNER]:  12458
+[OFFLINE][WEBLD]:  tjvdg
+[OFFLINE][BUILD]:  yy
+[OFFLINE][BUILD]:  Minidoesmcpe
+[OFFLINE][BUILD]:  CumSlogan
+[OFFLINE][BUILD]:  BluePhoenix911
+[OFFLINE][BUILD]:  St00rmer25631
+[OFFLINE][BUILD]:  Sleepy_complex
+[OFFLINE][BUILD]:  Klankus
+[OFFLINE][BUILD]:  scream
+[ONLINE][WEBLD]:  IamtheLes
+[OFFLINE][BUILD]:  superkill_168
+[OFFLINE][BUILD]:  gmjimboo
+[OFFLINE][BUILD]:  youtbpm_elvin
+[OFFLINE][OWNER]:  PEMapModder
+[OFFLINE][BUILD]:  TJVDG
+[OFFLINE][BUILD]:  grim_fighter
+[OFFLINE][GUEST]:  YOUTBPM_Elvin
+
+2014-01-15 21:41:14 [CMD] Usage: /ppplayer <player> <guest | trust | admin | owner | build | teste | watch | webld>
+2014-01-15 21:41:22 IamtheLes has used // 
+2014-01-15 21:41:26 IamtheLes has used // 
+2014-01-15 21:41:27 [CMD] [Permission+] Gived WATCH to grin_fighter.
+2014-01-15 21:41:34 IamtheLes has used // 
+2014-01-15 21:41:41 IamtheLes has used // 
+2014-01-15 21:41:51 IamtheLes has used // ice
+2014-01-15 21:42:10 IamtheLes has used // fire
+2014-01-15 21:42:43 [INFO] IamtheLes[/116.15.160.93:50366] logged out due to Unknown reason
+2014-01-15 21:42:45 [INFO] [Console] what is it?
+2014-01-15 21:42:47 [CMD] Command doesn't exist! Use /help
+2014-01-15 21:42:48 [CMD] Player  not found.
+2014-01-15 21:42:54 [INFO] IamtheLes left the game
+2014-01-15 21:42:54 [INFO] IamtheLes[/116.15.160.93:52067] logged out due to timeout
+2014-01-15 21:42:55 [INFO] IamtheLes[/116.15.160.93:52477] logged in with entity id 367 at (new, 85.85, 38, 155.9)
+2014-01-15 21:42:59 [CMD] Command doesn't exist! Use /help
+2014-01-15 21:43:02 [CMD] IamtheLes's lag: 124.00698661804
+2014-01-15 21:43:04 [CMD] IamtheLes's lag: 183.67687861125
+2014-01-15 21:43:05 [INFO] default
+Remember /sync
+2014-01-15 21:43:07 [CMD] IamtheLes's lag: 433.90017747879
+2014-01-15 21:43:09 IamtheLes entered
+2014-01-15 21:43:10 [CMD] IamtheLes's lag: 58.502912521362
+2014-01-15 21:43:18 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 21:43:18 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 21:43:18 IamtheLes has used /sync on
+2014-01-15 21:43:31 IamtheLes has used // 
+2014-01-15 21:43:46 [Permission+] NOTICE: "/pos" permission is not setted!
+2014-01-15 21:43:46 [Permission+] Usage: /ppcommand pos (g) (t) (a)
+2014-01-15 21:43:46 IamtheLes has used /pos 
+2014-01-15 21:43:51 [INFO] [Console] what is the ice andd fire thing?
+2014-01-15 21:44:10 [CMD] Command doesn't exist! Use /help
+2014-01-15 21:44:12 [INFO] <IamtheLes> was testing World Editor
+2014-01-15 21:44:16 [INFO] [Console] k
+2014-01-15 21:44:50 IamtheLes has used // 
+2014-01-15 21:45:00 IamtheLes has used // 
+2014-01-15 21:45:13 [INFO] [Console] I think I will use disguise for players to recognize teams
+2014-01-15 21:45:19 IamtheLes has used // chicken
+2014-01-15 21:45:30 [INFO] <IamtheLes> So there is Skeleton
+2014-01-15 21:45:31 [INFO] [Console] either use four standing mobs
+2014-01-15 21:45:34 [INFO] <IamtheLes> Creeper
+2014-01-15 21:45:35 [INFO] default
+Remember /sync
+2014-01-15 21:45:43 [INFO] <IamtheLes> Runner/Steve
+2014-01-15 21:45:46 [INFO] [Console] or change the names
+2014-01-15 21:45:49 [INFO] <IamtheLes> Spider
+2014-01-15 21:46:00 [INFO] <IamtheLes> Those Four should be the team
+2014-01-15 21:46:01 [INFO] [Console] creeper,zombie,skeleton,zombie pigman
+2014-01-15 21:46:05 [INFO] [Console] yep
+2014-01-15 21:46:07 [INFO] [Console] gtg
+2014-01-15 21:46:08 [INFO] <IamtheLes> Y no Steve?
+2014-01-15 21:46:11 [INFO] <IamtheLes> Bye
+2014-01-15 21:46:20 [INFO] [Console] cuz steve is normal
+2014-01-15 21:46:21 IamtheLes has used // grass
+2014-01-15 21:46:22 [INFO] [Console] staffs
+2014-01-15 21:46:24 [INFO] [Console] bye
+2014-01-15 21:46:26 [INFO] <IamtheLes> k
+2014-01-15 21:46:55 IamtheLes has used // 
+2014-01-15 21:47:18 IamtheLes has used // 
+2014-01-15 21:47:35 IamtheLes has used // stone
+2014-01-15 21:48:05 [INFO] default
+Remember /sync
+2014-01-15 21:50:35 [INFO] default
+Remember /sync
+2014-01-15 21:53:05 [INFO] default
+Remember /sync
+2014-01-15 21:55:28 IamtheLes has used /gamemode 0 I
+2014-01-15 21:55:29 [INFO] IamtheLes[/116.15.160.93:52477] logged out due to gamemode change
+2014-01-15 21:55:33 [INFO] IamtheLes[/116.15.160.93:55033] logged in with entity id 368 at (new, 78.72, 38, 142.77)
+2014-01-15 21:55:36 [INFO] default
+Remember /sync
+2014-01-15 21:55:56 [INFO] IamtheLes left the game
+2014-01-15 21:55:56 [INFO] IamtheLes[/116.15.160.93:55033] logged out due to timeout
+2014-01-15 21:57:47 [INFO] IamtheLes[/116.15.160.93:61610] logged in with entity id 369 at (new, 78.72, 38, 142.77)
+2014-01-15 21:58:02 IamtheLes entered
+2014-01-15 21:58:06 [INFO] default
+Remember /sync
+2014-01-15 21:58:12 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 21:58:12 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 21:58:12 IamtheLes has used /sync on
+2014-01-15 21:58:18 IamtheLes has used /give Iam Chain
+2014-01-15 21:58:46 IamtheLes has used /give chainmail Iam
+2014-01-15 21:58:52 IamtheLes has used /give Iam chainmail
+2014-01-15 21:59:03 IamtheLes has used /give Iam Chainmailchest
+2014-01-15 21:59:48 [INFO] IamtheLes[/116.15.160.93:51773] logged out due to Unknown reason
+2014-01-15 21:59:52 [INFO] IamtheLes left the game
+2014-01-15 21:59:52 [INFO] IamtheLes[/116.15.160.93:61610] logged out due to timeout
+2014-01-15 22:00:00 [INFO] IamtheLes[/116.15.160.93:52724] logged in with entity id 370 at (new, 80.65, 38, 143)
+2014-01-15 22:00:14 IamtheLes entered
+2014-01-15 22:00:22 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 22:00:22 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 22:00:22 IamtheLes has used /sync on
+2014-01-15 22:00:29 IamtheLes has used /give Iam bow 4096
+2014-01-15 22:00:36 [INFO] default
+Remember /sync
+2014-01-15 22:00:51 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 22:00:51 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 22:00:51 IamtheLes has used /sync on
+2014-01-15 22:01:24 IamtheLes has used /help 
+2014-01-15 22:01:24 IamtheLes has used // 
+2014-01-15 22:01:24 IamtheLes has used /gamemode 
+2014-01-15 22:01:24 IamtheLes has used /give 
+2014-01-15 22:01:24 IamtheLes has used /help 
+2014-01-15 22:01:24 IamtheLes has used /kill 
+2014-01-15 22:01:24 IamtheLes has used /list 
+2014-01-15 22:01:24 IamtheLes has used /me 
+2014-01-15 22:01:24 IamtheLes has used /ping 
+2014-01-15 22:01:24 IamtheLes has used /qrotate 
+2014-01-15 22:01:24 IamtheLes has used /say 
+2014-01-15 22:01:24 IamtheLes has used /seed 
+2014-01-15 22:01:24 IamtheLes has used /seeping 
+2014-01-15 22:01:24 [Permission+] NOTICE: "/seesync" permission is not setted!
+2014-01-15 22:01:24 [Permission+] Usage: /ppcommand seesync (g) (t) (a)
+2014-01-15 22:01:24 IamtheLes has used /seesync 
+2014-01-15 22:01:24 [Permission+] NOTICE: "/simpleauth" permission is not setted!
+2014-01-15 22:01:24 [Permission+] Usage: /ppcommand simpleauth (g) (t) (a)
+2014-01-15 22:01:24 IamtheLes has used /simpleauth 
+2014-01-15 22:01:24 IamtheLes has used /status 
+2014-01-15 22:01:24 IamtheLes has used /switchw 
+2014-01-15 22:01:24 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 22:01:24 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 22:01:24 IamtheLes has used /sync 
+2014-01-15 22:01:24 IamtheLes has used /tell 
+2014-01-15 22:01:24 IamtheLes has used /time 
+2014-01-15 22:01:24 [Permission+] NOTICE: "/toggleeditwand" permission is not setted!
+2014-01-15 22:01:24 [Permission+] Usage: /ppcommand toggleeditwand (g) (t) (a)
+2014-01-15 22:01:24 IamtheLes has used /toggleeditwand 
+2014-01-15 22:01:24 IamtheLes has used /tp 
+2014-01-15 22:01:31 IamtheLes has used /help 2
+2014-01-15 22:01:31 IamtheLes has used // 
+2014-01-15 22:01:31 IamtheLes has used /gamemode 
+2014-01-15 22:01:31 IamtheLes has used /give 
+2014-01-15 22:01:31 IamtheLes has used /help 
+2014-01-15 22:01:31 IamtheLes has used /kill 
+2014-01-15 22:01:31 IamtheLes has used /list 
+2014-01-15 22:01:31 IamtheLes has used /me 
+2014-01-15 22:01:31 IamtheLes has used /ping 
+2014-01-15 22:01:31 IamtheLes has used /qrotate 
+2014-01-15 22:01:31 IamtheLes has used /say 
+2014-01-15 22:01:31 IamtheLes has used /seed 
+2014-01-15 22:01:31 IamtheLes has used /seeping 
+2014-01-15 22:01:31 [Permission+] NOTICE: "/seesync" permission is not setted!
+2014-01-15 22:01:31 [Permission+] Usage: /ppcommand seesync (g) (t) (a)
+2014-01-15 22:01:31 IamtheLes has used /seesync 
+2014-01-15 22:01:31 [Permission+] NOTICE: "/simpleauth" permission is not setted!
+2014-01-15 22:01:31 [Permission+] Usage: /ppcommand simpleauth (g) (t) (a)
+2014-01-15 22:01:31 IamtheLes has used /simpleauth 
+2014-01-15 22:01:31 IamtheLes has used /status 
+2014-01-15 22:01:31 IamtheLes has used /switchw 
+2014-01-15 22:01:31 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 22:01:31 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 22:01:31 IamtheLes has used /sync 
+2014-01-15 22:01:31 IamtheLes has used /tell 
+2014-01-15 22:01:31 IamtheLes has used /time 
+2014-01-15 22:01:31 [Permission+] NOTICE: "/toggleeditwand" permission is not setted!
+2014-01-15 22:01:31 [Permission+] Usage: /ppcommand toggleeditwand (g) (t) (a)
+2014-01-15 22:01:31 IamtheLes has used /toggleeditwand 
+2014-01-15 22:01:31 IamtheLes has used /tp 
+2014-01-15 22:01:41 IamtheLes has used /say Hi IamtheLes
+2014-01-15 22:01:41 [INFO] [Server] Hi IamtheLes
+2014-01-15 22:01:47 IamtheLes has used /help 3
+2014-01-15 22:01:47 IamtheLes has used // 
+2014-01-15 22:01:47 IamtheLes has used /gamemode 
+2014-01-15 22:01:47 IamtheLes has used /give 
+2014-01-15 22:01:47 IamtheLes has used /help 
+2014-01-15 22:01:47 IamtheLes has used /kill 
+2014-01-15 22:01:47 IamtheLes has used /list 
+2014-01-15 22:01:47 IamtheLes has used /me 
+2014-01-15 22:01:47 IamtheLes has used /ping 
+2014-01-15 22:01:47 IamtheLes has used /qrotate 
+2014-01-15 22:01:47 IamtheLes has used /say 
+2014-01-15 22:01:47 IamtheLes has used /seed 
+2014-01-15 22:01:47 IamtheLes has used /seeping 
+2014-01-15 22:01:47 [Permission+] NOTICE: "/seesync" permission is not setted!
+2014-01-15 22:01:47 [Permission+] Usage: /ppcommand seesync (g) (t) (a)
+2014-01-15 22:01:47 IamtheLes has used /seesync 
+2014-01-15 22:01:47 [Permission+] NOTICE: "/simpleauth" permission is not setted!
+2014-01-15 22:01:47 [Permission+] Usage: /ppcommand simpleauth (g) (t) (a)
+2014-01-15 22:01:47 IamtheLes has used /simpleauth 
+2014-01-15 22:01:47 IamtheLes has used /status 
+2014-01-15 22:01:47 IamtheLes has used /switchw 
+2014-01-15 22:01:47 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 22:01:47 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 22:01:47 IamtheLes has used /sync 
+2014-01-15 22:01:47 IamtheLes has used /tell 
+2014-01-15 22:01:47 IamtheLes has used /time 
+2014-01-15 22:01:47 [Permission+] NOTICE: "/toggleeditwand" permission is not setted!
+2014-01-15 22:01:47 [Permission+] Usage: /ppcommand toggleeditwand (g) (t) (a)
+2014-01-15 22:01:47 IamtheLes has used /toggleeditwand 
+2014-01-15 22:01:47 IamtheLes has used /tp 
+2014-01-15 22:01:53 IamtheLes has used /seeping Iam
+2014-01-15 22:02:01 [Permission+] NOTICE: "/seesync" permission is not setted!
+2014-01-15 22:02:01 [Permission+] Usage: /ppcommand seesync (g) (t) (a)
+2014-01-15 22:02:01 IamtheLes has used /seesync Iam
+2014-01-15 22:02:08 IamtheLes has used /help 4
+2014-01-15 22:02:08 IamtheLes has used // 
+2014-01-15 22:02:08 IamtheLes has used /gamemode 
+2014-01-15 22:02:08 IamtheLes has used /give 
+2014-01-15 22:02:08 IamtheLes has used /help 
+2014-01-15 22:02:08 IamtheLes has used /kill 
+2014-01-15 22:02:08 IamtheLes has used /list 
+2014-01-15 22:02:08 IamtheLes has used /me 
+2014-01-15 22:02:08 IamtheLes has used /ping 
+2014-01-15 22:02:08 IamtheLes has used /qrotate 
+2014-01-15 22:02:08 IamtheLes has used /say 
+2014-01-15 22:02:08 IamtheLes has used /seed 
+2014-01-15 22:02:08 IamtheLes has used /seeping 
+2014-01-15 22:02:08 [Permission+] NOTICE: "/seesync" permission is not setted!
+2014-01-15 22:02:08 [Permission+] Usage: /ppcommand seesync (g) (t) (a)
+2014-01-15 22:02:08 IamtheLes has used /seesync 
+2014-01-15 22:02:08 [Permission+] NOTICE: "/simpleauth" permission is not setted!
+2014-01-15 22:02:08 [Permission+] Usage: /ppcommand simpleauth (g) (t) (a)
+2014-01-15 22:02:08 IamtheLes has used /simpleauth 
+2014-01-15 22:02:08 IamtheLes has used /status 
+2014-01-15 22:02:08 IamtheLes has used /switchw 
+2014-01-15 22:02:08 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 22:02:08 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 22:02:08 IamtheLes has used /sync 
+2014-01-15 22:02:08 IamtheLes has used /tell 
+2014-01-15 22:02:08 IamtheLes has used /time 
+2014-01-15 22:02:08 [Permission+] NOTICE: "/toggleeditwand" permission is not setted!
+2014-01-15 22:02:08 [Permission+] Usage: /ppcommand toggleeditwand (g) (t) (a)
+2014-01-15 22:02:08 IamtheLes has used /toggleeditwand 
+2014-01-15 22:02:08 IamtheLes has used /tp 
+2014-01-15 22:02:14 IamtheLes has used /help 5
+2014-01-15 22:02:14 IamtheLes has used // 
+2014-01-15 22:02:14 IamtheLes has used /gamemode 
+2014-01-15 22:02:14 IamtheLes has used /give 
+2014-01-15 22:02:14 IamtheLes has used /help 
+2014-01-15 22:02:14 IamtheLes has used /kill 
+2014-01-15 22:02:14 IamtheLes has used /list 
+2014-01-15 22:02:14 IamtheLes has used /me 
+2014-01-15 22:02:14 IamtheLes has used /ping 
+2014-01-15 22:02:14 IamtheLes has used /qrotate 
+2014-01-15 22:02:14 IamtheLes has used /say 
+2014-01-15 22:02:14 IamtheLes has used /seed 
+2014-01-15 22:02:14 IamtheLes has used /seeping 
+2014-01-15 22:02:14 [Permission+] NOTICE: "/seesync" permission is not setted!
+2014-01-15 22:02:14 [Permission+] Usage: /ppcommand seesync (g) (t) (a)
+2014-01-15 22:02:14 IamtheLes has used /seesync 
+2014-01-15 22:02:14 [Permission+] NOTICE: "/simpleauth" permission is not setted!
+2014-01-15 22:02:14 [Permission+] Usage: /ppcommand simpleauth (g) (t) (a)
+2014-01-15 22:02:14 IamtheLes has used /simpleauth 
+2014-01-15 22:02:14 IamtheLes has used /status 
+2014-01-15 22:02:14 IamtheLes has used /switchw 
+2014-01-15 22:02:14 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 22:02:14 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 22:02:14 IamtheLes has used /sync 
+2014-01-15 22:02:14 IamtheLes has used /tell 
+2014-01-15 22:02:14 IamtheLes has used /time 
+2014-01-15 22:02:14 [Permission+] NOTICE: "/toggleeditwand" permission is not setted!
+2014-01-15 22:02:14 [Permission+] Usage: /ppcommand toggleeditwand (g) (t) (a)
+2014-01-15 22:02:14 IamtheLes has used /toggleeditwand 
+2014-01-15 22:02:14 IamtheLes has used /tp 
+2014-01-15 22:02:32 IamtheLes has used /kill 
+2014-01-15 22:02:32 [INFO] IamtheLes died
+2014-01-15 22:02:34 IamtheLes entered
+2014-01-15 22:02:47 [INFO] IamtheLes suffocated in a wall
+2014-01-15 22:02:49 IamtheLes entered
+2014-01-15 22:02:58 [INFO] IamtheLes suffocated in a wall
+2014-01-15 22:03:03 IamtheLes entered
+2014-01-15 22:03:06 [INFO] default
+Remember /sync
+2014-01-15 22:03:14 [INFO] IamtheLes left the game
+2014-01-15 22:03:14 [INFO] IamtheLes[/116.15.160.93:52724] logged out due to client disconnect
+2014-01-15 22:03:18 [INFO] IamtheLes[/116.15.160.93:62412] logged in with entity id 409 at (Buffer world, 127.3, 38, 127.7)
+2014-01-15 22:03:24 [CMD] "IamtheLes" teleported to "w:new"
+2014-01-15 22:03:28 IamtheLes entered
+2014-01-15 22:03:39 [INFO] [Console] hello
+2014-01-15 22:03:45 [INFO] [Console] i am adding a custom plugin
+2014-01-15 22:03:45 [INFO] <IamtheLes> Hi
+2014-01-15 22:03:46 [INFO] [Console] tested
+2014-01-15 22:03:50 [INFO] [Console] restarting server
+2014-01-15 22:03:53 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 22:03:53 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 22:03:53 IamtheLes has used /sync on
+2014-01-15 22:03:57 [INFO] [Console] relogin soon
+2014-01-15 22:03:59 [INFO] Stopping server...
+2014-01-15 22:03:59 [INFO] IamtheLes[/116.15.160.93:62412] logged out due to server stop
+2014-01-15 22:03:59 [CMD] Stopping the server
+2014-01-15 22:03:59 [INFO] Unloading level "Buffer world"
+2014-01-15 22:03:59 [INFO] Unloading level "new"
+2014-01-15 22:03:59 [INFO] Unloading level "lobby"
+2014-01-15 22:03:59 [INFO] Unloading level "old"
+2014-01-15 22:04:00 [INFO] Unloading level "prep"
+2014-01-15 22:04:33 [INFO] Starting Minecraft PE server version v0.8.1 alpha
+2014-01-15 22:04:33 [INFO] Loading properties...
+2014-01-15 22:04:33 [INFO] Starting Minecraft PE server on *:19135
+2014-01-15 22:04:33 [INFO] This server is running PocketMine-MP version Alpha_1.3.11 "甘いビートルート" (MCPE: v0.8.1 alpha) (API 11)
+2014-01-15 22:04:33 [INFO] PocketMine-MP is distibuted under the LGPL License
+2014-01-15 22:04:33 [INFO] Checking for new server version
+2014-01-15 22:04:33 [INFO] Last check: 2014-01-15 10:05:22
+2014-01-15 22:04:35 [INFO] This is the latest STABLE version
+2014-01-15 22:04:35 [INFO] Preparing level "Buffer world"
+2014-01-15 22:04:35 [INFO] Loading plugin "CNR_Mapping_Plugin" 0.2.0 by PEMapModder
+2014-01-15 22:04:35 [INFO] Loading plugin "CommandEcho" 1.0.0 by ZacHack
+2014-01-15 22:04:35 [WARNING] Plugin "CommandEcho" may not be compatible with the API (10 != 11)! It can crash or corrupt the server!
+2014-01-15 22:04:35 [INFO] Loading plugin "PEMapModder Server Essentials Commands" 0 by PEMapModder
+2014-01-15 22:04:35 [INFO] Loading plugin "PermissionPlus" 1.0.9 by Omattyao
+2014-01-15 22:04:35 [INFO] Loading plugin "SimpleAuth" 0.3.4 by shoghicp
+2014-01-15 22:04:35 [INFO] Loading plugin "SimpleWorlds" 0.3 by PocketMine Team
+2014-01-15 22:04:35 [INFO] Loading plugin "WorldEditor" 0.8 by shoghicp
+2014-01-15 22:04:35 [WARNING] Plugin "WorldEditor" may not be compatible with the API (7,8,9,10 != 11)! It can crash or corrupt the server!
+2014-01-15 22:04:35 [INFO] Starting remote control listener
+2014-01-15 22:04:35 [INFO] RCON running on 0.0.0.0:19135
+2014-01-15 22:04:35 [INFO] Starting GS4 status listener
+2014-01-15 22:04:35 [INFO] Setting query port to 19135
+2014-01-15 22:04:35 [INFO] Query running on 0.0.0.0:19135
+2014-01-15 22:04:37 [INFO] Default game type: VIEW
+2014-01-15 22:04:37 [INFO] Starting plugins...
+2014-01-15 22:04:37 [INFO] default
+Remember /sync
+2014-01-15 22:04:37 [CMD] Player not found
+2014-01-15 22:04:37 [INFO] SimpleAuth enabled!
+2014-01-15 22:04:37 [SimpleWorlds] Loading levels...
+2014-01-15 22:04:37 [INFO] Preparing level "new"
+2014-01-15 22:04:38 [INFO] Preparing level "lobby"
+2014-01-15 22:04:38 [INFO] Preparing level "old"
+2014-01-15 22:04:39 [INFO] Preparing level "prep"
+2014-01-15 22:04:39 [INFO] Done (7.409s)! For help, type "help" or "?"
+2014-01-15 22:04:40 [INFO] IamtheLes[/116.15.160.93:64132] logged in with entity id 365 at (new, 122.28, 38, 143.61)
+2014-01-15 22:04:41 [CMD] IamtheLes is in survival mode.
+2014-01-15 22:04:52 [CMD] - Showing help page 1 of 10 (/help <page>) -
+2014-01-15 22:04:52 [CMD] // WorldEditor commands.
+2014-01-15 22:04:52 [CMD] /ban <add|remove|list|reload> [username]
+2014-01-15 22:04:52 [CMD] /banip <add|remove|list|reload> [IP|player]
+2014-01-15 22:04:52 [CMD] /cafk Toggles console's AFK status
+2014-01-15 22:04:52 [CMD] /defaultgamemode <mode>
+2014-01-15 22:04:54 [CMD] - Showing help page 2 of 10 (/help <page>) -
+2014-01-15 22:04:54 [CMD] /deop <player>
+2014-01-15 22:04:54 [CMD] /difficulty <0|1|2|3>
+2014-01-15 22:04:54 [CMD] /gamemode <mode> [player]
+2014-01-15 22:04:54 [CMD] /getping <ign> get ping of a player
+2014-01-15 22:04:54 [CMD] /getpos <ign> get the position of a player
+2014-01-15 22:04:54 IamtheLes entered
+2014-01-15 22:04:54 IamtheLes entered
+2014-01-15 22:04:57 [CMD] - Showing help page 3 of 10 (/help <page>) -
+2014-01-15 22:04:57 [CMD] /give <player> <item[:damage]> [amount]
+2014-01-15 22:04:57 [CMD] /help [page|command name]
+2014-01-15 22:04:57 [CMD] /kick <player> [reason ...]
+2014-01-15 22:04:57 [CMD] /kill <player>
+2014-01-15 22:04:57 [CMD] /list
+2014-01-15 22:05:02 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 22:05:02 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 22:05:02 IamtheLes has used /sync on
+2014-01-15 22:05:03 [CMD] - Showing help page 4 of 10 (/help <page>) -
+2014-01-15 22:05:03 [CMD] /me <action ...>
+2014-01-15 22:05:03 [CMD] /op <player>
+2014-01-15 22:05:03 [CMD] /ping 
+2014-01-15 22:05:03 [CMD] /ppcommand [Permission+] Manages command permission.
+2014-01-15 22:05:03 [CMD] /ppconfig [Permission+] PermissionPlus preferences.
+2014-01-15 22:05:06 [CMD] Usage: /getpos <ign> get the position of a player
+2014-01-15 22:05:07 IamtheLes has used /say Testing...
+2014-01-15 22:05:07 [INFO] [Server] Testing...
+2014-01-15 22:05:08 [INFO] [Console] oh
+2014-01-15 22:05:15 [INFO] [Console] duplicated cmd
+2014-01-15 22:05:17 [INFO] [Console] gtg
+2014-01-15 22:05:19 [INFO] [Console] bye
+2014-01-15 22:05:20 [INFO] <IamtheLes> bye
+2014-01-15 22:05:24 IamtheLes has used /help 
+2014-01-15 22:05:24 IamtheLes has used // 
+2014-01-15 22:05:24 IamtheLes has used /gamemode 
+2014-01-15 22:05:24 [Permission+] NOTICE: "/getping" permission is not setted!
+2014-01-15 22:05:24 [Permission+] Usage: /ppcommand getping (g) (t) (a)
+2014-01-15 22:05:24 IamtheLes has used /getping 
+2014-01-15 22:05:24 IamtheLes has used /give 
+2014-01-15 22:05:24 IamtheLes has used /help 
+2014-01-15 22:05:24 IamtheLes has used /kill 
+2014-01-15 22:05:24 IamtheLes has used /list 
+2014-01-15 22:05:24 IamtheLes has used /me 
+2014-01-15 22:05:24 IamtheLes has used /ping 
+2014-01-15 22:05:24 [Permission+] NOTICE: "/pw" permission is not setted!
+2014-01-15 22:05:24 [Permission+] Usage: /ppcommand pw (g) (t) (a)
+2014-01-15 22:05:24 IamtheLes has used /pw 
+2014-01-15 22:05:24 IamtheLes has used /qrotate 
+2014-01-15 22:05:24 IamtheLes has used /say 
+2014-01-15 22:05:24 [Permission+] NOTICE: "/seearmor" permission is not setted!
+2014-01-15 22:05:24 [Permission+] Usage: /ppcommand seearmor (g) (t) (a)
+2014-01-15 22:05:24 IamtheLes has used /seearmor 
+2014-01-15 22:05:24 IamtheLes has used /seed 
+2014-01-15 22:05:24 [Permission+] NOTICE: "/seegm" permission is not setted!
+2014-01-15 22:05:24 [Permission+] Usage: /ppcommand seegm (g) (t) (a)
+2014-01-15 22:05:24 IamtheLes has used /seegm 
+2014-01-15 22:05:24 IamtheLes has used /seeping 
+2014-01-15 22:05:24 [Permission+] NOTICE: "/seesync" permission is not setted!
+2014-01-15 22:05:24 [Permission+] Usage: /ppcommand seesync (g) (t) (a)
+2014-01-15 22:05:24 IamtheLes has used /seesync 
+2014-01-15 22:05:24 [Permission+] NOTICE: "/simpleauth" permission is not setted!
+2014-01-15 22:05:24 [Permission+] Usage: /ppcommand simpleauth (g) (t) (a)
+2014-01-15 22:05:24 IamtheLes has used /simpleauth 
+2014-01-15 22:05:24 IamtheLes has used /status 
+2014-01-15 22:05:24 IamtheLes has used /switchw 
+2014-01-15 22:05:24 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 22:05:24 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 22:05:24 IamtheLes has used /sync 
+2014-01-15 22:05:24 IamtheLes has used /tell 
+2014-01-15 22:05:24 IamtheLes has used /time 
+2014-01-15 22:05:24 [Permission+] NOTICE: "/toggleeditwand" permission is not setted!
+2014-01-15 22:05:24 [Permission+] Usage: /ppcommand toggleeditwand (g) (t) (a)
+2014-01-15 22:05:24 IamtheLes has used /toggleeditwand 
+2014-01-15 22:05:24 IamtheLes has used /tp 
+2014-01-15 22:05:33 IamtheLes has used /help 2
+2014-01-15 22:05:33 IamtheLes has used // 
+2014-01-15 22:05:33 IamtheLes has used /gamemode 
+2014-01-15 22:05:33 [Permission+] NOTICE: "/getping" permission is not setted!
+2014-01-15 22:05:33 [Permission+] Usage: /ppcommand getping (g) (t) (a)
+2014-01-15 22:05:33 IamtheLes has used /getping 
+2014-01-15 22:05:33 IamtheLes has used /give 
+2014-01-15 22:05:33 IamtheLes has used /help 
+2014-01-15 22:05:33 IamtheLes has used /kill 
+2014-01-15 22:05:33 IamtheLes has used /list 
+2014-01-15 22:05:33 IamtheLes has used /me 
+2014-01-15 22:05:33 IamtheLes has used /ping 
+2014-01-15 22:05:33 [Permission+] NOTICE: "/pw" permission is not setted!
+2014-01-15 22:05:33 [Permission+] Usage: /ppcommand pw (g) (t) (a)
+2014-01-15 22:05:33 IamtheLes has used /pw 
+2014-01-15 22:05:33 IamtheLes has used /qrotate 
+2014-01-15 22:05:33 IamtheLes has used /say 
+2014-01-15 22:05:33 [Permission+] NOTICE: "/seearmor" permission is not setted!
+2014-01-15 22:05:33 [Permission+] Usage: /ppcommand seearmor (g) (t) (a)
+2014-01-15 22:05:33 IamtheLes has used /seearmor 
+2014-01-15 22:05:33 IamtheLes has used /seed 
+2014-01-15 22:05:33 [Permission+] NOTICE: "/seegm" permission is not setted!
+2014-01-15 22:05:33 [Permission+] Usage: /ppcommand seegm (g) (t) (a)
+2014-01-15 22:05:33 IamtheLes has used /seegm 
+2014-01-15 22:05:33 IamtheLes has used /seeping 
+2014-01-15 22:05:33 [Permission+] NOTICE: "/seesync" permission is not setted!
+2014-01-15 22:05:33 [Permission+] Usage: /ppcommand seesync (g) (t) (a)
+2014-01-15 22:05:33 IamtheLes has used /seesync 
+2014-01-15 22:05:33 [Permission+] NOTICE: "/simpleauth" permission is not setted!
+2014-01-15 22:05:33 [Permission+] Usage: /ppcommand simpleauth (g) (t) (a)
+2014-01-15 22:05:33 IamtheLes has used /simpleauth 
+2014-01-15 22:05:33 IamtheLes has used /status 
+2014-01-15 22:05:33 IamtheLes has used /switchw 
+2014-01-15 22:05:33 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 22:05:33 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 22:05:33 IamtheLes has used /sync 
+2014-01-15 22:05:33 IamtheLes has used /tell 
+2014-01-15 22:05:33 IamtheLes has used /time 
+2014-01-15 22:05:33 [Permission+] NOTICE: "/toggleeditwand" permission is not setted!
+2014-01-15 22:05:33 [Permission+] Usage: /ppcommand toggleeditwand (g) (t) (a)
+2014-01-15 22:05:33 IamtheLes has used /toggleeditwand 
+2014-01-15 22:05:33 IamtheLes has used /tp 
+2014-01-15 22:05:37 [Permission+] NOTICE: "/pw" permission is not setted!
+2014-01-15 22:05:37 [Permission+] Usage: /ppcommand pw (g) (t) (a)
+2014-01-15 22:05:37 IamtheLes has used /pw 
+2014-01-15 22:05:44 IamtheLes has used /help 3
+2014-01-15 22:05:44 IamtheLes has used // 
+2014-01-15 22:05:44 IamtheLes has used /gamemode 
+2014-01-15 22:05:44 [Permission+] NOTICE: "/getping" permission is not setted!
+2014-01-15 22:05:44 [Permission+] Usage: /ppcommand getping (g) (t) (a)
+2014-01-15 22:05:44 IamtheLes has used /getping 
+2014-01-15 22:05:44 IamtheLes has used /give 
+2014-01-15 22:05:44 IamtheLes has used /help 
+2014-01-15 22:05:44 IamtheLes has used /kill 
+2014-01-15 22:05:44 IamtheLes has used /list 
+2014-01-15 22:05:44 IamtheLes has used /me 
+2014-01-15 22:05:44 IamtheLes has used /ping 
+2014-01-15 22:05:44 [Permission+] NOTICE: "/pw" permission is not setted!
+2014-01-15 22:05:44 [Permission+] Usage: /ppcommand pw (g) (t) (a)
+2014-01-15 22:05:44 IamtheLes has used /pw 
+2014-01-15 22:05:44 IamtheLes has used /qrotate 
+2014-01-15 22:05:44 IamtheLes has used /say 
+2014-01-15 22:05:44 [Permission+] NOTICE: "/seearmor" permission is not setted!
+2014-01-15 22:05:44 [Permission+] Usage: /ppcommand seearmor (g) (t) (a)
+2014-01-15 22:05:44 IamtheLes has used /seearmor 
+2014-01-15 22:05:44 IamtheLes has used /seed 
+2014-01-15 22:05:44 [Permission+] NOTICE: "/seegm" permission is not setted!
+2014-01-15 22:05:44 [Permission+] Usage: /ppcommand seegm (g) (t) (a)
+2014-01-15 22:05:44 IamtheLes has used /seegm 
+2014-01-15 22:05:44 IamtheLes has used /seeping 
+2014-01-15 22:05:44 [Permission+] NOTICE: "/seesync" permission is not setted!
+2014-01-15 22:05:44 [Permission+] Usage: /ppcommand seesync (g) (t) (a)
+2014-01-15 22:05:44 IamtheLes has used /seesync 
+2014-01-15 22:05:44 [Permission+] NOTICE: "/simpleauth" permission is not setted!
+2014-01-15 22:05:44 [Permission+] Usage: /ppcommand simpleauth (g) (t) (a)
+2014-01-15 22:05:44 IamtheLes has used /simpleauth 
+2014-01-15 22:05:44 IamtheLes has used /status 
+2014-01-15 22:05:44 IamtheLes has used /switchw 
+2014-01-15 22:05:44 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 22:05:44 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 22:05:44 IamtheLes has used /sync 
+2014-01-15 22:05:44 IamtheLes has used /tell 
+2014-01-15 22:05:44 IamtheLes has used /time 
+2014-01-15 22:05:44 [Permission+] NOTICE: "/toggleeditwand" permission is not setted!
+2014-01-15 22:05:44 [Permission+] Usage: /ppcommand toggleeditwand (g) (t) (a)
+2014-01-15 22:05:44 IamtheLes has used /toggleeditwand 
+2014-01-15 22:05:44 IamtheLes has used /tp 
+2014-01-15 22:05:54 [Permission+] NOTICE: "/seearmor" permission is not setted!
+2014-01-15 22:05:54 [Permission+] Usage: /ppcommand seearmor (g) (t) (a)
+2014-01-15 22:05:54 IamtheLes has used /seearmor Iam
+2014-01-15 22:06:04 IamtheLes has used /help 5
+2014-01-15 22:06:04 IamtheLes has used // 
+2014-01-15 22:06:04 IamtheLes has used /gamemode 
+2014-01-15 22:06:04 [Permission+] NOTICE: "/getping" permission is not setted!
+2014-01-15 22:06:04 [Permission+] Usage: /ppcommand getping (g) (t) (a)
+2014-01-15 22:06:04 IamtheLes has used /getping 
+2014-01-15 22:06:04 IamtheLes has used /give 
+2014-01-15 22:06:04 IamtheLes has used /help 
+2014-01-15 22:06:04 IamtheLes has used /kill 
+2014-01-15 22:06:04 IamtheLes has used /list 
+2014-01-15 22:06:04 IamtheLes has used /me 
+2014-01-15 22:06:04 IamtheLes has used /ping 
+2014-01-15 22:06:04 [Permission+] NOTICE: "/pw" permission is not setted!
+2014-01-15 22:06:04 [Permission+] Usage: /ppcommand pw (g) (t) (a)
+2014-01-15 22:06:04 IamtheLes has used /pw 
+2014-01-15 22:06:04 IamtheLes has used /qrotate 
+2014-01-15 22:06:04 IamtheLes has used /say 
+2014-01-15 22:06:04 [Permission+] NOTICE: "/seearmor" permission is not setted!
+2014-01-15 22:06:04 [Permission+] Usage: /ppcommand seearmor (g) (t) (a)
+2014-01-15 22:06:04 IamtheLes has used /seearmor 
+2014-01-15 22:06:04 IamtheLes has used /seed 
+2014-01-15 22:06:04 [Permission+] NOTICE: "/seegm" permission is not setted!
+2014-01-15 22:06:04 [Permission+] Usage: /ppcommand seegm (g) (t) (a)
+2014-01-15 22:06:04 IamtheLes has used /seegm 
+2014-01-15 22:06:04 IamtheLes has used /seeping 
+2014-01-15 22:06:04 [Permission+] NOTICE: "/seesync" permission is not setted!
+2014-01-15 22:06:04 [Permission+] Usage: /ppcommand seesync (g) (t) (a)
+2014-01-15 22:06:04 IamtheLes has used /seesync 
+2014-01-15 22:06:04 [Permission+] NOTICE: "/simpleauth" permission is not setted!
+2014-01-15 22:06:04 [Permission+] Usage: /ppcommand simpleauth (g) (t) (a)
+2014-01-15 22:06:04 IamtheLes has used /simpleauth 
+2014-01-15 22:06:04 IamtheLes has used /status 
+2014-01-15 22:06:04 IamtheLes has used /switchw 
+2014-01-15 22:06:04 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 22:06:04 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 22:06:04 IamtheLes has used /sync 
+2014-01-15 22:06:04 IamtheLes has used /tell 
+2014-01-15 22:06:04 IamtheLes has used /time 
+2014-01-15 22:06:04 [Permission+] NOTICE: "/toggleeditwand" permission is not setted!
+2014-01-15 22:06:04 [Permission+] Usage: /ppcommand toggleeditwand (g) (t) (a)
+2014-01-15 22:06:04 IamtheLes has used /toggleeditwand 
+2014-01-15 22:06:04 IamtheLes has used /tp 
+2014-01-15 22:06:15 [Permission+] NOTICE: "/toggleeditwand" permission is not setted!
+2014-01-15 22:06:15 [Permission+] Usage: /ppcommand toggleeditwand (g) (t) (a)
+2014-01-15 22:06:15 IamtheLes has used /toggleeditwand 
+2014-01-15 22:06:22 IamtheLes has used // 
+2014-01-15 22:07:00 [Permission+] NOTICE: "//editwand" permission is not setted!
+2014-01-15 22:07:00 [Permission+] Usage: /ppcommand /editwand (g) (t) (a)
+2014-01-15 22:07:00 IamtheLes has used //editwand 
+2014-01-15 22:07:02 IamtheLes has used // 
+2014-01-15 22:07:07 [INFO] default
+Remember /sync
+2014-01-15 22:07:08 [INFO] <IamtheLes> z//toggleeditwand
+2014-01-15 22:07:17 [Permission+] NOTICE: "//toggleeditwand" permission is not setted!
+2014-01-15 22:07:17 [Permission+] Usage: /ppcommand /toggleeditwand (g) (t) (a)
+2014-01-15 22:07:17 IamtheLes has used //toggleeditwand 
+2014-01-15 22:07:25 [Permission+] NOTICE: "//toggleeditwand" permission is not setted!
+2014-01-15 22:07:25 [Permission+] Usage: /ppcommand /toggleeditwand (g) (t) (a)
+2014-01-15 22:07:25 IamtheLes has used //toggleeditwand 
+2014-01-15 22:07:35 [Permission+] NOTICE: "//toggleeditwand" permission is not setted!
+2014-01-15 22:07:35 [Permission+] Usage: /ppcommand /toggleeditwand (g) (t) (a)
+2014-01-15 22:07:35 IamtheLes has used //toggleeditwand 
+2014-01-15 22:07:42 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-15 22:07:42 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-15 22:07:42 IamtheLes has used /sync on
+2014-01-15 22:07:48 [Permission+] NOTICE: "//toggleeditwand" permission is not setted!
+2014-01-15 22:07:48 [Permission+] Usage: /ppcommand /toggleeditwand (g) (t) (a)
+2014-01-15 22:07:48 IamtheLes has used //toggleeditwand 
+2014-01-15 22:08:17 IamtheLes has used // 
+2014-01-15 22:08:20 IamtheLes has used // 
+2014-01-15 22:08:28 IamtheLes has used // lava
+2014-01-15 22:08:42 IamtheLes has used // 
+2014-01-15 22:08:57 IamtheLes has used // 
+2014-01-15 22:09:01 IamtheLes has used // 
+2014-01-15 22:09:37 [INFO] default
+Remember /sync
+2014-01-15 22:10:02 [INFO] IamtheLes left the game
+2014-01-15 22:10:02 [INFO] IamtheLes[/116.15.160.93:64132] logged out due to timeout
+2014-01-15 22:12:07 [INFO] default
+Remember /sync
+2014-01-15 22:14:37 [INFO] default
+Remember /sync
+2014-01-15 22:17:07 [INFO] default
+Remember /sync
+2014-01-15 22:19:37 [INFO] default
+Remember /sync
+2014-01-15 22:22:07 [INFO] default
+Remember /sync
+2014-01-15 22:24:37 [INFO] default
+Remember /sync
+2014-01-15 22:27:07 [INFO] default
+Remember /sync
+2014-01-15 22:29:37 [INFO] default
+Remember /sync
+2014-01-15 22:32:07 [INFO] default
+Remember /sync
+2014-01-15 22:34:37 [INFO] default
+Remember /sync
+2014-01-15 22:37:07 [INFO] default
+Remember /sync
+2014-01-15 22:39:38 [INFO] default
+Remember /sync
+2014-01-15 22:42:08 [INFO] default
+Remember /sync
+2014-01-15 22:44:38 [INFO] default
+Remember /sync
+2014-01-15 22:47:08 [INFO] default
+Remember /sync
+2014-01-15 22:49:38 [INFO] default
+Remember /sync
+2014-01-15 22:52:08 [INFO] default
+Remember /sync
+2014-01-15 22:54:38 [INFO] default
+Remember /sync
+2014-01-15 22:57:08 [INFO] default
+Remember /sync
+2014-01-15 22:59:38 [INFO] default
+Remember /sync
+2014-01-15 23:02:08 [INFO] default
+Remember /sync
+2014-01-15 23:04:38 [INFO] default
+Remember /sync
+2014-01-15 23:07:08 [INFO] default
+Remember /sync
+2014-01-15 23:09:38 [INFO] default
+Remember /sync
+2014-01-15 23:12:08 [INFO] default
+Remember /sync
+2014-01-15 23:14:38 [INFO] default
+Remember /sync
+2014-01-15 23:17:08 [INFO] default
+Remember /sync
+2014-01-15 23:19:38 [INFO] default
+Remember /sync
+2014-01-15 23:22:08 [INFO] default
+Remember /sync
+2014-01-15 23:24:38 [INFO] default
+Remember /sync
+2014-01-15 23:27:08 [INFO] default
+Remember /sync
+2014-01-15 23:29:38 [INFO] default
+Remember /sync
+2014-01-15 23:32:08 [INFO] default
+Remember /sync
+2014-01-15 23:34:38 [INFO] default
+Remember /sync
+2014-01-15 23:37:08 [INFO] default
+Remember /sync
+2014-01-15 23:39:38 [INFO] default
+Remember /sync
+2014-01-15 23:42:08 [INFO] default
+Remember /sync
+2014-01-15 23:44:38 [INFO] default
+Remember /sync
+2014-01-15 23:47:08 [INFO] default
+Remember /sync
+2014-01-15 23:49:38 [INFO] default
+Remember /sync
+2014-01-15 23:52:08 [INFO] default
+Remember /sync
+2014-01-15 23:54:38 [INFO] default
+Remember /sync
+2014-01-15 23:57:08 [INFO] default
+Remember /sync
+2014-01-15 23:59:38 [INFO] default
+Remember /sync
+2014-01-16 00:02:08 [INFO] default
+Remember /sync
+2014-01-16 00:04:38 [INFO] default
+Remember /sync
+2014-01-16 00:07:08 [INFO] default
+Remember /sync
+2014-01-16 00:09:38 [INFO] default
+Remember /sync
+2014-01-16 00:12:08 [INFO] default
+Remember /sync
+2014-01-16 00:14:38 [INFO] default
+Remember /sync
+2014-01-16 00:17:08 [INFO] default
+Remember /sync
+2014-01-16 00:19:38 [INFO] default
+Remember /sync
+2014-01-16 00:22:08 [INFO] default
+Remember /sync
+2014-01-16 00:24:38 [INFO] default
+Remember /sync
+2014-01-16 00:27:08 [INFO] default
+Remember /sync
+2014-01-16 00:29:39 [INFO] default
+Remember /sync
+2014-01-16 00:32:09 [INFO] default
+Remember /sync
+2014-01-16 00:34:39 [INFO] default
+Remember /sync
+2014-01-16 00:37:09 [INFO] default
+Remember /sync
+2014-01-16 00:39:39 [INFO] default
+Remember /sync
+2014-01-16 00:42:09 [INFO] default
+Remember /sync
+2014-01-16 00:44:39 [INFO] default
+Remember /sync
+2014-01-16 00:47:09 [INFO] default
+Remember /sync
+2014-01-16 00:49:39 [INFO] default
+Remember /sync
+2014-01-16 00:52:09 [INFO] default
+Remember /sync
+2014-01-16 00:54:39 [INFO] default
+Remember /sync
+2014-01-16 00:57:09 [INFO] default
+Remember /sync
+2014-01-16 00:59:39 [INFO] default
+Remember /sync
+2014-01-16 01:02:09 [INFO] default
+Remember /sync
+2014-01-16 01:04:39 [INFO] default
+Remember /sync
+2014-01-16 01:07:09 [INFO] default
+Remember /sync
+2014-01-16 01:09:39 [INFO] default
+Remember /sync
+2014-01-16 01:12:09 [INFO] default
+Remember /sync
+2014-01-16 01:14:39 [INFO] default
+Remember /sync
+2014-01-16 01:17:09 [INFO] default
+Remember /sync
+2014-01-16 01:19:39 [INFO] default
+Remember /sync
+2014-01-16 01:22:09 [INFO] default
+Remember /sync
+2014-01-16 01:24:39 [INFO] default
+Remember /sync
+2014-01-16 01:27:09 [INFO] default
+Remember /sync
+2014-01-16 01:29:39 [INFO] default
+Remember /sync
+2014-01-16 01:32:09 [INFO] default
+Remember /sync
+2014-01-16 01:34:39 [INFO] default
+Remember /sync
+2014-01-16 01:37:09 [INFO] default
+Remember /sync
+2014-01-16 01:39:39 [INFO] default
+Remember /sync
+2014-01-16 01:42:09 [INFO] default
+Remember /sync
+2014-01-16 01:44:39 [INFO] default
+Remember /sync
+2014-01-16 01:47:09 [INFO] default
+Remember /sync
+2014-01-16 01:49:39 [INFO] default
+Remember /sync
+2014-01-16 01:52:09 [INFO] default
+Remember /sync
+2014-01-16 01:54:39 [INFO] default
+Remember /sync
+2014-01-16 01:57:09 [INFO] default
+Remember /sync
+2014-01-16 01:59:39 [INFO] default
+Remember /sync
+2014-01-16 02:02:09 [INFO] default
+Remember /sync
+2014-01-16 02:04:39 [INFO] default
+Remember /sync
+2014-01-16 02:07:09 [INFO] default
+Remember /sync
+2014-01-16 02:09:39 [INFO] default
+Remember /sync
+2014-01-16 02:12:10 [INFO] default
+Remember /sync
+2014-01-16 02:14:40 [INFO] default
+Remember /sync
+2014-01-16 02:17:10 [INFO] default
+Remember /sync
+2014-01-16 02:19:40 [INFO] default
+Remember /sync
+2014-01-16 02:22:10 [INFO] default
+Remember /sync
+2014-01-16 02:24:40 [INFO] default
+Remember /sync
+2014-01-16 02:27:10 [INFO] default
+Remember /sync
+2014-01-16 02:29:40 [INFO] default
+Remember /sync
+2014-01-16 02:32:10 [INFO] default
+Remember /sync
+2014-01-16 02:34:40 [INFO] default
+Remember /sync
+2014-01-16 02:37:10 [INFO] default
+Remember /sync
+2014-01-16 02:39:40 [INFO] default
+Remember /sync
+2014-01-16 02:42:10 [INFO] default
+Remember /sync
+2014-01-16 02:44:40 [INFO] default
+Remember /sync
+2014-01-16 02:47:10 [INFO] default
+Remember /sync
+2014-01-16 02:49:40 [INFO] default
+Remember /sync
+2014-01-16 02:52:10 [INFO] default
+Remember /sync
+2014-01-16 02:54:40 [INFO] default
+Remember /sync
+2014-01-16 02:57:10 [INFO] default
+Remember /sync
+2014-01-16 02:59:40 [INFO] default
+Remember /sync
+2014-01-16 03:02:10 [INFO] default
+Remember /sync
+2014-01-16 03:04:40 [INFO] default
+Remember /sync
+2014-01-16 03:07:10 [INFO] default
+Remember /sync
+2014-01-16 03:09:40 [INFO] default
+Remember /sync
+2014-01-16 03:12:10 [INFO] default
+Remember /sync
+2014-01-16 03:14:40 [INFO] default
+Remember /sync
+2014-01-16 03:17:10 [INFO] default
+Remember /sync
+2014-01-16 03:17:42 [INFO] myworldkoks[/67.8.175.92:60024] logged out due to You are banned!
+2014-01-16 11:23:42 [INFO] Starting Minecraft PE server version v0.8.1 alpha
+2014-01-16 11:23:42 [INFO] Loading properties...
+2014-01-16 11:23:42 [INFO] Starting Minecraft PE server on *:19135
+2014-01-16 11:23:42 [INFO] This server is running PocketMine-MP version Alpha_1.3.11 "甘いビートルート" (MCPE: v0.8.1 alpha) (API 11)
+2014-01-16 11:23:42 [INFO] PocketMine-MP is distibuted under the LGPL License
+2014-01-16 11:23:42 [INFO] Checking for new server version
+2014-01-16 11:23:42 [INFO] Last check: 2014-01-15 22:04:35
+2014-01-16 11:23:44 [INFO] This is the latest STABLE version
+2014-01-16 11:23:44 [INFO] Preparing level "Buffer world"
+2014-01-16 11:23:44 [INFO] Loading plugin "CNR_Mapping_Plugin" 0.2.0 by PEMapModder
+2014-01-16 11:23:44 [INFO] Loading plugin "CommandEcho" 1.0.0 by ZacHack
+2014-01-16 11:23:44 [WARNING] Plugin "CommandEcho" may not be compatible with the API (10 != 11)! It can crash or corrupt the server!
+2014-01-16 11:23:44 [INFO] Loading plugin "PEMapModder Server Essentials Commands" 0 by PEMapModder
+2014-01-16 11:23:44 [INFO] Loading plugin "PermissionPlus" 1.0.9 by Omattyao
+2014-01-16 11:23:44 [INFO] Loading plugin "SimpleAuth" 0.3.4 by shoghicp
+2014-01-16 11:23:44 [INFO] Loading plugin "SimpleWorlds" 0.3 by PocketMine Team
+2014-01-16 11:23:44 [INFO] Loading plugin "WorldEditor" 0.8 by shoghicp
+2014-01-16 11:23:44 [WARNING] Plugin "WorldEditor" may not be compatible with the API (7,8,9,10 != 11)! It can crash or corrupt the server!
+2014-01-16 11:23:44 [INFO] Starting remote control listener
+2014-01-16 11:23:44 [INFO] RCON running on 0.0.0.0:19135
+2014-01-16 11:23:44 [INFO] Starting GS4 status listener
+2014-01-16 11:23:44 [INFO] Setting query port to 19135
+2014-01-16 11:23:44 [INFO] Query running on 0.0.0.0:19135
+2014-01-16 11:23:51 [INFO] Default game type: VIEW
+2014-01-16 11:23:51 [INFO] Starting plugins...
+2014-01-16 11:23:51 [INFO] default
+Remember /sync
+2014-01-16 11:23:51 [INFO] SimpleAuth enabled!
+2014-01-16 11:23:51 [SimpleWorlds] Loading levels...
+2014-01-16 11:23:51 [INFO] Preparing level "new"
+2014-01-16 11:23:52 [INFO] Preparing level "lobby"
+2014-01-16 11:23:52 [INFO] Preparing level "old"
+2014-01-16 11:23:53 [INFO] Preparing level "prep"
+2014-01-16 11:23:53 [INFO] Done (12.139s)! For help, type "help" or "?"
+2014-01-16 11:26:21 [INFO] default
+Remember /sync
+2014-01-16 11:28:51 [INFO] default
+Remember /sync
+2014-01-16 11:31:21 [INFO] default
+Remember /sync
+2014-01-16 11:33:51 [INFO] default
+Remember /sync
+2014-01-16 11:36:21 [INFO] default
+Remember /sync
+2014-01-16 11:38:51 [INFO] default
+Remember /sync
+2014-01-16 11:41:21 [INFO] default
+Remember /sync
+2014-01-16 11:43:51 [INFO] default
+Remember /sync
+2014-01-16 11:46:21 [INFO] default
+Remember /sync
+2014-01-16 11:48:51 [INFO] default
+Remember /sync
+2014-01-16 11:51:21 [INFO] default
+Remember /sync
+2014-01-16 11:53:51 [INFO] default
+Remember /sync
+2014-01-16 11:56:21 [INFO] default
+Remember /sync
+2014-01-16 11:58:51 [INFO] default
+Remember /sync
+2014-01-16 12:01:21 [INFO] default
+Remember /sync
+2014-01-16 12:03:52 [INFO] default
+Remember /sync
+2014-01-16 12:06:22 [INFO] default
+Remember /sync
+2014-01-16 12:08:52 [INFO] default
+Remember /sync
+2014-01-16 12:11:22 [INFO] default
+Remember /sync
+2014-01-16 12:13:52 [INFO] default
+Remember /sync
+2014-01-16 12:16:22 [INFO] default
+Remember /sync
+2014-01-16 12:18:52 [INFO] default
+Remember /sync
+2014-01-16 12:21:22 [INFO] default
+Remember /sync
+2014-01-16 12:23:52 [INFO] default
+Remember /sync
+2014-01-16 12:26:22 [INFO] default
+Remember /sync
+2014-01-16 12:28:52 [INFO] default
+Remember /sync
+2014-01-16 12:31:22 [INFO] default
+Remember /sync
+2014-01-16 12:33:52 [INFO] default
+Remember /sync
+2014-01-16 12:36:22 [INFO] default
+Remember /sync
+2014-01-16 12:38:52 [INFO] default
+Remember /sync
+2014-01-16 12:41:22 [INFO] default
+Remember /sync
+2014-01-16 12:43:52 [INFO] default
+Remember /sync
+2014-01-16 12:46:22 [INFO] default
+Remember /sync
+2014-01-16 12:48:52 [INFO] default
+Remember /sync
+2014-01-16 12:51:22 [INFO] default
+Remember /sync
+2014-01-16 12:53:52 [INFO] default
+Remember /sync
+2014-01-16 12:56:22 [INFO] default
+Remember /sync
+2014-01-16 12:58:52 [INFO] default
+Remember /sync
+2014-01-16 13:01:22 [INFO] default
+Remember /sync
+2014-01-16 13:03:52 [INFO] default
+Remember /sync
+2014-01-16 13:06:22 [INFO] default
+Remember /sync
+2014-01-16 13:08:52 [INFO] default
+Remember /sync
+2014-01-16 13:11:22 [INFO] default
+Remember /sync
+2014-01-16 13:13:52 [INFO] default
+Remember /sync
+2014-01-16 13:16:22 [INFO] default
+Remember /sync
+2014-01-16 13:18:52 [INFO] default
+Remember /sync
+2014-01-16 13:21:22 [INFO] default
+Remember /sync
+2014-01-16 13:23:52 [INFO] default
+Remember /sync
+2014-01-16 13:26:22 [INFO] default
+Remember /sync
+2014-01-16 13:28:52 [INFO] default
+Remember /sync
+2014-01-16 13:31:22 [INFO] default
+Remember /sync
+2014-01-16 13:33:52 [INFO] default
+Remember /sync
+2014-01-16 13:36:22 [INFO] default
+Remember /sync
+2014-01-16 13:38:52 [INFO] default
+Remember /sync
+2014-01-16 13:41:22 [INFO] default
+Remember /sync
+2014-01-16 13:43:52 [INFO] default
+Remember /sync
+2014-01-16 13:46:23 [INFO] default
+Remember /sync
+2014-01-16 13:48:53 [INFO] default
+Remember /sync
+2014-01-16 13:51:23 [INFO] default
+Remember /sync
+2014-01-16 13:53:53 [INFO] default
+Remember /sync
+2014-01-16 13:56:23 [INFO] default
+Remember /sync
+2014-01-16 13:58:53 [INFO] default
+Remember /sync
+2014-01-16 14:01:23 [INFO] default
+Remember /sync
+2014-01-16 14:03:53 [INFO] default
+Remember /sync
+2014-01-16 14:06:23 [INFO] default
+Remember /sync
+2014-01-16 14:08:53 [INFO] default
+Remember /sync
+2014-01-16 14:11:23 [INFO] default
+Remember /sync
+2014-01-16 14:13:53 [INFO] default
+Remember /sync
+2014-01-16 14:16:23 [INFO] default
+Remember /sync
+2014-01-16 14:18:53 [INFO] default
+Remember /sync
+2014-01-16 14:21:23 [INFO] default
+Remember /sync
+2014-01-16 14:23:53 [INFO] default
+Remember /sync
+2014-01-16 14:26:23 [INFO] default
+Remember /sync
+2014-01-16 14:28:53 [INFO] default
+Remember /sync
+2014-01-16 14:31:23 [INFO] default
+Remember /sync
+2014-01-16 14:33:53 [INFO] default
+Remember /sync
+2014-01-16 14:36:23 [INFO] default
+Remember /sync
+2014-01-16 14:38:53 [INFO] default
+Remember /sync
+2014-01-16 14:41:23 [INFO] default
+Remember /sync
+2014-01-16 14:43:53 [INFO] default
+Remember /sync
+2014-01-16 14:46:23 [INFO] default
+Remember /sync
+2014-01-16 14:48:53 [INFO] default
+Remember /sync
+2014-01-16 14:51:23 [INFO] default
+Remember /sync
+2014-01-16 14:53:53 [INFO] default
+Remember /sync
+2014-01-16 14:56:23 [INFO] default
+Remember /sync
+2014-01-16 14:58:53 [INFO] default
+Remember /sync
+2014-01-16 15:01:23 [INFO] default
+Remember /sync
+2014-01-16 15:03:53 [INFO] default
+Remember /sync
+2014-01-16 15:06:23 [INFO] default
+Remember /sync
+2014-01-16 15:08:53 [INFO] default
+Remember /sync
+2014-01-16 15:11:23 [INFO] default
+Remember /sync
+2014-01-16 15:13:53 [INFO] default
+Remember /sync
+2014-01-16 15:16:23 [INFO] default
+Remember /sync
+2014-01-16 15:18:53 [INFO] default
+Remember /sync
+2014-01-16 15:21:23 [INFO] default
+Remember /sync
+2014-01-16 15:23:53 [INFO] default
+Remember /sync
+2014-01-16 15:26:23 [INFO] default
+Remember /sync
+2014-01-16 15:28:54 [INFO] default
+Remember /sync
+2014-01-16 15:31:24 [INFO] default
+Remember /sync
+2014-01-16 15:33:54 [INFO] default
+Remember /sync
+2014-01-16 15:36:24 [INFO] default
+Remember /sync
+2014-01-16 15:38:54 [INFO] default
+Remember /sync
+2014-01-16 15:41:24 [INFO] default
+Remember /sync
+2014-01-16 15:43:54 [INFO] default
+Remember /sync
+2014-01-16 15:46:24 [INFO] default
+Remember /sync
+2014-01-16 15:48:54 [INFO] default
+Remember /sync
+2014-01-16 15:51:24 [INFO] default
+Remember /sync
+2014-01-16 15:53:54 [INFO] default
+Remember /sync
+2014-01-16 15:56:24 [INFO] default
+Remember /sync
+2014-01-16 15:58:54 [INFO] default
+Remember /sync
+2014-01-16 16:01:24 [INFO] default
+Remember /sync
+2014-01-16 16:03:54 [INFO] default
+Remember /sync
+2014-01-16 16:06:24 [INFO] default
+Remember /sync
+2014-01-16 16:08:54 [INFO] default
+Remember /sync
+2014-01-16 16:11:24 [INFO] default
+Remember /sync
+2014-01-16 16:13:54 [INFO] default
+Remember /sync
+2014-01-16 16:16:24 [INFO] default
+Remember /sync
+2014-01-16 16:18:54 [INFO] default
+Remember /sync
+2014-01-16 16:21:24 [INFO] default
+Remember /sync
+2014-01-16 16:23:54 [INFO] default
+Remember /sync
+2014-01-16 16:26:24 [INFO] default
+Remember /sync
+2014-01-16 16:28:54 [INFO] default
+Remember /sync
+2014-01-16 16:31:24 [INFO] default
+Remember /sync
+2014-01-16 16:33:54 [INFO] default
+Remember /sync
+2014-01-16 16:36:24 [INFO] default
+Remember /sync
+2014-01-16 16:38:54 [INFO] default
+Remember /sync
+2014-01-16 16:41:24 [INFO] default
+Remember /sync
+2014-01-16 16:43:54 [INFO] default
+Remember /sync
+2014-01-16 16:46:24 [INFO] default
+Remember /sync
+2014-01-16 16:48:54 [INFO] default
+Remember /sync
+2014-01-16 16:51:24 [INFO] default
+Remember /sync
+2014-01-16 16:53:54 [INFO] default
+Remember /sync
+2014-01-16 16:56:25 [INFO] default
+Remember /sync
+2014-01-16 16:58:55 [INFO] default
+Remember /sync
+2014-01-16 17:01:25 [INFO] default
+Remember /sync
+2014-01-16 17:03:55 [INFO] default
+Remember /sync
+2014-01-16 17:06:25 [INFO] default
+Remember /sync
+2014-01-16 17:08:55 [INFO] default
+Remember /sync
+2014-01-16 17:11:25 [INFO] default
+Remember /sync
+2014-01-16 17:13:55 [INFO] default
+Remember /sync
+2014-01-16 17:16:25 [INFO] default
+Remember /sync
+2014-01-16 17:18:55 [INFO] default
+Remember /sync
+2014-01-16 17:21:25 [INFO] default
+Remember /sync
+2014-01-16 17:23:55 [INFO] default
+Remember /sync
+2014-01-16 17:26:25 [INFO] default
+Remember /sync
+2014-01-16 17:28:55 [INFO] default
+Remember /sync
+2014-01-16 17:31:25 [INFO] default
+Remember /sync
+2014-01-16 17:33:55 [INFO] default
+Remember /sync
+2014-01-16 17:36:25 [INFO] default
+Remember /sync
+2014-01-16 17:38:55 [INFO] default
+Remember /sync
+2014-01-16 17:41:25 [INFO] default
+Remember /sync
+2014-01-16 17:43:55 [INFO] default
+Remember /sync
+2014-01-16 17:46:25 [INFO] default
+Remember /sync
+2014-01-16 17:48:55 [INFO] default
+Remember /sync
+2014-01-16 17:51:25 [INFO] default
+Remember /sync
+2014-01-16 17:53:55 [INFO] default
+Remember /sync
+2014-01-16 17:56:25 [INFO] default
+Remember /sync
+2014-01-16 17:58:55 [INFO] default
+Remember /sync
+2014-01-16 18:01:25 [INFO] default
+Remember /sync
+2014-01-16 18:03:55 [INFO] default
+Remember /sync
+2014-01-16 18:06:25 [INFO] default
+Remember /sync
+2014-01-16 18:08:55 [INFO] default
+Remember /sync
+2014-01-16 18:11:25 [INFO] default
+Remember /sync
+2014-01-16 18:13:55 [INFO] default
+Remember /sync
+2014-01-16 18:16:25 [INFO] default
+Remember /sync
+2014-01-16 18:18:55 [INFO] default
+Remember /sync
+2014-01-16 18:21:25 [INFO] default
+Remember /sync
+2014-01-16 18:23:55 [INFO] default
+Remember /sync
+2014-01-16 18:26:25 [INFO] default
+Remember /sync
+2014-01-16 18:28:55 [INFO] default
+Remember /sync
+2014-01-16 18:31:25 [INFO] default
+Remember /sync
+2014-01-16 18:33:55 [INFO] default
+Remember /sync
+2014-01-16 18:36:26 [INFO] default
+Remember /sync
+2014-01-16 18:38:56 [INFO] default
+Remember /sync
+2014-01-16 18:41:26 [INFO] default
+Remember /sync
+2014-01-16 18:43:56 [INFO] default
+Remember /sync
+2014-01-16 18:46:26 [INFO] default
+Remember /sync
+2014-01-16 18:46:32 [INFO] PEMapModder[/219.73.81.15:57735] logged in with entity id 331 at (new, 128.12, 51, 127.31)
+2014-01-16 18:46:50 PEMapModder entered
+2014-01-16 18:46:50 PEMapModder entered
+2014-01-16 18:47:21 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-16 18:47:21 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-16 18:47:21 PEMapModder has used /sync off
+2014-01-16 18:47:59 PEMapModder has used // 
+2014-01-16 18:48:11 PEMapModder has used // 
+2014-01-16 18:48:22 PEMapModder has used // 1 4
+2014-01-16 18:48:32 [Permission+] NOTICE: "/sync" permission is not setted!
+2014-01-16 18:48:32 [Permission+] Usage: /ppcommand sync (g) (t) (a)
+2014-01-16 18:48:32 PEMapModder has used /sync on
+2014-01-16 18:48:56 [INFO] default
+Remember /sync
+2014-01-16 18:51:26 [INFO] default
+Remember /sync
+2014-01-16 18:53:56 [INFO] default
+Remember /sync
+2014-01-16 18:56:26 [INFO] default
+Remember /sync
+2014-01-16 18:58:56 [INFO] default
+Remember /sync
+2014-01-16 19:00:13 PEMapModder has used // 
+2014-01-16 19:00:21 PEMapModder has used // 
+2014-01-16 19:00:26 PEMapModder has used // 1 4
+2014-01-16 19:00:56 [INFO] PEMapModder left the game
+2014-01-16 19:00:56 [INFO] PEMapModder[/219.73.81.15:57735] logged out due to timeout
+2014-01-16 19:01:26 [INFO] default
+Remember /sync
+2014-01-16 19:03:56 [INFO] default
+Remember /sync
+2014-01-16 19:06:26 [INFO] default
+Remember /sync
+2014-01-16 19:08:56 [INFO] default
+Remember /sync
+2014-01-16 19:11:26 [INFO] default
+Remember /sync
+2014-01-16 19:13:56 [INFO] default
+Remember /sync
+2014-01-16 19:16:26 [INFO] default
+Remember /sync
+2014-01-16 19:18:56 [INFO] default
+Remember /sync
+2014-01-16 19:21:26 [INFO] default
+Remember /sync
+2014-01-16 19:23:56 [INFO] default
+Remember /sync
+2014-01-16 19:26:26 [INFO] default
+Remember /sync
+2014-01-16 19:28:56 [INFO] default
+Remember /sync
+2014-01-16 19:31:26 [INFO] default
+Remember /sync
+2014-01-16 19:33:56 [INFO] default
+Remember /sync
+2014-01-16 19:36:26 [INFO] default
+Remember /sync
+2014-01-16 19:38:56 [INFO] default
+Remember /sync
+2014-01-16 19:41:26 [INFO] default
+Remember /sync
+2014-01-16 19:43:56 [INFO] default
+Remember /sync
+2014-01-16 19:46:26 [INFO] default
+Remember /sync
+2014-01-16 19:47:42 [INFO] Stopping server...
+2014-01-16 19:47:42 [CMD] Stopping the server
+2014-01-16 19:47:42 [INFO] Unloading level "Buffer world"
+2014-01-16 19:47:42 [INFO] Unloading level "new"
+2014-01-16 19:47:42 [INFO] Unloading level "lobby"
+2014-01-16 19:47:42 [INFO] Unloading level "old"
+2014-01-16 19:47:43 [INFO] Unloading level "prep"

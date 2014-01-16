@@ -739,3 +739,21 @@
   Text3:
   Text4:
   creator: PEMapModder
+- 
+  Items: [ ]
+  id: Chest
+  x: 79
+  y: 45
+  z: 108
+- 
+  Items: [ ]
+  id: Chest
+  x: 176
+  y: 45
+  z: 108
+- 
+  Items: [ ]
+  id: Chest
+  x: 79
+  y: 45
+  z: 147
