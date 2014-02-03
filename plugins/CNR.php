@@ -70,7 +70,9 @@ class CNR implements Plugin{
 	public function broadcastHint(){
 		$this->msgConfig=new Config($this->dir."Broadcast.yml", CONFIG_YAML, array("chats"=>array("default","default")));
 		$msg=implode("\n", $this->msgConfig->get("chats"));
-		$this->api->chat->send(false, $msg);
+		foreach($this->api->player->getAll() as $player)
+			$player->sendChat($msg);
+		echo "\n";
 	}
 	public function initializeServer(){
 		$this->api->console->run("swl new");
@@ -275,7 +277,7 @@ class CNR implements Plugin{
 	}
 	public function playerJoin($data,$event){
 		console("$data entered");
-		if($data->getGamemode()===1){
+		if($data->getGamemode()==="creative"){
 			$this->api->console->run("gamemode 3 ".$data->username);
 			$data->sendChat("You are automatically changed to gamemode 3");
 		}
