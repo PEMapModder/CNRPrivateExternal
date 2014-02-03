@@ -104,7 +104,7 @@ class PocketMinecraftServer{
 
 	public function loadEvents(){
 		if(ENABLE_ANSI === true){
-			$this->schedule(30, array($this, "titleTick"), array(), true);
+			$this->schedule(10, array($this, "titleTick"), array(), true);
 		}
 		$this->schedule(20 * 15, array($this, "checkTicks"), array(), true);
 		$this->schedule(20 * 60, array($this, "checkMemory"), array(), true);

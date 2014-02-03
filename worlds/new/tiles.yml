@@ -571,36 +571,6 @@
   creator: GMjimboo
 - 
   id: Sign
-  x: 217
-  y: 40
-  z: 14
-  Text1: THIS IS NOT A
-  Text2: TRAP
-  Text3: 'EQUIP SAND '
-  Text4: BEFORE ENTER
-  creator: GMjimboo
-- 
-  id: Sign
-  x: 38
-  y: 40
-  z: 248
-  Text1: PLACE SAND
-  Text2: IN THE
-  Text3: 'WHITE '
-  Text4: BLOCK
-  creator: GMjimboo
-- 
-  id: Sign
-  x: 37
-  y: 35
-  z: 247
-  Text1:
-  Text2:
-  Text3:
-  Text4:
-  creator: GMjimboo
-- 
-  id: Sign
   x: 127
   y: 57
   z: 140
@@ -748,12 +718,16 @@
 - 
   Items: [ ]
   id: Chest
-  x: 176
-  y: 45
-  z: 108
-- 
-  Items: [ ]
-  id: Chest
   x: 79
   y: 45
   z: 147
+- 
+  id: Sign
+  x: 125
+  y: 39
+  z: 126
+  Text1: Love this
+  Text2: design.
+  Text3: By PEMapModder
+  Text4:
+  creator: PEMapModder
