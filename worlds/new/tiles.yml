@@ -1,733 +1,759 @@
 ---
-- 
-  id: Sign
+- id: Sign
   x: 4
-  y: 50
+  "y": 50
   z: 251
   Text1: Default
   Text2: spawnpoint
   Text3: Do not move
   Text4: anything here
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 251
-  y: 50
+  "y": 50
   z: 4
   Text1: Default
   Text2: spawnpoint
   Text3: Do not move
   Text4: anything here
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 4
-  y: 50
+  "y": 50
   z: 4
   Text1: Default
   Text2: spawnpoint
   Text3: Do not move
   Text4: anything here
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 127
-  y: 48
+  "y": 48
   z: 131
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 131
-  y: 50
+  "y": 50
   z: 132
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 129
-  y: 49
+  "y": 49
   z: 131
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 131
-  y: 49
+  "y": 49
   z: 130
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 131
-  y: 48
+  "y": 48
   z: 128
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 133
-  y: 51
+  "y": 51
   z: 132
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 133
-  y: 51
+  "y": 51
   z: 129
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 133
-  y: 52
+  "y": 52
   z: 127
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 130
-  y: 51
+  "y": 51
   z: 123
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 127
-  y: 51
+  "y": 51
   z: 123
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 125
-  y: 50
+  "y": 50
   z: 123
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 124
-  y: 49
+  "y": 49
   z: 125
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 125
-  y: 48
+  "y": 48
   z: 127
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 126
-  y: 48
+  "y": 48
   z: 125
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 133
-  y: 52
+  "y": 52
   z: 124
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 132
-  y: 52
+  "y": 52
   z: 123
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 134
-  y: 52
+  "y": 52
   z: 122
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 50
+  "y": 50
   z: 119
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 52
+  "y": 52
   z: 120
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 118
-  y: 56
+  "y": 56
   z: 137
   Text1: Place the
   Text2: reactor on me,
   Text3: and then you
   Text4: win! +10 points
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 137
-  y: 57
+  "y": 57
   z: 119
   Text1: Not this way
-  Text2:
-  Text3:
-  Text4:
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 139
-  y: 38
+  "y": 38
   z: 128
   Text1: Break this!
-  Text2:
-  Text3:
-  Text4:
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: IamtheLes
-- 
-  id: Sign
+- id: Sign
   x: 139
-  y: 36
+  "y": 36
   z: 128
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: IamtheLes
-- 
-  id: Sign
+- id: Sign
   x: 140
-  y: 36
+  "y": 36
   z: 128
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: IamtheLes
-- 
-  id: Sign
+- id: Sign
   x: 113
-  y: 36
+  "y": 36
   z: 112
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 113
-  y: 36
+  "y": 36
   z: 113
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 113
-  y: 36
+  "y": 36
   z: 114
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 113
-  y: 36
+  "y": 36
   z: 115
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 113
-  y: 36
+  "y": 36
   z: 116
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 113
-  y: 37
+  "y": 37
   z: 115
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 113
-  y: 37
+  "y": 37
   z: 116
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 112
-  y: 37
+  "y": 37
   z: 115
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 112
-  y: 37
+  "y": 37
   z: 116
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 113
-  y: 37
+  "y": 37
   z: 114
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 114
-  y: 37
+  "y": 37
   z: 116
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 114
-  y: 37
+  "y": 37
   z: 114
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 114
-  y: 37
+  "y": 37
   z: 115
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 113
-  y: 37
+  "y": 37
   z: 113
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 112
-  y: 37
+  "y": 37
   z: 114
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 217
-  y: 36
+  "y": 36
   z: 5
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 217
-  y: 36
+  "y": 36
   z: 6
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 217
-  y: 36
+  "y": 36
   z: 7
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 217
-  y: 36
+  "y": 36
   z: 8
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 217
-  y: 36
+  "y": 36
   z: 9
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 217
-  y: 37
+  "y": 37
   z: 8
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 217
-  y: 37
+  "y": 37
   z: 7
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 217
-  y: 37
+  "y": 37
   z: 9
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 218
-  y: 37
+  "y": 37
   z: 9
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 218
-  y: 37
+  "y": 37
   z: 7
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 216
-  y: 37
+  "y": 37
   z: 7
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 216
-  y: 37
+  "y": 37
   z: 9
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 216
-  y: 37
+  "y": 37
   z: 8
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 218
-  y: 37
+  "y": 37
   z: 8
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: GMjimboo
-- 
-  id: Sign
-  x: 217
-  y: 40
-  z: 7
-  Text1: PUT SAND
-  Text2: IN THE
-  Text3: WHITE
-  Text4: BLOCK
-  creator: GMjimboo
-- 
-  id: Sign
+- id: Sign
   x: 127
-  y: 57
+  "y": 57
   z: 140
   Text1: Place the
   Text2: reactor here
   Text3: 'for +10 '
   Text4: points!
   creator: IamtheLes
-- 
-  id: Sign
+- id: Sign
   x: 128
-  y: 58
+  "y": 58
   z: 140
   Text1: Place the
   Text2: reactor here
   Text3: for +10
   Text4: points
   creator: IamtheLes
-- 
-  id: Sign
+- id: Sign
   x: 140
-  y: 59
+  "y": 59
   z: 126
   Text1: Place below
   Text2: +10 personal
   Text3: pts!
   Text4: +150 team pts!
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 140
-  y: 59
+  "y": 59
   z: 129
   Text1: Place below
   Text2: +10 personal
   Text3: pts!
   Text4: +150 team pts!
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 115
-  y: 59
+  "y": 59
   z: 126
   Text1: Place below
   Text2: +10 personal
   Text3: points!
   Text4: +150 team pts!
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 115
-  y: 59
+  "y": 59
   z: 129
   Text1: Place below
   Text2: +10 personal
   Text3: points!
   Text4: +150 team pts!
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 123
-  y: 57
+  "y": 57
   z: 117
   Text1: Turn left!
-  Text2:
-  Text3:
-  Text4:
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 123
-  y: 57
+  "y": 57
   z: 138
   Text1: Turn right!
-  Text2:
-  Text3:
-  Text4:
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 114
-  y: 58
+  "y": 58
   z: 126
   Text1: I whisper to
   Text2: 'you:'
   Text3: Come here to
   Text4: place it
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 114
-  y: 58
+  "y": 58
   z: 129
   Text1: I whisper to
   Text2: 'you:'
   Text3: Come here to
   Text4: place it!
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 141
-  y: 58
+  "y": 58
   z: 129
   Text1: I whisper to
   Text2: 'you:'
   Text3: Come here to
   Text4: place it!
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 141
-  y: 58
+  "y": 58
   z: 126
   Text1: I whisper to
   Text2: 'you:'
   Text3: Come here to
   Text4: place it!
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 132
-  y: 57
+  "y": 57
   z: 117
   Text1: Turn right!
-  Text2:
-  Text3:
-  Text4:
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 132
-  y: 57
+  "y": 57
   z: 138
   Text1: Turn left!
-  Text2:
-  Text3:
-  Text4:
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  Items: [ ]
+- Items: []
   id: Chest
   x: 79
-  y: 45
+  "y": 45
   z: 108
-- 
-  Items: [ ]
+- Items: []
   id: Chest
   x: 79
-  y: 45
+  "y": 45
   z: 147
-- 
-  id: Sign
+- id: Sign
   x: 125
-  y: 39
+  "y": 39
   z: 126
   Text1: Love this
   Text2: design.
   Text3: By PEMapModder
-  Text4:
+  Text4: ~
   creator: PEMapModder
+- id: Sign
+  x: 3
+  "y": 38
+  z: 235
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 7
+  "y": 38
+  z: 235
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 11
+  "y": 38
+  z: 235
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 15
+  "y": 38
+  z: 235
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 20
+  "y": 38
+  z: 238
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 19
+  "y": 38
+  z: 235
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 20
+  "y": 38
+  z: 246
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 20
+  "y": 38
+  z: 250
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 20
+  "y": 38
+  z: 254
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 239
+  "y": 38
+  z: 26
+  Text1: What the __
+  Text2: is this?
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 239
+  "y": 38
+  z: 27
+  Text1: Emm...
+  Text2: ~
+  Text3: ~
+  Text4: ~
+  creator: XKTiVerz
+- id: Sign
+  x: 20
+  "y": 38
+  z: 242
+  Text1: ""
+  Text2: ""
+  Text3: ""
+  Text4: ""
+  creator: PEMapModder
+...

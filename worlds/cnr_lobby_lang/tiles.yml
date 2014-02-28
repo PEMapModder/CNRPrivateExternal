@@ -1,0 +1,29 @@
+---
+- id: Sign
+  x: 112
+  "y": 65
+  z: 60
+  Text1: 選擇語言
+  Text2: Select your
+  Text3: language
+  Text4: ""
+  creator: PEMapModder
+- id: Sign
+  x: 111
+  "y": 65
+  z: 60
+  Text1: 看中文按我
+  Text2: 由
+  Text3: PEMapModder
+  Text4: 翻譯
+  creator: PEMapModder
+- id: Sign
+  x: 110
+  "y": 65
+  z: 60
+  Text1: Tap me if you
+  Text2: read English
+  Text3: ""
+  Text4: ""
+  creator: PEMapModder
+...

@@ -1,25 +1,24 @@
 ---
-- 
-  id: 11
-  Color: null
-  Sheared: null
+- id: 11
+  Color: ~
+  Sheared: ~
   Health: 10
   Pos:
-    - 129.5
-    - 78
-    - 129.5
+  - 129.500000
+  - 78
+  - 129.500000
   Rotation:
-    - 0
-    - 0
-- 
-  id: 11
-  Color: null
-  Sheared: null
+  - 0
+  - 0
+- id: 11
+  Color: ~
+  Sheared: ~
   Health: 10
   Pos:
-    - 128.5
-    - 79
-    - 130.5
+  - 128.500000
+  - 79
+  - 130.500000
   Rotation:
-    - 0
-    - 0
+  - 0
+  - 0
+...

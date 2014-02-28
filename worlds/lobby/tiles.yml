@@ -1,951 +1,848 @@
 ---
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 57
+  "y": 57
   z: 124
-  Text1: '<<previous'
-  Text2:
-  Text3:
-  Text4:
+  Text1: <<previous
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 57
+  "y": 57
   z: 124
   Text1: Welcome to the
   Text2: lobby.
-  Text3:
-  Text4:
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 57
+  "y": 57
   z: 128
   Text1: You are welcome
   Text2: to download
   Text3: lobby maps and
   Text4: submit locale
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 57
+  "y": 57
   z: 129
   Text1: variations of
   Text2: this lobby by
   Text3: sending a PM
   Text4: to me on
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 57
+  "y": 57
   z: 127
   Text1: LOCALES
   Text2: Presently 2
   Text3: locales of this
   Text4: lobby is used.
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 56
+  "y": 56
   z: 127
   Text1: English locale
   Text2: 'by PEMapModder:'
   Text3: This is the
   Text4: English lobby.
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 56
+  "y": 56
   z: 128
   Text1: Chinese lobby
   Text2: 'by PEMapModder:'
   Text3: MAY LAG!
   Text4: 想看中文的按我（會lag）
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 57
+  "y": 57
   z: 131
-  Text1: 'Next>>'
-  Text2:
-  Text3:
-  Text4:
+  Text1: Next>>
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 57
+  "y": 57
   z: 127
-  Text1: '<<previous'
-  Text2:
-  Text3:
-  Text4:
+  Text1: <<previous
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 57
+  "y": 57
   z: 133
   Text1: The following
   Text2: are rules.
   Text3: 1. Follow the
   Text4: rules on my
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 57
+  "y": 57
   z: 134
   Text1: thread MCPE
   Text2: SERVER SURVIVAL
   Text3: COMMONS 0.0
   Text4: 'Copy here:'
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 56
+  "y": 56
   z: 133
   Text1: '- No mods      '
   Text2: '- No hacking   '
-  Text3: "- Don't try to "
+  Text3: '- Don''t try to '
   Text4: '  make use of  '
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 132
-  y: 53
+  "y": 53
   z: 134
   Text1: I told you not
   Text2: to use glitches
   Text3: Now rejoin
-  Text4:
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 56
+  "y": 56
   z: 134
   Text1: '- Listen to the'
   Text2: '  staffs and do'
   Text3: '  not hurt them'
   Text4: '- No minimods  '
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 55
+  "y": 55
   z: 133
   Text1: 'bugs        '
   Text2: '- Behave well  '
   Text3: in the chat
-  Text4: "- Don't overkil"
+  Text4: '- Don''t overkil'
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 56
+  "y": 56
   z: 134
-  Text1: 'Next>>'
-  Text2:
-  Text3:
-  Text4:
+  Text1: Next>>
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 56
+  "y": 56
   z: 133
-  Text1: '<<previous'
-  Text2:
-  Text3:
-  Text4:
+  Text1: <<previous
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 64
+  "y": 64
   z: 134
-  Text1: 'Next>>'
-  Text2:
-  Text3:
-  Text4:
+  Text1: Next>>
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 64
+  "y": 64
   z: 133
-  Text1: '<<previous'
-  Text2:
-  Text3:
-  Text4:
+  Text1: <<previous
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 65
+  "y": 65
   z: 133
   Text1: 2.If any of the
   Text2: '  rules above '
   Text3: are beoken,
   Text4: you may be
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 65
+  "y": 65
   z: 134
   Text1: given a kick,
   Text2: an IGN ban,
   Text3: or an IP ban
   Text4: for a certain
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 64
+  "y": 64
   z: 133
   Text1: period of time
   Text2: according to
   Text3: what you have
   Text4: done.
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 64
+  "y": 64
   z: 134
   Text1: If you have any
   Text2: objection, you
   Text3: can PM me on
   Text4: MinecraftForums
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 63
+  "y": 63
   z: 133
   Text1: 3. Do not copy
   Text2: the server map
   Text3: and say the map
   Text4: is made by you
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 63
+  "y": 63
   z: 134
   Text1: or redistribute
   Text2: it.
-  Text3:
-  Text4:
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 65
+  "y": 65
   z: 130
   Text1: 4. This game,
   Text2: Capture The
   Text3: Nether Reactor,
   Text4: is inspired by
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 65
+  "y": 65
   z: 131
   Text1: the games Walls
   Text2: and Capture the
   Text3: Flag. The goal
   Text4: of the game is
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 64
+  "y": 64
   z: 130
   Text1: to mine the
   Text2: nether reactor
   Text3: cores of other
   Text4: teams and
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 64
+  "y": 64
   z: 131
   Text1: bring it to
   Text2: World Centre at
   Text3: the centre of
   Text4: the map.
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 65
+  "y": 65
   z: 131
-  Text1: 'Next>>'
-  Text2:
-  Text3:
-  Text4:
+  Text1: Next>>
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 65
+  "y": 65
   z: 130
-  Text1: '<<previous'
-  Text2:
-  Text3:
-  Text4:
+  Text1: <<previous
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 65
+  "y": 65
   z: 127
   Text1: There are four
   Text2: teams in the
   Text3: game, each
   Text4: quarter of the
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 65
+  "y": 65
   z: 128
   Text1: map representin
-  Text2: "one's team."
+  Text2: one's team.
   Text3: Different from
   Text4: traditional CTF
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 64
+  "y": 64
   z: 127
   Text1: this game allow
   Text2: you to destroy
   Text3: or construct
   Text4: completely to
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 64
+  "y": 64
   z: 128
   Text1: your own wish,
   Text2: as long as they
-  Text3: "don't blow up,"
+  Text3: don't blow up,
   Text4: and that the
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 63
+  "y": 63
   z: 127
-  Text1: "actions aren't"
+  Text1: actions aren't
   Text2: undone by the
   Text3: server.
   Text4: Hoeever, sorry
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 64
+  "y": 64
   z: 128
-  Text1: 'Next>>'
-  Text2:
-  Text3:
-  Text4:
+  Text1: Next>>
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 64
+  "y": 64
   z: 127
-  Text1: '<<previous'
-  Text2:
-  Text3:
-  Text4:
+  Text1: <<previous
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 57
+  "y": 57
   z: 125
   Text1: Tap the sign
   Text2: on your right
   Text3: to continue.
-  Text4:
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 125
-  y: 56
+  "y": 56
   z: 127
   Text1: Are you sure
   Text2: you want to
   Text3: skip the rules
   Text4: and start right
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 126
-  y: 56
+  "y": 56
   z: 127
   Text1: now?
   Text2: Tap a sign to
   Text3: choose your
   Text4: decision.
   creator: PEMapModder
-- 
-  id: Sign
-  x: 125
-  y: 55
-  z: 127
-  Text1: Yes, teleport
-  Text2: me to the map
-  Text3: now in my
-  Text4: previous team.
-  creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 129
-  y: 58
+  "y": 58
   z: 129
   Text1: Jump down here
-  Text2:
-  Text3:
-  Text4:
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 126
-  y: 55
+  "y": 55
   z: 127
   Text1: Yes, but tp me
   Text2: to the team
   Text3: selection room
   Text4: to choose again
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 127
-  y: 56
+  "y": 56
   z: 127
   Text1: No, teleport me
   Text2: back to the
   Text3: lobby.
-  Text4:
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 127
-  y: 55
+  "y": 55
   z: 127
   Text1: I want to go to
   Text2: the new feature
   Text3: room to check
   Text4: out new things.
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 63
+  "y": 63
   z: 125
   Text1: First, choose a
   Text2: team in the
   Text3: team selection
   Text4: room.
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 64
+  "y": 64
   z: 125
-  Text1: 'Next>>'
-  Text2:
-  Text3:
-  Text4:
+  Text1: Next>>
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 64
+  "y": 64
   z: 124
-  Text1: '<<previous'
-  Text2:
-  Text3:
-  Text4:
+  Text1: <<previous
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 73
+  "y": 73
   z: 132
   Text1: The player will
   Text2: be teleported
   Text3: to the prepare
   Text4: room of the
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 73
+  "y": 73
   z: 133
   Text1: team. There,you
   Text2: can choose a
   Text3: preset kit or
   Text4: pick items up
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 73
+  "y": 73
   z: 134
   Text1: to your wish.
   Text2: The special
   Text3: functions of
   Text4: each team will
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 72
+  "y": 72
   z: 132
   Text1: be explained
   Text2: later.
   Text3: Then you tap a
   Text4: sign and you
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 72
+  "y": 72
   z: 133
   Text1: will be tped to
   Text2: the battlefield
   Text3: When you are in
   Text4: the battlefield
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 72
+  "y": 72
   z: 134
   Text1: or the team
   Text2: room, your chat
   Text3: message will be
   Text4: only sent to ur
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 71
+  "y": 71
   z: 132
   Text1: teammates. If
   Text2: you want to
   Text3: send chat to a
   Text4: particular team
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 71
+  "y": 71
   z: 133
   Text1: for example two
   Text2: teams try to
   Text3: ally, you have
   Text4: to use cmds
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 71
+  "y": 71
   z: 134
   Text1: explained later
   Text2: You have two
   Text3: 'tasks: defend'
   Text4: your own core
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 72
+  "y": 72
   z: 134
-  Text1: 'Next>>'
-  Text2:
-  Text3:
-  Text4:
+  Text1: Next>>
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 72
+  "y": 72
   z: 132
-  Text1: '<<previous'
-  Text2:
-  Text3:
-  Text4:
+  Text1: <<previous
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 73
+  "y": 73
   z: 129
   Text1: and capture the
-  Text2: "other teams'"
+  Text2: other teams'
   Text3: core. The core
   Text4: is restored
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 73
+  "y": 73
   z: 130
   Text1: when the core
   Text2: carrier dies or
   Text3: when it is
   Text4: returned.
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 72
+  "y": 72
   z: 129
   Text1: The flag is
   Text2: located at the
   Text3: corners of the
   Text4: map, embedded
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 72
+  "y": 72
   z: 130
   Text1: in obsidian.The
   Text2: obsidian is
   Text3: restored every
   Text4: minute.
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 57
+  "y": 57
   z: 125
-  Text1: 'Next>>'
+  Text1: Next>>
   Text2: 看中文版按我
-  Text3:
-  Text4:
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 128
-  y: 58
+  "y": 58
   z: 129
   Text1: 跳下去 。
-  Text2:
-  Text3:
-  Text4:
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 128
-  y: 54
+  "y": 54
   z: 127
   Text1: By tapping any
   Text2: sign posts, you
   Text3: agree to have
   Text4: any of your
   creator: PEMapModders
-- 
-  id: Sign
+- id: Sign
   x: 128
-  y: 53
+  "y": 53
   z: 127
   Text1: data collected
   Text2: by you playing
   Text3: on this server
   Text4: to be used in
   creator: PEMapModders
-- 
-  id: Sign
+- id: Sign
   x: 129
-  y: 54
+  "y": 54
   z: 127
   Text1: 按這裏任何一告示牌 ,
   Text2: 即代表你同意任何你
   Text3: 在本伺服器玩有關的
   Text4: 資訊 ,包括你的IP位址,
   creator: PEMapModders
-- 
-  id: Sign
+- id: Sign
   x: 129
-  y: 53
+  "y": 53
   z: 127
   Text1: 在聊天的對話紀錄等
   Text2: 可被用於任何合法用
   Text3: 途 ,包括分享於網上。
-  Text4:
+  Text4: ~
   creator: PEMapModders
-- 
-  id: Sign
+- id: Sign
   x: 128
-  y: 51
+  "y": 51
   z: 127
   Text1: Then you will
   Text2: be teleported
   Text3: to the main
   Text4: lobby.
   creator: PEMapModders
-- 
-  id: Sign
+- id: Sign
   x: 129
-  y: 52
+  "y": 52
   z: 127
   Text1: 然後 ,你將被傳送到
   Text2: 開始點。
-  Text3:
-  Text4:
+  Text3: ~
+  Text4: ~
   creator: PEMapModders
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 57
+  "y": 57
   z: 130
   Text1: minecraftforum.
   Text2: net
   Text3: Search for
   Text4: MCPE_modder_
   creator: PEMM
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 57
+  "y": 57
   z: 131
   Text1: and then you
   Text2: should find me
-  Text3:
-  Text4:
+  Text3: ~
+  Text4: ~
   creator: PEMM
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 72
+  "y": 72
   z: 130
-  Text1: 'Next>>'
-  Text2:
-  Text3:
-  Text4:
+  Text1: Next>>
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMM
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 56
+  "y": 56
   z: 124
   Text1: To return to
   Text2: the previous
   Text3: cell, tap the
   Text4: sign on ur left
   creator: PEMM
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 56
+  "y": 56
   z: 125
   Text1: Tap me if you
   Text2: have already
   Text3: read the signs.
-  Text4:
+  Text4: ~
   creator: PEMM
-- 
-  id: Sign
+- id: Sign
   x: 129
-  y: 57
+  "y": 57
   z: 128
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 128
-  y: 57
+  "y": 57
   z: 129
-  Text1:
-  Text2:
-  Text3:
-  Text4:
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 127
-  y: 55
+  "y": 55
   z: 128
   Text1: recommended
-  Text2: '<--------------'
-  Text3: '<--------------'
-  Text4: '<--------------'
+  Text2: <--------------
+  Text3: <--------------
+  Text4: <--------------
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 72
+  "y": 72
   z: 129
-  Text1: '<<previous'
-  Text2:
-  Text3:
-  Text4:
+  Text1: <<previous
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 135
-  y: 72
+  "y": 72
   z: 126
-  Text1: '<<previous'
-  Text2:
-  Text3:
-  Text4:
+  Text1: <<previous
+  Text2: ~
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 64
+  "y": 64
   z: 124
-  Text1: "Now, let's see"
+  Text1: Now, let's see
   Text2: what a
   Text3: normal player
   Text4: 'would do:'
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 63
+  "y": 63
   z: 128
   Text1: that arrows
   Text2: presently just
   Text3: bounce off
-  Text4: "people's head"
+  Text4: people's head
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 65
+  "y": 65
   z: 124
   Text1: like in
   Text2: creative mode,
   Text3: so bows and
   Text4: arrows chests
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 136
-  y: 65
+  "y": 65
   z: 125
   Text1: are presently
   Text2: purely for
   Text3: decoration.
-  Text4:
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 128
-  y: 52
+  "y": 52
   z: 127
   Text1: any legal
   Text2: purposes, such
   Text3: as sharing for
   Text4: anti-griefing.
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 112
-  y: 69
+  "y": 69
   z: 122
-  Text1: Staffs
-  Text2: ranks
-  Text3:
-  Text4:
+  Text1: Staffs and
+  Text2: Credits
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
+  x: 115
+  "y": 69
+  z: 122
+  Text1: Host and Owner
+  Text2: of LegionPE
+  Text3: Lambo
+  Text4: (and SpyDuck)
+  creator: PEMapModder
+- id: Sign
   x: 113
-  y: 69
+  "y": 69
   z: 122
-  Text1: Builders
-  Text2: Chain armor
-  Text3:
-  Text4:
+  Text1: Owner of CNR
+  Text2: PEMapModder
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
-  x: 116
-  y: 69
-  z: 122
-  Text1: Rangers
-  Text2: Diamond armor
-  Text3:
-  Text4:
-  creator: PEMapModder
-- 
-  id: Sign
-  x: 115
-  y: 69
-  z: 122
-  Text1: VIPs/NPRITH
-  Text2: Gold armor
-  Text3:
-  Text4:
-  creator: PEMapModder
-- 
-  id: Sign
-  x: 117
-  y: 69
-  z: 122
-  Text1: Owner
-  Text2: Mix of staff
-  Text3: armor
-  Text4:
-  creator: PEMapModder
-- 
-  id: Sign
-  x: 118
-  y: 69
-  z: 122
-  Text1: Co-owners
-  Text2: Mix of armors
-  Text3: except diamond
-  Text4:
-  creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 114
-  y: 69
+  "y": 69
   z: 122
-  Text1: Plugin
-  Text2: development
-  Text3: helpers
-  Text4: Iron armor
+  Text1: Main Builder
+  Text2: of CNR
+  Text3: PEMapModder
+  Text4: IamtheLes
   creator: PEMapModder
-- 
-  id: Sign
-  x: 115
-  y: 70
+- id: Sign
+  x: 117
+  "y": 69
   z: 122
-  Text1: NPRITH for Non-
-  Text2: Plugin-Related
-  Text3: IT Helper
-  Text4:
+  Text1: Minor builders
+  Text2: 12458, yy,
+  Text3: TJVDG
+  Text4: ~
   creator: PEMapModder
+- id: Sign
+  x: 116
+  "y": 69
+  z: 122
+  Text1: Software
+  Text2: support
+  Text3: The PocketMine
+  Text4: Team
+  creator: PEMapModder
+- id: Sign
+  x: 118
+  "y": 69
+  z: 122
+  Text1: XKTiVerz
+  Text2: A lot of help
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 125
+  "y": 55
+  z: 127
+  Text1: ~
+  Text2: ~
+  Text3: ~
+  Text4: ~
+  creator: XKTiVerz
+...

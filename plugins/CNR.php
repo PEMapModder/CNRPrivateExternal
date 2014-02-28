@@ -214,7 +214,7 @@ class CNR implements Plugin{
 				$this->api->console->run("tp ".$player->username." 135 71 133");return false;
 			}
 			if($tX==135 and $tY==72 and $tZ==134){
-				$this->api->console->run("tp ".$player->username." 135 71 130");return false;
+			$this->api->console->run("tp ".$player->username." 135 71 130");return false;
 			}
 			if($tX==136 and $tY==56 and $tZ==125){
 				$this->api->console->run("tp ".$player->username." 125.5 55 128.5");return false;

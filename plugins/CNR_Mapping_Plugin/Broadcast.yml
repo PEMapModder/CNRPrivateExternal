@@ -2,3 +2,4 @@
 chats:
   - Don't place ladders, stairs, chests, furnaces, and etc.
   - Remember /sync
+  - Don't use WorldEditor in the mapping world. They will NOT be mirrored.

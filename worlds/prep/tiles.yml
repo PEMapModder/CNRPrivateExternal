@@ -1,41 +1,218 @@
 ---
-- 
-  id: Sign
+- id: Sign
   x: 50
-  y: 37
+  "y": 37
   z: 50
   Text1: Team creeper
   Text2: Prep room
-  Text3:
-  Text4:
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 49
-  y: 37
+  "y": 37
   z: 50
   Text1: Team creeper
   Text2: Prep room
-  Text3:
-  Text4:
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 49
-  y: 37
+  "y": 37
   z: 49
   Text1: Team creeper
   Text2: Prep room
-  Text3:
-  Text4:
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
-- 
-  id: Sign
+- id: Sign
   x: 50
-  y: 37
+  "y": 37
   z: 49
   Text1: Team creeper
   Text2: Prep room
-  Text3:
-  Text4:
+  Text3: ~
+  Text4: ~
   creator: PEMapModder
+- id: Sign
+  x: 50
+  "y": 36
+  z: 45
+  Text1: Hello, welcome
+  Text2: to tean creeper,
+  Text3: the team in CNR
+  Text4: sponsored by
+  creator: PEMapModder
+- id: Sign
+  x: 51
+  "y": 36
+  z: 45
+  Text1: PEMapModder.
+  Text2: Make sure you
+  Text3: have read the
+  Text4: instructions?
+  creator: PEMapModder
+- id: Sign
+  x: 205
+  "y": 37
+  z: 204
+  Text1: Team zombie
+  Text2: Prep room
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 205
+  "y": 37
+  z: 205
+  Text1: Team zombie
+  Text2: Prep room
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 204
+  "y": 37
+  z: 205
+  Text1: Team zombie
+  Text2: Prep room
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 204
+  "y": 37
+  z: 204
+  Text1: Team zombie
+  Text2: Prep room
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 49
+  "y": 36
+  z: 45
+  Text1: Good morning
+  Text2: ~
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 50
+  "y": 37
+  z: 43
+  Text1: Sponsor zone
+  Text2: of PEMapModder
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 201
+  "y": 36
+  z: 205
+  Text1: Good evening
+  Text2: ~
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 201
+  "y": 36
+  z: 204
+  Text1: Welcome to
+  Text2: team zombie,
+  Text3: the team in CNR
+  Text4: sponsored by
+  creator: PEMapModder
+- id: Sign
+  x: 201
+  "y": 36
+  z: 203
+  Text1: IamtheLes.
+  Text2: You have read
+  Text3: the instructions
+  Text4: at lobby, right?
+  creator: PEMapModder
+- id: Sign
+  x: 198
+  "y": 37
+  z: 204
+  Text1: Sponsor zone
+  Text2: of IamtheLes
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 204
+  "y": 37
+  z: 49
+  Text1: Team skeleton
+  Text2: Prep room
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 205
+  "y": 37
+  z: 49
+  Text1: Team skeleton
+  Text2: Prep room
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 205
+  "y": 37
+  z: 50
+  Text1: Team skeleton
+  Text2: Prep room
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 204
+  "y": 37
+  z: 50
+  Text1: Team skeleton
+  Text2: Prep room
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 205
+  "y": 36
+  z: 54
+  Text1: Good afternoon
+  Text2: ~
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+- id: Sign
+  x: 204
+  "y": 36
+  z: 54
+  Text1: Welcome to
+  Text2: team skeleton
+  Text3: a team in CNR
+  Text4: sponsored by
+  creator: PEMapModder
+- id: Sign
+  x: 203
+  "y": 36
+  z: 54
+  Text1: XKTiVerz
+  Text2: Hope u
+  Text3: read the rules.
+  Text4: LOL!
+  creator: PEMapModder
+- id: Sign
+  x: 204
+  "y": 38
+  z: 60
+  Text1: Sponsor zone of
+  Text2: XKTiVerz
+  Text3: ~
+  Text4: ~
+  creator: PEMapModder
+...

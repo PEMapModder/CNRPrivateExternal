@@ -36,7 +36,7 @@ class PocketMinecraftServer{
 		}*/
 		console("[INFO] Starting Minecraft PE server on ".($this->serverip === "0.0.0.0" ? "*":$this->serverip).":".$this->port);
 		define("BOOTUP_RANDOM", Utils::getRandomBytes(16));
-		$this->serverID = $this->serverID === false ? Utils::readLong(Utils::getRandomBytes(8, false)):$this->serverID;
+		$this->serverID = $this->serverID === false ? Utils::readLong(substr(Utils::getUniqueID(true, $this->serverip . $this->port), 8)):$this->serverID;
 		$this->seed = $this->seed === false ? Utils::readInt(Utils::getRandomBytes(4, false)):$this->seed;
 		$this->startDatabase();
 		$this->api = false;
@@ -64,8 +64,7 @@ class PocketMinecraftServer{
 		$this->saveEnabled = true;
 		$this->tickMeasure = array_fill(0, 40, 0);
 		$this->setType("normal");
-		$this->interface = new MinecraftInterface($this, "255.255.255.255", $this->port, true, false, $this->serverip);
-		$this->reloadConfig();
+		$this->interface = new MinecraftInterface("255.255.255.255", $this->port, $this->serverip);
 		$this->stop = false;
 		$this->ticks = 0;
 		if(!defined("NO_THREADS")){
@@ -104,10 +103,11 @@ class PocketMinecraftServer{
 
 	public function loadEvents(){
 		if(ENABLE_ANSI === true){
-			$this->schedule(10, array($this, "titleTick"), array(), true);
+			$this->schedule(30, array($this, "titleTick"), array(), true);
 		}
 		$this->schedule(20 * 15, array($this, "checkTicks"), array(), true);
 		$this->schedule(20 * 60, array($this, "checkMemory"), array(), true);
+		$this->schedule(20 * 45, "Cache::cleanup", array(), true);
 		$this->schedule(20, array($this, "asyncOperationChecker"), array(), true);
 	}
 	
@@ -154,10 +154,6 @@ class PocketMinecraftServer{
 			$result = $result->fetchArray(SQLITE3_ASSOC);
 		}
 		return $result;
-	}
-
-	public function reloadConfig(){
-
 	}
 
 	public function debugInfo($console = false){
@@ -372,46 +368,7 @@ class PocketMinecraftServer{
 
 	public function init(){		
 		register_tick_function(array($this, "tick"));
-		console("[DEBUG] Starting internal ticker calculation", true, true, 2);
-		$t = 0;
-		while(true){
-			switch($t){
-				case 0:
-					declare(ticks=100);
-					break;
-				case 1:
-					declare(ticks=60);
-					break;
-				case 2:
-					declare(ticks=40);
-					break;
-				case 3:
-					declare(ticks=30);
-					break;
-				case 4:
-					declare(ticks=20);
-					break;
-				case 5:
-					declare(ticks=15);
-					break;
-				default:
-					declare(ticks=10);
-					break;
-			}
-			if($t > 5){
-				break;
-			}
-			$this->ticks = 0;
-			while($this->ticks < 20){
-				usleep(1);
-			}
-			
-			if($this->getTPS() < 19.5){
-				++$t;
-			}else{
-				break;
-			}
-		}
+		declare(ticks=5000); //Minimum TPS for main thread locks
 
 		$this->loadEvents();
 		register_shutdown_function(array($this, "dumpError"));
@@ -431,10 +388,32 @@ class PocketMinecraftServer{
 		if($this->stop === true){
 			return;
 		}
-		console("[ERROR] An Unrecovereable has ocurred and the server has Crashed. Creating an Error Dump");
+		console("[SEVERE] An unrecovereable has ocurred and the server has crashed. Creating an error dump");
 		$dump = "```\r\n# PocketMine-MP Error Dump ".date("D M j H:i:s T Y")."\r\n";
 		$er = error_get_last();
+		$errorConversion = array(
+			E_ERROR => "E_ERROR",
+			E_WARNING => "E_WARNING",
+			E_PARSE => "E_PARSE",
+			E_NOTICE => "E_NOTICE",
+			E_CORE_ERROR => "E_CORE_ERROR",
+			E_CORE_WARNING => "E_CORE_WARNING",
+			E_COMPILE_ERROR => "E_COMPILE_ERROR",
+			E_COMPILE_WARNING => "E_COMPILE_WARNING",
+			E_USER_ERROR => "E_USER_ERROR",
+			E_USER_WARNING => "E_USER_WARNING",
+			E_USER_NOTICE => "E_USER_NOTICE",
+			E_STRICT => "E_STRICT",
+			E_RECOVERABLE_ERROR => "E_RECOVERABLE_ERROR",
+			E_DEPRECATED => "E_DEPRECATED",
+			E_USER_DEPRECATED => "E_USER_DEPRECATED",
+		);
+		$er["type"] = isset($errorConversion[$er["type"]]) ? $errorConversion[$er["type"]]:$er["type"];
 		$dump .= "Error: ".var_export($er, true)."\r\n\r\n";
+		if(stripos($er["file"], "plugin") !== false){
+			$dump .= "THIS ERROR WAS CAUSED BY A PLUGIN. REPORT IT TO THE PLUGIN DEVELOPER.\r\n";
+		}
+		
 		$dump .= "Code: \r\n";
 		$file = @file($er["file"], FILE_IGNORE_NEW_LINES);
 		for($l = max(0, $er["line"] - 10); $l < $er["line"] + 10; ++$l){
@@ -442,7 +421,7 @@ class PocketMinecraftServer{
 		}
 		$dump .= "\r\n\r\n";
 		$version = new VersionString();
-		$dump .= "PocketMine-MP version: ".$version." #".$version->getNumber()." [Protocol ".CURRENT_PROTOCOL."; API ".CURRENT_API_VERSION."]\r\n";
+		$dump .= "PocketMine-MP version: ".$version." #".$version->getNumber()." [Protocol ".ProtocolInfo::CURRENT_PROTOCOL."; API ".CURRENT_API_VERSION."]\r\n";
 		$dump .= "Git commit: ".GIT_COMMIT."\r\n";
 		$dump .= "Source SHA1 sum: ".SOURCE_SHA1SUM."\r\n";
 		$dump .= "uname -a: ".php_uname("a")."\r\n";
@@ -465,7 +444,13 @@ class PocketMinecraftServer{
 			}
 			$dump .= "\r\n\r\n";
 		}
-		$dump .= "Loaded Modules: ".var_export(get_loaded_extensions(), true)."\r\n";
+		
+		$extensions = array();
+		foreach(get_loaded_extensions() as $ext){
+			$extensions[$ext] = phpversion($ext);
+		}
+		
+		$dump .= "Loaded Modules: ".var_export($extensions, true)."\r\n";
 		$dump .= "Memory Usage Tracking: \r\n".chunk_split(base64_encode(gzdeflate(implode(";", $this->memoryStats), 9)))."\r\n";
 		ob_start();
 		phpinfo();
@@ -474,7 +459,7 @@ class PocketMinecraftServer{
 		$dump .= "\r\n```";
 		$name = "Error_Dump_".date("D_M_j-H.i.s-T_Y");
 		logg($dump, $name, true, 0, true);
-		console("[ERROR] Please submit the \"{$name}.log\" file to the Bug Reporting page. Give as much info as you can.", true, true, 0);
+		console("[SEVERE] Please submit the \"{$name}.log\" file to the Bug Reporting page. Give as much info as you can.", true, true, 0);
 	}
 
 	public function tick(){
@@ -488,29 +473,30 @@ class PocketMinecraftServer{
 	}
 
 	public static function clientID($ip, $port){
-		//faster than string indexes in PHP
 		return crc32($ip . $port) ^ crc32($port . $ip . BOOTUP_RANDOM);
+		//return $ip . ":" . $port;
 	}
 
-	public function packetHandler($packet){
-		$data =& $packet["data"];
-		$CID = PocketMinecraftServer::clientID($packet["ip"], $packet["port"]);
+	public function packetHandler(Packet $packet){
+		$data =& $packet;
+		$CID = PocketMinecraftServer::clientID($packet->ip, $packet->port);
 		if(isset($this->clients[$CID])){
-			$this->clients[$CID]->handlePacket($packet["pid"], $data);
+			$this->clients[$CID]->handlePacket($packet);
 		}else{
-			if($this->handle("server.noauthpacket", $packet) === false){
+			if($this->handle("server.noauthpacket.".$packet->pid(), $packet) === false){
 				return;
 			}
-			switch($packet["pid"]){
-				case 0x01:
-				case 0x02:
+			switch($packet->pid()){
+				case RakNetInfo::UNCONNECTED_PING:
+				case RakNetInfo::UNCONNECTED_PING_OPEN_CONNECTIONS:
 					if($this->invisible === true){
-						$this->send(0x1c, array(
-							$data[0],
-							$this->serverID,
-							RAKNET_MAGIC,
-							$this->serverType,
-						), false, $packet["ip"], $packet["port"]);
+						$pk = new RakNetPacket(RakNetInfo::UNCONNECTED_PONG);
+						$pk->pingID = $packet->pingID;
+						$pk->serverID = $this->serverID;
+						$pk->serverType = $this->serverType;
+						$pk->ip = $packet->ip;
+						$pk->port = $packet->port;
+						$this->send($pk);
 						break;
 					}
 					if(!isset($this->custom["times_".$CID])){
@@ -522,64 +508,59 @@ class PocketMinecraftServer{
 					}
 					$txt = substr($this->description, $this->custom["times_".$CID], $ln);
 					$txt .= substr($this->description, 0, $ln - strlen($txt));
-					$this->send(0x1c, array(
-						$data[0],
-						$this->serverID,
-						RAKNET_MAGIC,
-						$this->serverType. $this->name . " [".count($this->clients)."/".$this->maxClients."] ".$txt,
-					), false, $packet["ip"], $packet["port"]);
+					$pk = new RakNetPacket(RakNetInfo::UNCONNECTED_PONG);
+					$pk->pingID = $packet->pingID;
+					$pk->serverID = $this->serverID;
+					$pk->serverType = $this->serverType . $this->name . " [".count($this->clients)."/".$this->maxClients."] ".$txt;
+					$pk->ip = $packet->ip;
+					$pk->port = $packet->port;
+					$this->send($pk);
 					$this->custom["times_".$CID] = ($this->custom["times_".$CID] + 1) % strlen($this->description);
 					break;
-				case 0x05:
-					$version = $data[1];
-					$size = strlen($data[2]);
-					if($version !== CURRENT_STRUCTURE){
-						console("[DEBUG] Incorrect structure #$version from ".$packet["ip"].":".$packet["port"], true, true, 2);
-						$this->send(0x1a, array(
-							CURRENT_STRUCTURE,
-							RAKNET_MAGIC,
-							$this->serverID,
-						), false, $packet["ip"], $packet["port"]);
+				case RakNetInfo::OPEN_CONNECTION_REQUEST_1:
+					if($packet->structure !== RakNetInfo::STRUCTURE){
+						console("[DEBUG] Incorrect structure #".$packet->structure." from ".$packet->ip.":".$packet->port, true, true, 2);
+						$pk = new RakNetPacket(RakNetInfo::INCOMPATIBLE_PROTOCOL_VERSION);
+						$pk->serverID = $this->serverID;
+						$pk->ip = $packet->ip;
+						$pk->port = $packet->port;
+						$this->send($pk);
 					}else{
-						$this->send(0x06, array(
-							RAKNET_MAGIC,
-							$this->serverID,
-							0,
-							strlen($packet["raw"]),
-						), false, $packet["ip"], $packet["port"]);
+						$pk = new RakNetPacket(RakNetInfo::OPEN_CONNECTION_REPLY_1);
+						$pk->serverID = $this->serverID;
+						$pk->mtuSize = strlen($packet->buffer);
+						$pk->ip = $packet->ip;
+						$pk->port = $packet->port;
+						$this->send($pk);
 					}
 					break;
-				case 0x07:
+				case RakNetInfo::OPEN_CONNECTION_REQUEST_2:
 					if($this->invisible === true){
 						break;
 					}
-					$port = $data[2];
-					$MTU = $data[3];
-					$clientID = $data[4];
-					if(count($this->clients) < $this->maxClients){
-						$this->clients[$CID] = new Player($clientID, $packet["ip"], $packet["port"], $MTU); //New Session!
-						$this->send(0x08, array(
-							RAKNET_MAGIC,
-							$this->serverID,
-							$this->port,
-							$data[3],
-							0,
-						), false, $packet["ip"], $packet["port"]);
-					}
+					
+					$this->clients[$CID] = new Player($packet->clientID, $packet->ip, $packet->port, $packet->mtuSize); //New Session!
+					$pk = new RakNetPacket(RakNetInfo::OPEN_CONNECTION_REPLY_2);
+					$pk->serverID = $this->serverID;
+					$pk->port = $this->port;
+					$pk->mtuSize = $packet->mtuSize;
+					$pk->ip = $packet->ip;
+					$pk->port = $packet->port;
+					$this->send($pk);
 					break;
 			}
 		}
 	}
 
-	public function send($pid, $data = array(), $raw = false, $dest = false, $port = false){
-		return $this->interface->writePacket($pid, $data, $raw, $dest, $port);
+	public function send(Packet $packet){
+		return $this->interface->writePacket($packet);
 	}
 
 	public function process(){
 		$lastLoop = 0;
 		while($this->stop === false){
 			$packet = $this->interface->readPacket();
-			if($packet !== false){
+			if($packet instanceof Packet){
 				$this->packetHandler($packet);
 				$lastLoop = 0;
 			}else{
@@ -594,6 +575,7 @@ class PocketMinecraftServer{
 					usleep(10000);
 				}
 			}
+			$this->tick();
 		}
 	}
 
@@ -643,11 +625,10 @@ class PocketMinecraftServer{
 				$this->preparedSQL->updateAction->bindValue(":time", $time, SQLITE3_FLOAT);
 				$this->preparedSQL->updateAction->bindValue(":id", $cid, SQLITE3_INTEGER);
 				$this->preparedSQL->updateAction->execute();
-				$schedule = $this->schedule[$cid];
-				if(!is_callable($schedule[0])){
+				if(!@is_callable($this->schedule[$cid][0])){
 					$return = false;
 				}else{
-					$return = call_user_func($schedule[0], $schedule[1], $schedule[2]);
+					$return = call_user_func($this->schedule[$cid][0], $this->schedule[$cid][1], $this->schedule[$cid][2]);
 				}
 
 				if($action["repeat"] == 0 or $return === false){

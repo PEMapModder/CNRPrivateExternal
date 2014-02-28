@@ -283,7 +283,7 @@ class PMFLevel extends PMF{
 			return str_repeat("\x00", 8192);
 		}
 		$index = $this->getIndex($X, $Z);
-		if($this->chunks[$index][$Y] === false){
+		if(!isset($this->chunks[$index][$Y]) or $this->chunks[$index][$Y] === false){
 			return str_repeat("\x00", 8192);
 		}
 		return $this->chunks[$index][$Y];
@@ -467,14 +467,15 @@ class PMFLevel extends PMF{
 				++$this->chunkChange[$index][$Y];
 			}
 			$this->chunkChange[$index][-1] = true;
-			if($old_b instanceof LiquidBlock)
-			{
+			if($old_b instanceof LiquidBlock){
 				$pos = new Position($x, $y, $z, $this->level);
-				for($side = 0; $side <= 5; ++$side)
-				{
+				for($side = 0; $side <= 5; ++$side){
 					$b = $pos->getSide($side);
-					if($b instanceof LavaBlock) { ServerAPI::request()->api->block->scheduleBlockUpdate(new Position($b, 0, 0, $this->level), 40, BLOCK_UPDATE_NORMAL); }
-					else { ServerAPI::request()->api->block->scheduleBlockUpdate(new Position($b, 0, 0, $this->level), 10, BLOCK_UPDATE_NORMAL); }
+					if($b instanceof LavaBlock){
+						ServerAPI::request()->api->block->scheduleBlockUpdate(new Position($b, 0, 0, $this->level), 40, BLOCK_UPDATE_NORMAL);
+					}else{
+						ServerAPI::request()->api->block->scheduleBlockUpdate(new Position($b, 0, 0, $this->level), 10, BLOCK_UPDATE_NORMAL);
+					}
 				}
 			}
 			return true;

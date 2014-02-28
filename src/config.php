@@ -21,27 +21,35 @@
 
 set_time_limit(0);
 
-date_default_timezone_set("GMT");
-if(strpos(" ".strtoupper(php_uname("s")), " WIN") !== false){
-	$time = time();
-	$time -= $time % 60;
-	exec("time.exe /T", $hour);
-	$i = array_map("intval", explode(":", trim($hour[0])));
-	exec("date.exe /T", $date);
-	$j = array_map("intval", explode(substr($date[0], 2, 1), trim($date[0])));
-	$offset = round((mktime($i[0], $i[1], 0, $j[1], $j[0], $j[2]) - $time) / 60) * 60;
+if(ini_get("date.timezone") == ""){ //No Timezone set
+	date_default_timezone_set("GMT");
+	if(strpos(" ".strtoupper(php_uname("s")), " WIN") !== false){
+		$time = time();
+		$time -= $time % 60;
+		//TODO: Parse different time & date formats by region. ¬¬ world
+		//Example: USA
+		exec("time.exe /T", $hour);
+		$i = array_map("intval", explode(":", trim($hour[0])));
+		exec("date.exe /T", $date);
+		$j = array_map("intval", explode(substr($date[0], 2, 1), trim($date[0])));
+		$offset = round((mktime($i[0], $i[1], 0, $j[1], $j[0], $j[2]) - $time) / 60) * 60;
+	}else{
+		exec("date +%s", $t);
+		$offset = round((intval(trim($t[0])) - time()) / 60) * 60;
+	}
+
+	$daylight = (int) date("I");
+	$d = timezone_name_from_abbr("", $offset, $daylight);
+	@ini_set("date.timezone", $d);
+	date_default_timezone_set($d);
 }else{
-	exec("date +%s", $t);
-	$offset = round((intval(trim($t[0])) - time()) / 60) * 60;
+	$d = @date_default_timezone_get();
+	if(strpos($d, "/") === false){
+		$d = timezone_name_from_abbr($d);
+		@ini_set("date.timezone", $d);
+		date_default_timezone_set($d);
+	}
 }
-
-$daylight = (int) date("I");
-
-if($daylight === 0){
-	$offset -= 3600;
-}
-
-date_default_timezone_set(timezone_name_from_abbr("", $offset, $daylight));
 
 gc_enable();
 error_reporting(E_ALL | E_STRICT);
@@ -59,10 +67,10 @@ set_include_path(get_include_path() . PATH_SEPARATOR . FILE_PATH);
 ini_set("memory_limit", "128M"); //Default
 define("LOG", true);
 define("START_TIME", microtime(true));
-define("MAJOR_VERSION", "Alpha_1.3.11");
-define("CODENAME", "甘いビートルート");
+define("MAJOR_VERSION", "Alpha_1.3.12");
+define("CODENAME", "甘い(Amai)ビートルート(Beetroot)");
 define("CURRENT_MINECRAFT_VERSION", "v0.8.1 alpha");
-define("CURRENT_API_VERSION", 11);
+define("CURRENT_API_VERSION", 12);
 define("CURRENT_PHP_VERSION", "5.5");
 $gitsha1 = false;
 if(file_exists(FILE_PATH.".git/refs/heads/master")){ //Found Git information!

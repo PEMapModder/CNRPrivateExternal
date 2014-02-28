@@ -28,7 +28,42 @@ class Utils{
 	public static $ip = false;
 	
 	public static function isOnline(){
-		return ((@fsockopen("google.com", 80, $e = null, $n = null, 2) !== false or @fsockopen("www.linux.org", 80, $e = null, $n = null, 2) !== false or @fsockopen("www.php.net", 80, $e = null, $n = null, 2) !== false) ? true:false);
+		return ((@fsockopen("8.8.8.8", 80, $e = null, $n = null, 2) !== false or @fsockopen("www.linux.org", 80, $e = null, $n = null, 2) !== false or @fsockopen("www.php.net", 80, $e = null, $n = null, 2) !== false) ? true:false);
+	}
+	
+	public static function getCallableIdentifier(callable $variable){
+		if(is_array($variable)){
+			return sha1(strtolower(get_class($variable[0]))."::".strtolower($variable[1]));
+		}else{
+			return sha1(strtolower($variable));
+		}
+	}
+	
+	public static function getUniqueID($raw = false, $extra = ""){
+		$machine = php_uname("a");
+		$machine .= file_exists("/proc/cpuinfo") ? file_get_contents("/proc/cpuinfo") : "";		
+		$machine .= sys_get_temp_dir();
+		$machine .= $extra;
+		if(Utils::getOS() == "win"){
+			exec("ipconfig /ALL", $mac);
+			$mac = implode("\n", $mac);
+			if(preg_match_all("#Physical Address[. ]{1,}: ([0-9A-F\-]{17})#", $mac, $matches)){
+				foreach($matches[1] as $i => $v){
+					if($v == "00-00-00-00-00-00"){
+						unset($matches[1][$i]);
+					}
+				}
+				$machine .= implode(" ", $matches[1]); //Mac Addresses
+			}
+		}
+		$data = $machine . PHP_MAXPATHLEN;
+		$data .= PHP_INT_MAX;
+		$data .= PHP_INT_SIZE;
+		$data .= get_current_user();
+		foreach(get_loaded_extensions() as $ext){
+			$data .= $ext.":".phpversion($ext);
+		}
+		return hash("md5", $machine, $raw).hash("sha512", $data, $raw);
 	}
 	
 	public static function getIP($force = false){
@@ -63,13 +98,23 @@ class Utils{
 	}
 
 	public static function getOS(){
-		$uname = trim(strtoupper(php_uname("s")));
-		if(strpos($uname, "DARWIN") !== false){
-			return "mac";
-		}elseif(strpos($uname, "WIN") !== false){
+		$uname = php_uname("s");
+		if(stripos($uname, "Darwin") !== false){
+			if(strpos(php_uname("m"), "iP") === 0){
+				return "ios";
+			}else{
+				return "mac";
+			}
+		}elseif(stripos($uname, "Win") !== false or $uname === "Msys"){
 			return "win";
-		}elseif(strpos($uname, "LINUX") !== false){
-			return "linux";
+		}elseif(stripos($uname, "Linux") !== false){
+			if(@file_exists("/system/build.prop")){
+				return "android";
+			}else{
+				return "linux";
+			}
+		}elseif(stripos($uname, "BSD") !== false or $uname === "DragonFly"){
+			return "bsd";
 		}else{
 			return "other";
 		}
@@ -94,7 +139,7 @@ class Utils{
 	}
 
 	public static function readTriad($str){
-		list(,$unpacked) = unpack("N", "\x00".$str);
+		list(,$unpacked) = @unpack("N", "\x00".$str);
 		return $unpacked;
 	}
 
@@ -430,7 +475,7 @@ class Utils{
 	}
 
 	public static function readShort($str, $signed = true){
-		list(,$unpacked) = unpack("n", $str);
+		list(,$unpacked) = @unpack("n", $str);
 		if($unpacked > 0x7fff and $signed === true){
 			$unpacked -= 0x10000; // Convert unsigned short to signed short
 		}
@@ -445,7 +490,7 @@ class Utils{
 	}
 
 	public static function readLShort($str, $signed = true){
-		list(,$unpacked) = unpack("v", $str);
+		list(,$unpacked) = @unpack("v", $str);
 		if($unpacked > 0x7fff and $signed === true){
 			$unpacked -= 0x10000; // Convert unsigned short to signed short
 		}
@@ -460,7 +505,7 @@ class Utils{
 	}
 
 	public static function readInt($str){
-		list(,$unpacked) = unpack("N", $str);
+		list(,$unpacked) = @unpack("N", $str);
 		if($unpacked >= 2147483648){
 			$unpacked -= 4294967296;
 		}
@@ -475,7 +520,7 @@ class Utils{
 	}
 
 	public static function readLInt($str){
-		list(,$unpacked) = unpack("V", $str);
+		list(,$unpacked) = @unpack("V", $str);
 		if($unpacked >= 2147483648){
 			$unpacked -= 4294967296;
 		}
@@ -490,7 +535,7 @@ class Utils{
 	}
 
 	public static function readFloat($str){
-		list(,$value) = ENDIANNESS === BIG_ENDIAN ? unpack("f", $str):unpack("f", strrev($str));
+		list(,$value) = ENDIANNESS === BIG_ENDIAN ? @unpack("f", $str):@unpack("f", strrev($str));
 		return $value;
 	}
 
@@ -499,7 +544,7 @@ class Utils{
 	}
 
 	public static function readLFloat($str){
-		list(,$value) = ENDIANNESS === BIG_ENDIAN ? unpack("f", strrev($str)):unpack("f", $str);
+		list(,$value) = ENDIANNESS === BIG_ENDIAN ? @unpack("f", strrev($str)):@unpack("f", $str);
 		return $value;
 	}
 
@@ -512,7 +557,7 @@ class Utils{
 	}
 
 	public static function readDouble($str){
-		list(,$value) = ENDIANNESS === BIG_ENDIAN ? unpack("d", $str):unpack("d", strrev($str));
+		list(,$value) = ENDIANNESS === BIG_ENDIAN ? @unpack("d", $str):@unpack("d", strrev($str));
 		return $value;
 	}
 
@@ -521,7 +566,7 @@ class Utils{
 	}
 
 	public static function readLDouble($str){
-		list(,$value) = ENDIANNESS === BIG_ENDIAN ? unpack("d", strrev($str)):unpack("d", $str);
+		list(,$value) = ENDIANNESS === BIG_ENDIAN ? @unpack("d", strrev($str)):@unpack("d", $str);
 		return $value;
 	}
 
@@ -542,7 +587,7 @@ class Utils{
 
 		for($i = 0; $i < 8; $i += 4){
 			$value = bcmul($value, "4294967296", 0); //4294967296 == 2^32
-			$value = bcadd($value, 0x1000000 * ord($x{$i}) + ((ord($x{$i + 1}) << 16) | (ord($x{$i + 2}) << 8) | ord($x{$i + 3})), 0);
+			$value = bcadd($value, 0x1000000 * ord(@$x{$i}) + ((ord(@$x{$i + 1}) << 16) | (ord(@$x{$i + 2}) << 8) | ord(@$x{$i + 3})), 0);
 		}
 		return ($negative === true ? "-".$value:$value);
 	}

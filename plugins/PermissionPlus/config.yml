@@ -1,5 +1,5 @@
 ---
-notice: true
+notice: false
 autoop: false
 cmd-whitelist: true
 player:
@@ -25,6 +25,21 @@ player:
   grin_fighter: WATCH
   isuperrrrrr: BUILD
   StredAbcdEfgh: GUEST
+  lambos: GUEST
+  SpaceGrace523: GUEST
+  shit: GUEST
+  XKTiVerz: WEBLD
+  x: WEBLD
+  12458_MC: GUEST
+  GMjimboo: GUEST
+  1The_Killer_Guy1: GUEST
+  JassperBeastHD: GUEST
+  AnthonyMuncher: GUEST
+  1234Agamer: GUEST
+  DannyTaylor: GUEST
+  Apocalypse_Pig: GUEST
+  DannyTaylor_28: GUEST
+  Come_on_nvm: GUEST
 permission:
   GUEST: true
   TRUST: true
@@ -35,13 +50,13 @@ permission:
   WATCH: true
   WEBLD: true
 subcmd:
-  ADMIN: [ ]
-  TRUST: [ ]
-  GUEST: [ ]
-  OWNER: [ ]
-  BUILD: [ ]
-  TESTE: [ ]
-  WATCH: [ ]
+  ADMIN: []
+  TRUST: []
+  GUEST: []
+  OWNER: []
+  BUILD: []
+  TESTE: []
+  WATCH: []
 command:
   ADMIN:
     simpleworlds: false
@@ -88,6 +103,7 @@ command:
     getpos: false
     ppsub: false
     unregister: false
+    sync: true
   TRUST:
     simpleworlds: false
     login: true
@@ -133,6 +149,7 @@ command:
     getpos: false
     ppsub: false
     unregister: false
+    sync: false
   GUEST:
     simpleworlds: false
     login: true
@@ -178,6 +195,7 @@ command:
     getpos: false
     ppsub: false
     unregister: false
+    sync: false
   OWNER:
     simpleworlds: tru
     login: true
@@ -210,7 +228,7 @@ command:
     time: true
     tp: true
     whitelist: true
-    ppplayer: false
+    ppplayer: true
     ppcommand: false
     ppconfig: false
     noexplosion: false
@@ -223,6 +241,7 @@ command:
     getpos: true
     ppsub: false
     unregister: false
+    sync: true
   TESTE:
     simpleworlds: false
     login: true
@@ -268,6 +287,7 @@ command:
     getpos: false
     ppsub: false
     unregister: false
+    sync: false
   BUILD:
     simpleworlds: false
     login: true
@@ -313,6 +333,7 @@ command:
     getpos: false
     ppsub: false
     unregister: false
+    sync: true
   WATCH:
     simpleworlds: false
     login: true
@@ -358,6 +379,7 @@ command:
     getpos: false
     ppsub: false
     unregister: false
+    sync: true
   WEBLD:
     simpleworlds: false
     login: true
@@ -403,4 +425,6 @@ command:
     getpos: false
     ppsub: false
     unregister: false
+    sync: true
 version: 1.0.9
+...

@@ -78,10 +78,11 @@ class Level{
 		}
 		if($this->server->api->dhandle("time.change", array("level" => $this, "time" => $time)) !== false){
 			$this->time = $time;
-			$this->server->api->player->broadcastPacket($this->players, MC_SET_TIME, array(
-				"time" => (int) $this->time,
-				"started" => $this->stopTime == false,
-			));
+			
+			$pk = new SetTimePacket;
+			$pk->time = (int) $this->time;
+			$pk->started = $this->stopTime == false;
+			$this->server->api->player->broadcastPacket($this->players, $pk);
 		}
 	}
 	
@@ -109,13 +110,13 @@ class Level{
 			if(count($this->changedBlocks) > 0){
 				foreach($this->changedBlocks as $blocks){
 					foreach($blocks as $b){
-						$this->server->api->player->broadcastPacket($this->players, MC_UPDATE_BLOCK, array(
-							"x" => $b->x,
-							"y" => $b->y,
-							"z" => $b->z,
-							"block" => $b->getID(),
-							"meta" => $b->getMetadata(),
-						));
+						$pk = new UpdateBlockPacket;
+						$pk->x = $b->x;
+						$pk->y = $b->y;
+						$pk->z = $b->z;
+						$pk->block = $b->getID();
+						$pk->meta = $b->getMetadata();
+						$this->server->api->player->broadcastPacket($this->players, $pk);
 					}
 				}
 				$this->changedBlocks = array();
@@ -175,8 +176,8 @@ class Level{
 						$entities[] = array(
 							"id" => $entity->type,
 							"TileX" => $entity->x,
-							"TileX" => $entity->y,
-							"TileX" => $entity->z,
+							"TileY" => $entity->y,
+							"TileZ" => $entity->z,
 							"Health" => $entity->health,
 							"Motive" => $entity->data["Motive"],
 							"Pos" => array(
@@ -286,19 +287,22 @@ class Level{
 	public function setBlockRaw(Vector3 $pos, Block $block, $direct = true, $send = true){
 		if(($ret = $this->level->setBlock($pos->x, $pos->y, $pos->z, $block->getID(), $block->getMetadata())) === true and $send !== false){
 			if($direct === true){
-				$this->server->api->player->broadcastPacket($this->players, MC_UPDATE_BLOCK, array(
-					"x" => $pos->x,
-					"y" => $pos->y,
-					"z" => $pos->z,
-					"block" => $block->getID(),
-					"meta" => $block->getMetadata(),
-				));
+				$pk = new UpdateBlockPacket;
+				$pk->x = $pos->x;
+				$pk->y = $pos->y;
+				$pk->z = $pos->z;
+				$pk->block = $block->getID();
+				$pk->meta = $block->getMetadata();
+				$this->server->api->player->broadcastPacket($this->players, $pk);
 			}elseif($direct === false){
 				if(!($pos instanceof Position)){
 					$pos = new Position($pos->x, $pos->y, $pos->z, $this);
 				}
 				$block->position($pos);
 				$i = ($pos->x >> 4).":".($pos->y >> 4).":".($pos->z >> 4);
+				if(ADVANCED_CACHE == true){
+					Cache::remove("world:{$this->name}:".($pos->x >> 4).":".($pos->z >> 4));
+				}
 				if(!isset($this->changedBlocks[$i])){
 					$this->changedBlocks[$i] = array();
 					$this->changedCount[$i] = 0;
@@ -323,18 +327,21 @@ class Level{
 			$block->position($pos);
 
 			if($direct === true){
-				$this->server->api->player->broadcastPacket($this->players, MC_UPDATE_BLOCK, array(
-					"x" => $pos->x,
-					"y" => $pos->y,
-					"z" => $pos->z,
-					"block" => $block->getID(),
-					"meta" => $block->getMetadata(),
-				));
+				$pk = new UpdateBlockPacket;
+				$pk->x = $pos->x;
+				$pk->y = $pos->y;
+				$pk->z = $pos->z;
+				$pk->block = $block->getID();
+				$pk->meta = $block->getMetadata();
+				$this->server->api->player->broadcastPacket($this->players, $pk);
 			}else{
 				$i = ($pos->x >> 4).":".($pos->y >> 4).":".($pos->z >> 4);
 				if(!isset($this->changedBlocks[$i])){
 					$this->changedBlocks[$i] = array();
 					$this->changedCount[$i] = 0;
+				}
+				if(ADVANCED_CACHE == true){
+					Cache::remove("world:{$this->name}:".($pos->x >> 4).":".($pos->z >> 4));
 				}
 				$this->changedBlocks[$i][] = clone $block;
 				++$this->changedCount[$i];
@@ -365,6 +372,9 @@ class Level{
 			return false;
 		}
 		$this->changedCount[$X.":".$Y.":".$Z] = 4096;
+		if(ADVANCED_CACHE == true){
+			Cache::remove("world:{$this->name}:$X:$Z");
+		}
 		return $this->level->setMiniChunk($X, $Z, $Y, $data);
 	}
 	
@@ -379,13 +389,22 @@ class Level{
 		if(!isset($this->level)){
 			return false;
 		}
-		return $this->level->unloadChunk($X, $Z);
+		Cache::remove("world:{$this->name}:$X:$Z");
+		return $this->level->unloadChunk($X, $Z, $this->server->saveEnabled);
 	}
 
 	public function getOrderedChunk($X, $Z, $Yndex){
 		if(!isset($this->level)){
 			return false;
 		}
+		if(ADVANCED_CACHE == true and $Yndex == 0xff){
+			$identifier = "world:{$this->name}:$X:$Z";
+			if(($cache = Cache::get($identifier)) !== false){
+				return $cache;
+			}
+		}
+		
+		
 		$raw = array();
 		for($Y = 0; $Y < 8; ++$Y){
 			if(($Yndex & (1 << $Y)) > 0){
@@ -401,6 +420,9 @@ class Level{
 				$ordered .= substr($mini, $j << 5, 24); //16 + 8
 			}
 		}
+		if(ADVANCED_CACHE == true and $Yndex == 0xff){
+			Cache::add($identifier, $ordered, 60);
+		}		
 		return $ordered;
 	}
 
@@ -434,7 +456,10 @@ class Level{
 			$z = (int) round($spawn->z);
 			for(; $y > 0; --$y){
 				$v = new Vector3($x, $y, $z);
-				if(!($this->getBlock($v->getSide(0)) instanceof AirBlock)){
+				$b = $this->getBlock($v->getSide(0));
+				if($b === false){
+					return $spawn;
+				}elseif(!($b instanceof AirBlock)){
 					break;
 				}
 			}

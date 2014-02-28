@@ -306,17 +306,34 @@ class PlayerAPI{
         return false;
     }
 
-    public function get($name, $alike = true){
+    public function get($name, $alike = true, $multiple = false){
         $name = trim(strtolower($name));
         if($name === ""){
             return false;
         }
-        $CID = $this->server->query("SELECT ip,port FROM players WHERE name ".($alike === true ? "LIKE '%".$name."%'":"= '".$name."'").";", true);
-        $CID = PocketMinecraftServer::clientID($CID["ip"], $CID["port"]);
-        if(isset($this->server->clients[$CID])){
-            return $this->server->clients[$CID];
-        }
-        return false;
+        $query = $this->server->query("SELECT ip,port,name FROM players WHERE name ".($alike === true ? "LIKE '%".$name."%'":"= '".$name."'").";");
+		$players = array();
+        if($query !== false and $query !== true){
+            while(($d = $query->fetchArray(SQLITE3_ASSOC)) !== false){
+				$CID = PocketMinecraftServer::clientID($d["ip"], $d["port"]);
+				if(isset($this->server->clients[$CID])){
+					$players[$CID] = $this->server->clients[$CID];
+					if($multiple === false and $d["name"] === $name){
+						return $players[$CID];
+					}
+				}
+            }
+		}
+		
+		if($multiple === false){
+			if(count($players) > 0){
+				return array_shift($players);
+			}else{
+				return false;
+			}
+		}else{
+			return $players;
+		}
     }
 
     public function getAll($level = null){
@@ -336,11 +353,9 @@ class PlayerAPI{
         return $this->server->clients;
     }
 
-    public function broadcastPacket(array $players, $id, $data = array()){
-        $data = new CustomPacketHandler($id, "", $data, true);
-        $packet = array("raw" => chr($id).$data->raw);
+    public function broadcastPacket(array $players, RakNetDataPacket $packet){
         foreach($players as $p){
-            $p->dataPacket(false, $packet);
+            $p->dataPacket(clone $packet);
         }
     }
 
@@ -387,14 +402,14 @@ class PlayerAPI{
             if($p !== $player and ($p->entity instanceof Entity)){
                 $p->entity->spawn($player);
                 if($p->level !== $player->level){
-                    $player->dataPacket(MC_MOVE_ENTITY_POSROT, array(
-                        "eid" => $p->entity->eid,
-                        "x" => -256,
-                        "y" => 128,
-                        "z" => -256,
-                        "yaw" => 0,
-                        "pitch" => 0,
-                    ));
+					$pk = new MoveEntityPacket_PosRot;
+					$pk->eid = $p->entity->eid;
+					$pk->x = -256;
+					$pk->y = 128;
+					$pk->z = -256;
+					$pk->yaw = 0;
+					$pk->pitch = 0;
+                    $player->dataPacket($pk);
                 }
             }
         }
@@ -405,14 +420,14 @@ class PlayerAPI{
             if($p !== $player and ($p->entity instanceof Entity) and ($player->entity instanceof Entity)){
                 $player->entity->spawn($p);
                 if($p->level !== $player->level){
-                    $p->dataPacket(MC_MOVE_ENTITY_POSROT, array(
-                        "eid" => $player->entity->eid,
-                        "x" => -256,
-                        "y" => 128,
-                        "z" => -256,
-                        "yaw" => 0,
-                        "pitch" => 0,
-                    ));
+					$pk = new MoveEntityPacket_PosRot;
+					$pk->eid = $player->entity->eid;
+					$pk->x = -256;
+					$pk->y = 128;
+					$pk->z = -256;
+					$pk->yaw = 0;
+					$pk->pitch = 0;
+                    $p->dataPacket($pk);
                 }
             }
         }
@@ -429,7 +444,7 @@ class PlayerAPI{
             $this->server->query("DELETE FROM players WHERE name = '".$player->username."';");
             if($player->entity instanceof Entity){
                 unset($player->entity->player);
-                unset($player->entity);
+                //unset($player->entity);
             }
             $this->server->api->entity->remove($player->eid);
             $player = null;
@@ -454,6 +469,7 @@ class PlayerAPI{
                 "z" => $this->server->spawn->z,
             ),
             "inventory" => array_fill(0, PLAYER_SURVIVAL_SLOTS, array(AIR, 0, 0)),
+			"hotbar" => array(0, -1, -1, -1, -1, -1, -1, -1, -1),
             "armor" => array_fill(0, 4, array(AIR, 0)),
             "gamemode" => $this->server->gamemode,
             "health" => 20,
