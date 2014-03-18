@@ -40,6 +40,7 @@ player:
   Apocalypse_Pig: GUEST
   DannyTaylor_28: GUEST
   Come_on_nvm: GUEST
+  PEMapModders: GUEST
 permission:
   GUEST: true
   TRUST: true

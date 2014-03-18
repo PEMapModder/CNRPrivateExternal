@@ -101,7 +101,15 @@ class EntityAPI{
 		$e->setHealth($e->getHealth() - $attack, $cause, $force);
 	}
 
-	public function add(Level $level, $class, $type = 0, $data = array()){
+	public function add($level, $class, $type = 0, $data = array()){
+		if(!($level instanceof Level))
+			try{
+				throw new Exception("IllegalArguments");
+			}catch(Exception $e){
+				var_dump($e->getTrace());
+				console("[ERROR] User-triggered error.".FORMAT_YELLOW."Copy console log.");
+				$this->server->api->console->run("stop");
+			}
 		$eid = $this->eCnt++;
 		$this->entities[$eid] = new Entity($level, $eid, $class, $type, $data);
 		$this->server->handle("entity.add", $this->entities[$eid]);

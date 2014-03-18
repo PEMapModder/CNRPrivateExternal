@@ -388,6 +388,7 @@ class PocketMinecraftServer{
 		if($this->stop === true){
 			return;
 		}
+		ini_set("memory_limit", "-1"); //Fix error dump not dumped on memory problems
 		console("[SEVERE] An unrecovereable has ocurred and the server has crashed. Creating an error dump");
 		$dump = "```\r\n# PocketMine-MP Error Dump ".date("D M j H:i:s T Y")."\r\n";
 		$er = error_get_last();
@@ -413,11 +414,16 @@ class PocketMinecraftServer{
 		if(stripos($er["file"], "plugin") !== false){
 			$dump .= "THIS ERROR WAS CAUSED BY A PLUGIN. REPORT IT TO THE PLUGIN DEVELOPER.\r\n";
 		}
-		
+
 		$dump .= "Code: \r\n";
 		$file = @file($er["file"], FILE_IGNORE_NEW_LINES);
 		for($l = max(0, $er["line"] - 10); $l < $er["line"] + 10; ++$l){
 			$dump .= "[".($l + 1)."] ".@$file[$l]."\r\n";
+		}
+		$dump .= "\r\n\r\n";
+		$dump .= "Backtrace: \r\n";
+		foreach(getTrace() as $line){
+			$dump .= "$line\r\n";
 		}
 		$dump .= "\r\n\r\n";
 		$version = new VersionString();
@@ -444,13 +450,14 @@ class PocketMinecraftServer{
 			}
 			$dump .= "\r\n\r\n";
 		}
-		
+
 		$extensions = array();
 		foreach(get_loaded_extensions() as $ext){
 			$extensions[$ext] = phpversion($ext);
 		}
-		
+
 		$dump .= "Loaded Modules: ".var_export($extensions, true)."\r\n";
+		$this->checkMemory();
 		$dump .= "Memory Usage Tracking: \r\n".chunk_split(base64_encode(gzdeflate(implode(";", $this->memoryStats), 9)))."\r\n";
 		ob_start();
 		phpinfo();
@@ -461,7 +468,6 @@ class PocketMinecraftServer{
 		logg($dump, $name, true, 0, true);
 		console("[SEVERE] Please submit the \"{$name}.log\" file to the Bug Reporting page. Give as much info as you can.", true, true, 0);
 	}
-
 	public function tick(){
 		$time = microtime(true);
 		if($this->lastTick <= ($time - 0.05)){
